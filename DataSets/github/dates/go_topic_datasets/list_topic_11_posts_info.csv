@@ -1,0 +1,17 @@
+links,type,state,creation date,updated date,closed date,comment count,user count
+https://api.github.com/repos/bettercap/bettercap/issues/483,issue,closed,2019-03-12T05:04:16Z,2019-03-19T03:01:20Z,2019-03-17T11:20:45Z,7,1
+https://api.github.com/repos/kubernetes/kubeadm/issues/1080,issue,closed,2018-08-28T15:59:49Z,2018-08-28T17:03:19Z,2018-08-28T17:03:19Z,2,1
+https://api.github.com/repos/golang/go/issues/36167,issue,closed,2019-12-16T20:44:50Z,2020-01-10T19:53:41Z,2019-12-17T16:54:42Z,5,4
+https://api.github.com/repos/rancher/rancher/issues/13763,issue,open,2018-05-29T19:36:22Z,2019-12-24T10:04:31Z,,0,0
+https://api.github.com/repos/kata-containers/runtime/issues/2259,pr,closed,2019-11-25T07:44:22Z,2019-11-25T08:16:58Z,2019-11-25T08:16:57Z,1,0
+https://api.github.com/repos/bettercap/bettercap/issues/229,issue,closed,2018-04-15T01:35:13Z,2018-04-15T11:56:18Z,2018-04-15T11:56:18Z,1,1
+https://api.github.com/repos/minio/minio/issues/7987,issue,closed,2019-07-29T15:38:51Z,2019-07-29T17:47:45Z,2019-07-29T17:47:45Z,1,1
+https://api.github.com/repos/elastic/beats/issues/14663,issue,closed,2019-11-20T17:20:58Z,2020-02-05T15:28:56Z,2020-02-05T15:28:56Z,1,1
+https://api.github.com/repos/zalando/skipper/issues/1300,pr,closed,2020-02-10T16:54:23Z,2020-02-11T11:03:03Z,2020-02-11T11:03:00Z,2,1
+https://api.github.com/repos/bettercap/bettercap/issues/300,issue,closed,2018-07-20T04:06:51Z,2019-12-23T03:18:57Z,2018-07-20T06:07:28Z,6,2
+https://api.github.com/repos/argoproj/argo-cd/issues/438,issue,closed,2018-07-20T08:06:26Z,2018-07-23T14:53:06Z,2018-07-23T14:53:06Z,0,0
+https://api.github.com/repos/rancher/rancher/issues/8338,issue,closed,2017-03-29T08:17:22Z,2017-03-29T09:51:44Z,2017-03-29T09:51:44Z,1,1
+https://api.github.com/repos/cockroachdb/cockroach/issues/46958,issue,open,2020-04-03T07:45:29Z,2020-04-03T07:54:25Z,,0,0
+https://api.github.com/repos/influxdata/influxdb/issues/3650,pr,closed,2015-08-13T21:37:05Z,2015-08-13T21:40:55Z,2015-08-13T21:40:52Z,1,1
+https://api.github.com/repos/fnproject/fn/issues/1353,pr,closed,2018-12-14T20:51:48Z,2018-12-17T17:15:33Z,2018-12-17T17:15:33Z,2,1
+https://api.github.com/repos/elastic/beats/issues/16121,pr,closed,2020-02-05T23:09:20Z,2020-02-07T19:55:28Z,2020-02-07T19:51:46Z,1,1

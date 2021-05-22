@@ -1,0 +1,70 @@
+TOPIC 0: 
+issue 3431
+pr 1655
+
+
+TOPIC 1: 
+pr 1817
+issue 315
+
+
+TOPIC 2: 
+issue 360
+pr 52
+
+
+TOPIC 3: 
+issue 641
+pr 80
+
+
+TOPIC 4: 
+issue 614
+pr 127
+
+
+TOPIC 5: 
+issue 424
+pr 205
+
+
+TOPIC 6: 
+issue 606
+pr 209
+
+
+TOPIC 7: 
+issue 67
+pr 33
+
+
+TOPIC 8: 
+issue 1326
+pr 338
+
+
+TOPIC 9: 
+issue 119
+pr 28
+
+
+TOPIC 10: 
+issue 72
+pr 23
+
+
+TOPIC 11: 
+issue 279
+pr 11
+
+
+TOPIC 12: 
+issue 433
+pr 96
+
+
+TOPIC 13: 
+pr 234
+issue 52
+
+

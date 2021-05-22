@@ -1,0 +1,18 @@
+Topic ID,Top Words,Category,Sub-Category,Specifics
+TOPIC 0, string encod valu byte charact base64 java decod array convert ,Cryptography,Encoding,
+TOPIC 1, cipher provid sourc support suit algorithm bouncycastl bounci castl xml ,Cryptography,Encryption,Cryptography Libraries
+TOPIC 2, android app googl saml devic idp sign applic sp io ,Secure Development,Implementation,Mobile App Development
+TOPIC 3, signatur java sign use secur gener need implement data make ,Data Security,Digital Signature,
+TOPIC 4, server client connect ssl http tomcat send truststor use configur ,Network Security,Client/Server,
+TOPIC 5, java tri code work use error follow problem help chang ,Secure Development,Testing,
+TOPIC 6, encrypt decrypt key ae java use data byte code pad ,Cryptography,Encryption,
+TOPIC 7, certif keystor ssl trust sign ca cert valid import tl ,Network Security,Digital Certificates,
+TOPIC 8, file java jar run secur applet applic window access script ,Secure Development,Implementation,
+TOPIC 9, spring secur configur custom filter boot implement use applic control ,Secure Development,Libraries/Configuration,Spring Security
+TOPIC 10, login page cooki session user url redirect form request log ,Access Control,Authentication,Login Page
+TOPIC 11, databa valid queri sql mysql tabl inject jdbc db hibern ,Software Vulnerabilities,Network Exploits,SQL Injection
+TOPIC 12, token request authent servic api rest oauth header client author ,Access Control,Tokens,Token-Authentication
+TOPIC 13, key public privat use gener file rsa java openssl format ,Cryptography,Encryption,Public & Private Key
+TOPIC 14, method class object thread return test creat instanc null pass ,Software Vulnerabilities,Race Condition,Thread & Type Safety
+TOPIC 15, user authent applic ldap credenti access use need login provid ,Access Control,Authentication,Credentials
+TOPIC 16, password hash store usernam salt use md5 user java valu ,Data Security,Password/Data Storage,

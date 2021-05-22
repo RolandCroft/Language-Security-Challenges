@@ -1,0 +1,12 @@
+Topic ID,Top Words,Category,Sub-Category,Specifics
+TOPIC 0,server sha tl cipher client rsa ae connect support cve ,Network Security,Client/Server,server connection authentication
+TOPIC 1,make code think block unsaf need use chang safe list,Secure Development,Implementation,software implementation(code security)
+TOPIC 2,error root apk backdoor com origin layout valu packag resourc,Secure Development,Libraries/Configuration,Android apk security
+TOPIC 3,certif ssl cert domain echo ldap let key letsencrypt server,Network Security,Digital Certificates,ssl security certificate
+TOPIC 4,work docker thank tri use imag contain file need problem,Secure Development,Libraries/Configuration,docker image security
+TOPIC 5,version openssl build instal fix linux file salt lib python,Secure Development,Libraries/Configuration,openssl library
+TOPIC 6,request plea pull bug report commit link app fix new ,Secure Development,GitHub/Reports,
+TOPIC 7,script instal file run updat test user encrypt download nextcloud,Secure Development,Libraries/Configuration,server security configuration
+TOPIC 8,password ssh user key command default run login use chang ,Network Security,Client/Server,Remote access
+TOPIC 9,sign thank login close github updat author check provid trust,Secure Development,GitHub/Reports,git configuration
+TOPIC 10,hash use implement think key secur function attack case base ,Data Security,Password/Data Storage,hash storage implementation

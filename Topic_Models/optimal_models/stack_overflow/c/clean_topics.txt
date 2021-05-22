@@ -1,0 +1,13 @@
+TOPIC 0: hash function use implement algorithm md5 salt crypt gener tabl 
+TOPIC 1: key openssl rsa use public privat signatur gener code file 
+TOPIC 2: openssl use librari code file compil function error tri sourc 
+TOPIC 3: certif sign verifi openssl ca valid check trust use chain 
+TOPIC 4: server client ssl connect use socket send authent tri openssl 
+TOPIC 5: signal handler function thread process safe code interrupt block program 
+TOPIC 6: crc checksum crc32 calcul polynomi sql crc-32 onlin crc8 inject 
+TOPIC 7: encrypt decrypt byte use code ae openssl file data block 
+TOPIC 8: password key encrypt use user secur need want file data 
+TOPIC 9: function string return valu use pointer code array type char 
+TOPIC 10: file zip intel protect sha password cryptoj section haskel power8 
+TOPIC 11: java jni sun unpad pkcs7 pkcs#7 legaci interop hth nullptr 
+TOPIC 12: code program buffer secur address execut run file memori string 

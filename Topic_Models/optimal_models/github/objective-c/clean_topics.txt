@@ -1,0 +1,14 @@
+TOPIC 0: login user email auth log sign app cooki googl use 
+TOPIC 1: fix leak memori credenti deleg relea wrong messag time crash 
+TOPIC 2: error id io client sandbox account sdk app plea tri 
+TOPIC 3: key app hash gener bundl facebook updat sha copi android 
+TOPIC 4: request fix sign thank pull encod use look author chang 
+TOPIC 5: password master usernam chang enter app field user use exten 
+TOPIC 6: use token user aw provid plea ident follow sdk cognito 
+TOPIC 7: connect ssh date author host server use tri work pro 
+TOPIC 8: encrypt implement method decrypt work object block use ae actual 
+TOPIC 9: sign updat app code build xcode script version signatur run 
+TOPIC 10: file key databa support use privat protect store keychain thank 
+TOPIC 11: certif server ssl valid work use cert self pin trust 
+TOPIC 12: version authent app user url behavior expect devic test case 
+TOPIC 13: type data ssh packet send read use channel work process 

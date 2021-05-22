@@ -1,0 +1,288 @@
+access control
+access-control
+access role
+access-role
+adware
+adversarial
+malware
+spyware
+ransomware
+aes
+antivirus
+anti-virus
+asset
+audit
+authority
+authorise
+availability
+bitlocker
+biometric
+blacklist
+black list
+botnet
+buffer overflow
+buffer-overflow
+burp
+ctf
+capture the flag
+capture-the-flag
+cbc
+certificate
+checksum
+cipher
+clearance
+confidential
+clickfraud
+click fraud
+click-fraud
+clickjacking
+click jacking
+click-jacking
+cloudflare
+cookie
+crc
+credential
+crypt
+csrf
+ddos
+danger
+data exfiltrate
+data-exfiltrate
+data exfiltration
+data-exfiltration
+data breach
+data-breach
+decode
+defence
+defense
+defensive programming
+delegation
+denial of service
+diffie hellman
+directory traversal
+disclose
+disclosure
+dmz
+dotfuscator
+dsa
+ecdsa
+encode
+encrypt
+escrow
+exploit
+eviltwin
+evil twin
+fingerprint
+firewall
+forge
+forgery
+fuzz
+fraud
+gnupg
+gss api
+hack
+hash
+hijacking
+hmac
+honeypot
+honey pot
+hsm
+inject
+insecure
+integrity
+intrusion
+intruder
+ipsec
+kerberos
+ldap
+login
+metasploit
+meterpreter
+malicious
+md5
+nessus
+nonce
+nss
+oauth
+obfuscate
+openssl
+openssh
+openvas
+open auth
+open redirect
+openid
+owasp
+password
+pbkdf2
+pci dss
+pgp
+phishing
+pki
+privacy
+private key
+privilege
+privilege escalation
+permission escalation
+public key
+public-key
+pcidss
+pentest
+pen test
+pen-test
+penetration test
+penetration-test
+protect
+rainbow table
+rbac
+rc4
+repudiation
+rfc 2898
+rijndael
+rootkit
+rsa
+safe
+salt
+saml
+sanitise
+sandbox
+scam
+scriptkiddie
+script kiddie
+script-kiddie
+scripting
+security
+sftp
+sha
+shellcode
+shell code
+shell-code
+shibboleth
+shib boleth
+shib-boleth
+signature
+signed
+signing
+single sign on
+single signon
+single-sign-on
+smart assembly
+smartassembly
+snif
+spam
+spnego
+spoof
+ssh
+ssl
+sso
+steganography
+tampering
+theft
+threat
+tls
+transport
+tunneling
+tunnelling
+trojan
+trust
+two factor
+two-factor
+user account
+user-account
+username
+user name
+violate
+validate
+virus
+whitelist
+white list
+worm
+x 509
+x.509
+xss
+xxe
+ssrf
+zero day
+zero-day
+0 day
+0-day
+zombie computer
+attack
+vulnerability
+attack vector
+authentication
+cross site
+cross-site
+sensitive information
+leak
+information exposure
+path traversal
+use after free
+double free
+double-free
+man in the middle
+man in middle
+mitm
+poisoning
+unauthorise
+dot dot slash
+bypass
+session fixation
+forced browsing
+nvd
+cwe
+cve
+capec
+cpe
+common weakness enumeration
+common platform enumeration
+crack
+xml entity expansion
+http parameter pollution
+eavesdropping
+cryptanalysis
+http flood
+http-flood
+xml flood
+xml-flood
+udp flood
+udp-flood
+tcp flood
+tcp-flood
+tcp syn flood
+steal
+ssl flood
+ssl-flood
+j2ee misconfiguration
+asp.net misconfiguration
+improper neutralisation
+race condition
+null pointer dereference
+untrusted pointer dereference
+trapdoor
+trap door
+backdoor
+back door
+timebomb
+time bomb
+time-bomb
+xml bomb
+xml-bomb
+logic bomb
+logic-bomb
+captcha
+deadlock
+missing synchronisation
+incorrect synchronisation
+improper synchronisation
+illegitimate
+breach
+sql injection
+sql-injection
+unsafe
+un-safe
+failsafe
+fail-safe
+threadsafe
+thread-safe
+typesafe
+type-safe

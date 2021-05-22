@@ -1,0 +1,20 @@
+Topic ID,Top Words,Category,Sub-Category,Specifics
+TOPIC 0,author origin fix id databa ye open close assign tabl ,Access Control,Authorization,database privilege issues by phpmyadmin
+TOPIC 1,think secur make want good need implement point attack vulner ,Secure Development,Implementation,security requirement 
+TOPIC 2,cooki session site secur browser request page header use csrf ,Access Control,Tokens,http cookie authentication
+TOPIC 3,php error line www var array utc file string messag ,Other,,
+TOPIC 4,user login usernam log admin account page creat chang new ,Access Control,Authentication,password ui features
+TOPIC 5,hash use function gener sha support salt implement librari need,Data Security,Password/Data Storage,Password hashing
+TOPIC 6,valid field form encod input charact paramet return url post ,Software Vulnerabilities,Network Exploits,field data validation
+TOPIC 7,option creat default valu plugin enabl comment type set add ,Secure Development,Implementation,
+TOPIC 8,updat version script run thank instal saml relea use work ,Secure Development,Libraries/Configuration,Version/Patching
+TOPIC 9,server certif ssl connect domain work com host use fail ,Network Security,Digital Certificates,
+TOPIC 10,plea thank bug report custom reproduc inform step hi close ,Secure Development,GitHub/Reports,bug report
+TOPIC 11,password check protect link enter chang reset login jul new ,Access Control,Authentication,password ui features
+TOPIC 12,email address send messag view mail directli github repli thank ,Secure Development,GitHub/Reports,git configuration/ spam Issue
+TOPIC 13,login authent token api auth oauth credenti client redirect access ,Access Control,Tokens,Token-based authentication
+TOPIC 14,test chang fix code ad pull add new merg request ,Secure Development,Testing,security pull request implementation
+TOPIC 15,ldap server instal version configur log web owncloud app config ,Access Control,Authentication,web/ldap authentication
+TOPIC 16,encrypt file key signatur sign data public privat decrypt download ,Cryptography,Encryption,
+TOPIC 17,asset method laravel class control request secur symfoni object rout ,Secure Development,Implementation,web development
+TOPIC 18,work need look problem sure time mayb know someth think ,Secure Development,Implementation,

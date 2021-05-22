@@ -1,0 +1,70 @@
+TOPIC 0: 
+issue 250
+pr 58
+
+
+TOPIC 1: 
+issue 113
+pr 87
+
+
+TOPIC 2: 
+issue 74
+pr 15
+
+
+TOPIC 3: 
+issue 79
+pr 30
+
+
+TOPIC 4: 
+pr 224
+issue 101
+
+
+TOPIC 5: 
+issue 169
+pr 16
+
+
+TOPIC 6: 
+issue 73
+pr 12
+
+
+TOPIC 7: 
+issue 186
+pr 10
+
+
+TOPIC 8: 
+issue 123
+pr 39
+
+
+TOPIC 9: 
+issue 217
+pr 57
+
+
+TOPIC 10: 
+issue 104
+pr 28
+
+
+TOPIC 11: 
+issue 213
+pr 57
+
+
+TOPIC 12: 
+issue 75
+pr 21
+
+
+TOPIC 13: 
+issue 33
+pr 8
+
+

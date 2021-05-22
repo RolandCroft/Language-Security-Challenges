@@ -1,0 +1,95 @@
+TOPIC 0: 
+issue 1719
+pr 1132
+
+
+TOPIC 1: 
+issue 931
+pr 409
+
+
+TOPIC 2: 
+issue 744
+pr 278
+
+
+TOPIC 3: 
+issue 495
+pr 55
+
+
+TOPIC 4: 
+issue 811
+pr 123
+
+
+TOPIC 5: 
+issue 618
+pr 400
+
+
+TOPIC 6: 
+issue 876
+pr 429
+
+
+TOPIC 7: 
+issue 261
+pr 136
+
+
+TOPIC 8: 
+issue 579
+pr 166
+
+
+TOPIC 9: 
+issue 877
+pr 192
+
+
+TOPIC 10: 
+issue 703
+pr 158
+
+
+TOPIC 11: 
+issue 620
+pr 171
+
+
+TOPIC 12: 
+issue 570
+pr 110
+
+
+TOPIC 13: 
+issue 1150
+pr 209
+
+
+TOPIC 14: 
+pr 1686
+issue 158
+
+
+TOPIC 15: 
+issue 1002
+pr 54
+
+
+TOPIC 16: 
+issue 685
+pr 166
+
+
+TOPIC 17: 
+issue 811
+pr 232
+
+
+TOPIC 18: 
+issue 521
+pr 161
+
+

@@ -1,0 +1,24 @@
+Topic ID,Top Words,Category,Sub-Category,Specifics
+TOPIC 0,jenkin node credenti build master plugin ssh slave hadoop job ,Secure Development,Libraries/Configuration,Server Configuration
+TOPIC 1,password charact string use quot tri line gener usernam number,Access Control,Authentication,Credentials
+TOPIC 2,svn telnet exit signal process statu child subver grep parent,Secure Development,Libraries/Configuration,Version Control / Signal Handling
+TOPIC 3,rubi info postgresql laravel forg net-ssh gem version net::ssh queri ,Secure Development,Implementation,Database Query
+TOPIC 4,key public ssh privat server use gener authent file rsa ,Cryptography,Encryption,Public and Private Key Cryptography
+TOPIC 5,user root login password run ssh sudo access account log ,Access Control,Authentication,
+TOPIC 6,file sftp use php code work tri server error support ,Network Security,File Transfer,
+TOPIC 7,password script command run prompt bash expect use ssh enter ,Network Security,Client/Server,Remote execution
+TOPIC 8,hash curl encod valu bash use md5 string base64 cooki ,Cryptography,Encoding,
+TOPIC 9,script bash shell command file variabl run execut environ pass ,Secure Development,Libraries/Configuration,Environment Setup
+TOPIC 10,window putti openssh cygwin instal linux puttygen powershel pi pageant ,Secure Development,Libraries/Configuration,Windows Environment Setup
+TOPIC 11,ssh connect host tri use server error authent fail work ,Access Control,Authentication,Server Authentication
+TOPIC 12,ssh file server tri key directori work copi permiss problem ,Access Control,Authorization,Permissions
+TOPIC 13,java jsch algorithm librari exchang code version support applic client ,Secure Development,Libraries/Configuration,Java Development
+TOPIC 14,debug1 type file ident packet authent receiv sent publickey version ,Network Security,File Transfer,SSH Connection
+TOPIC 15,ssh connect tunnel server port use access mysql ip secur ,Network Security,Client/Server,
+TOPIC 16,encrypt certif openssl decrypt ssl use sign secur client signatur ,Network Security,Digital Certificates,
+TOPIC 17,python paramiko app devic librari c# code modul subprocess android ,Secure Development,Libraries/Configuration,Python App Development
+TOPIC 18,cipher intellij checkout wordpress ide subdomain curv sublim idea pxssh ,Secure Development,Libraries/Configuration,
+TOPIC 19,ssh server remot command machin use run script file connect ,Network Security,Client/Server,
+TOPIC 20,vm googl comput cloud instanc click engin gcloud log consol ,Secure Development,Libraries/Configuration,Google Cloud
+TOPIC 21,instanc ssh ec2 permiss ubuntu aw deni tri key file ,Access Control,Authorization,Permissions
+TOPIC 22,git ssh github repositori key use clone repo work tri ,Secure Development,GitHub/Reports,

@@ -1,0 +1,953 @@
+language,title,tags,link,label,summary
+java,updat remot order refresh code sign certif,pr,https://github.com/jenkinsci/jenkins/issues/3398,API Change,Version update
+java,valid login url empti form base auth,pr,https://github.com/zaproxy/zaproxy/issues/4614,Fix,Missing functionality
+java,che add password encrypt user creat updat,pr,https://github.com/eclipse/che/issues/2197,Review,Updating to better practice
+java,hostnam cannot verifi case ssl certif issu ip address,issue,https://github.com/square/okhttp/issues/1467,Errors,Identified bug
+java,spring cloud gateway spring secur cas,issue,https://github.com/spring-cloud/spring-cloud-gateway/issues/987,API Usage,Issue integrating a component
+java,includ pulsar checksum pulsar client shade jar,pr,https://github.com/apache/pulsar/issues/65,Fix,Missing functionality
+java,encrypt local fight covid db use sqlcipher,issue,https://github.com/nic-delhi/AarogyaSetu_Android/issues/25,Review,Updating to better practice
+java,okhttpclient give warn connect acra backend leak forget close respons bodi,issue,https://github.com/ACRA/acra/issues/716,Errors,Identified bug
+java,sec add digest similar basic secur namespac,issue,https://github.com/spring-projects/spring-security/issues/2095,Review,Updating to better practice
+java,make possibl disabl signatur check json return configur updat site,pr,https://github.com/jenkinsci/jenkins/issues/229,Update,Adding functionality
+java,jenkin redirect login page,pr,https://github.com/jenkinsci/blueocean-plugin/issues/472,Fix,Missing functionality
+java,add protect method checkwaitreadtim informreadoper,pr,https://github.com/netty/netty/issues/5163,Review,Updating to better practice
+java,rstudio instal claim packag sign opensus,issue,https://github.com/rstudio/rstudio/issues/3069,"Discrepancy, Errors",Unexpected error
+java,fix check connect materi encrypt password project,pr,https://github.com/gocd/gocd/issues/1836,Fix,Missing functionality
+java,fix reset messag header index verifi checksum strip reconnect,pr,https://github.com/apache/pulsar/issues/90,Fix,Bug fix
+java,support encrypt cas cooki,pr,https://github.com/apereo/cas/issues/881,API Usage,Integrating a component
+java,audit event log audit logfil,issue,https://github.com/elastic/elasticsearch/issues/41318,Fix,Bug fix
+java,java client nginx grpc ssl java server use dns,issue,https://github.com/grpc/grpc-java/issues/5552,Discrepancy,Usage confusion
+java,replac md hash rememb token,issue,https://github.com/spring-projects/spring-security/issues/8549,Review,Updating to better practice
+java,sec execut jaa login modul requir httpservletrequest,issue,https://github.com/spring-projects/spring-security/issues/2091,Update,Adding functionality
+java,user login expir still refresh detail servic configur inform,issue,https://github.com/alibaba/nacos/issues/877,Discrepancy,Unexpected behaviour
+java,oauth secur filter chain total ignor,issue,https://github.com/spring-projects/spring-security-oauth/issues/1076,Discrepancy,Unexpected behaviour
+java,cli refus work expir certif keystor path,issue,https://github.com/prestodb/presto/issues/9516,Errors,Identified bug
+java,mysql connector support unsign bigint,issue,https://github.com/prestodb/presto/issues/11279,Errors,Identified bug
+java,keycloak invalid session cluster saml logout,pr,https://github.com/keycloak/keycloak/issues/3922,Update,Adding functionality
+java,show new safeti number warn group group messag,issue,https://github.com/signalapp/Signal-Android/issues/6621,Fix,Missing functionality
+java,x doc add common definit secur set,pr,https://github.com/elastic/elasticsearch/issues/53242,Review,Updating to better practice
+java,bytebufutil decodehexdump,pr,https://github.com/netty/netty/issues/6792,Review,Updating to better practice
+java,cach encrypt method seem work,issue,https://github.com/google/ExoPlayer/issues/4744,Discrepancy,Usage confusion
+java,spark servic final protect member,issue,https://github.com/perwendel/spark/issues/675,Conceptual,Discussing security considerations
+java,add secur flag cooki ssl enabl,pr,https://github.com/rstudio/rstudio/issues/888,Review,Updating to better practice
+java,fail decod nal encod error,issue,https://github.com/fyhertz/libstreaming/issues/247,"Discrepancy, Errors",Unexpected error
+java,unabl load multipl client certif pem trust store,issue,https://github.com/eclipse-vertx/vert.x/issues/1613,Errors,Identified bug
+java,password oauth flow refresh token,issue,https://github.com/springfox/springfox/issues/3091,"Errors, API Usage",Identified bug in API component use
+java,zeppelin zeppelin login fail npe ldaprealm authorizationen true,pr,https://github.com/apache/zeppelin/issues/2867,Fix,Bug fix
+java,astral unicod charact includ uri part properli encod,issue,https://github.com/jersey/jersey/issues/3061,,
+java,codenvi add element injector servic parent id,pr,https://github.com/eclipse/che/issues/710,Update,Adding functionality
+java,spa popup login dialog session timeout,issue,https://github.com/gocd/gocd/issues/4474,Errors,Identified bug
+java,ignit ctx secur onsessionexpir subjid call,pr,https://github.com/apache/ignite/issues/5682,Errors,Identified bug
+java,sec integr test insecuremvc,issue,https://github.com/spring-projects/spring-security/issues/2851,Review,Adding tests
+java,oauth spring refresh token access token expir deadlock situat,issue,https://github.com/spring-projects/spring-security-oauth/issues/644,Discrepancy,Usage confusion
+java,kafka hide password log config,pr,https://github.com/apache/kafka/issues/371,Review,Updating to better practice
+java,fix kerbero authent doc,pr,https://github.com/apache/druid/issues/4822,Fix,Bug fix
+java,spring secur,issue,https://github.com/527515025/springBoot/issues/26,Discrepancy,Unexpected behaviour
+java,openssl e platform window,pr,https://github.com/eclipse/openj9/issues/8901,API Change,Adjusting versions
+java,legaci migrat incompat messagedigestpasswordencod consid part salt,issue,https://github.com/spring-projects/spring-security/issues/6594,Discrepancy,Unexpected behaviour
+java,possibl leak lock plugin hit except close,issue,https://github.com/elastic/elasticsearch/issues/13685,"Errors, API Usage",Identified bug in API component use
+java,improv third parti authent support,issue,https://github.com/flyway/flyway/issues/2696,Review,Updating to better practice
+java,move ldap authent password authent plugin,pr,https://github.com/prestodb/presto/issues/9865,Review,Refactor
+java,neo j debian repo ssl certif expir,issue,https://github.com/neo4j/neo4j/issues/11963,API Change,Expiration
+java,bindauthent success authent incorrect password certain ldap server configur,issue,https://github.com/spring-projects/spring-security/issues/4191,Errors,Identified bug
+java,login mancent tomcat sessioncookiedomain enabl,issue,https://github.com/hazelcast/hazelcast/issues/2281,"Discrepancy, Errors",Unexpected error
+java,es secur use ngnix revers proxi,issue,https://github.com/elastic/elasticsearch/issues/8318,Errors,Identified bug
+java,profil crypter decrypt alt channel,issue,https://github.com/grpc/grpc-java/issues/6761,Review,Updating to better practice
+java,spring secur oauth facebook implement work propertli,issue,https://github.com/spring-projects/spring-security-oauth/issues/386,"Discrepancy, API Usage",Confusion in API component use
+java,enhanc tls protocol ciphersuit control,pr,https://github.com/iNPUTmice/Conversations/issues/618,Review,Updating to better practice
+java,two mvc control configur differ secur model,issue,https://github.com/spring-projects/spring-boot/issues/443,"Conceptual, API Usage",Wants to better understand an API
+java,decrypt data sourc question,issue,https://github.com/google/ExoPlayer/issues/6122,"Discrepancy, Errors",Usage confusion
+java,generatepresignedurl leav default port gener url,issue,https://github.com/aws/aws-sdk-java/issues/445,Errors,Identified bug
+java,proper shutdown http encod channelinact,pr,https://github.com/netty/netty/issues/3961,Fix,Bug fix
+java,support intermedi certif author,issue,https://github.com/square/okhttp/issues/3667,API Usage,Usage question
+java,minor chang bring alia truststor match distinguish name,pr,https://github.com/undertow-io/undertow/issues/41,Review,Updating to better practice
+java,improv crypto structur detect,pr,https://github.com/k9mail/k-9/issues/2763,"Fix, Review",Bug fix and improvement
+java,sec getter cookienam abstractremembermeservic,issue,https://github.com/spring-projects/spring-security/issues/1223,Fix,Missing functionality
+java,access deni actual encrypt column sql project,issue,https://github.com/apache/shardingsphere/issues/4649,Fix,Missing functionality
+java,build fail wrong checksum org whispersystem signal servic android,issue,https://github.com/signalapp/Signal-Android/issues/6047,Errors,Identified bug
+java,remov test hack,pr,https://github.com/firebase/FirebaseUI-Android/issues/1337,Review,Updating to better practice
+java,upgrad ldaptiv,pr,https://github.com/apereo/cas/issues/1510,API Change,Version update
+php,renam admin secur section,pr,https://github.com/nextcloud/server/issues/11671,Review,Updating to better practice
+php,attempt call function mcrypt creat iv global namespac,issue,https://github.com/mgp25/Chat-API/issues/997,,
+php,possibl remov delet admin login page somehow protect page,issue,https://github.com/the-control-group/voyager/issues/4926,API Usage,Usage question
+php,option cooki valid,pr,https://github.com/php-http/message/issues/68,Update,Adds functionality
+php,remov enqueu regist asset,pr,https://github.com/wordplate/wordplate/issues/233,Review,Updating to better practice
+php,featur request view sign eula pdf,issue,https://github.com/snipe/snipe-it/issues/3019,Update,Adds functionality
+php,revert case insensit removedglobalvari sniff,pr,https://github.com/PHPCompatibility/PHPCompatibility/issues/245,Fix,Bug fix
+php,handl error authent,issue,https://github.com/nWidart/laravel-modules/issues/388,API Usage,Usage question
+php,error login,issue,https://github.com/craftcms/cms/issues/1857,"Discrepancy, Errors",Missing functionality
+php,add support send password link share nextcloud talk,pr,https://github.com/nextcloud/server/issues/11875,API Usage,Integrating a component
+php,remov app key depend password gener,pr,https://github.com/tenancy/multi-tenant/issues/657,Review,Updating to better practice
+php,dkim sign work current master branch,issue,https://github.com/mailcow/mailcow-dockerized/issues/151,Discrepancy,Unexpected behaviour
+php,forc http fail combin basic authent,issue,https://github.com/joomla/joomla-cms/issues/11735,Errors,Identified bug
+php,invalid credenti spec compliant,issue,https://github.com/thephpleague/oauth2-server/issues/955,Review,Updating to better practice
+php,question post wrapper secur,issue,https://github.com/octobercms/october/issues/2682,Conceptual,Method capabilities
+php,carddav access problem apach ssl iphon ios,issue,https://github.com/sabre-io/Baikal/issues/33,"Errors, API Usage",Identified bug in API component use
+php,add method upgrad plugin authent captcha content,pr,https://github.com/joomla/joomla-cms/issues/5403,Update,Adds functionality
+php,ipsec tunnel tabl contain singl invalid entri per devic ipsec tunnel,issue,https://github.com/librenms/librenms/issues/667,Discrepancy,Unexpected behaviour
+php,pass access credenti javascript php,issue,https://github.com/aws/aws-sdk-php/issues/1144,API Usage,Usage question
+php,new user relogin gener key encrypt alreadi enabl,issue,https://github.com/owncloud/core/issues/16128,Errors,Identified bug
+php,privat function rule better protect,issue,https://github.com/Respect/Validation/issues/655,"Conceptual, Review",Discussing possible improvement
+php,chang main salt key use encrypt broke instal,issue,https://github.com/nilsteampassnet/TeamPass/issues/1974,API Change,Error on update
+php,fix layout password protect share,pr,https://github.com/owncloud/core/issues/9027,Fix,Missing functionality
+php,webhook valid broken sandbox,issue,https://github.com/paypal/PayPal-PHP-SDK/issues/412,"Discrepancy, Errors",Unexpected error
+php,login usernam password,issue,https://github.com/cosenary/Instagram-PHP-API/issues/242,API Usage,Usage question
+php,add credenti process provid,pr,https://github.com/aws/aws-sdk-php/issues/1764,Update,Adds functionality
+php,login placehold instead infield label suggest enhanc,issue,https://github.com/owncloud/core/issues/8302,Update,Adds functionality
+php,make validationattributenam protect,pr,https://github.com/dwightwatson/validating/issues/163,Review,Updating to better practice
+php,playerdeathev invalid signatur,issue,https://github.com/pmmp/PocketMine-MP/issues/2835,Errors,Identified bug
+php,session secur,pr,https://github.com/matomo-org/matomo/issues/12164,Conceptual,Discussing security considerations
+php,updat encrypt php,pr,https://github.com/opencart/opencart/issues/6326,Review,Updating legacy code
+php,includ camera featur audit bulk audit mobil access,issue,https://github.com/snipe/snipe-it/issues/6163,Update,Adds functionality
+php,cannot login person objectclass ldap,issue,https://github.com/owncloud/core/issues/15816,"Discrepancy, Errors",Unexpected error
+php,db structur store login credenti,issue,https://github.com/thephpleague/oauth2-server/issues/385,Discrepancy,Unexpected behaviour
+php,login fail requir page refresh,issue,https://github.com/phpmyadmin/phpmyadmin/issues/9230,Errors,Identified bug
+php,rawurlencod got back,pr,https://github.com/ushahidi/Ushahidi_Web/issues/113,Fix,Missing functionality
+php,stat modul add secret js key reduc referr spam,issue,https://github.com/Automattic/jetpack/issues/2248,"Update, Conceptual",Discussing possible improvement
+php,pbkdf vs bcrypt key deriv,issue,https://github.com/defuse/php-encryption/issues/233,"Conceptual, API Usage",Discussing best library
+php,fix ldap slow login,pr,https://github.com/librenms/librenms/issues/10760,"Fix, Review",Improving bad functionality
+php,cooki path remind,issue,https://github.com/slimphp/Slim/issues/59,Update,Adds documentation
+php,github credenti option,pr,https://github.com/rocketeers/rocketeer/issues/3,Update,Adds functionality
+php,ddc orient repositori findbi subject sql inject,issue,https://github.com/doctrine/orm/issues/2130,Errors,Identified vulnerability
+php,chang document new valid method valid replac,pr,https://github.com/symfony/symfony-docs/issues/1353,Update,Adds documentation
+php,suhosin cooki encrypt break phpmyadmin,issue,https://github.com/phpmyadmin/phpmyadmin/issues/8854,"Errors, API Usage",Identified bug in API component use
+php,user ldap app blank page displaynam attribut given,issue,https://github.com/owncloud/core/issues/22541,Errors,Identified bug
+php,pleas add checksum deploy phar archiv,issue,https://github.com/deployphp/deployer/issues/816,Update,Adds functionality
+php,rspamd call dyn rl check fail,issue,https://github.com/mailcow/mailcow-dockerized/issues/1350,Errors,Identified bug
+php,disabl cooki check author header send,pr,https://github.com/nextcloud/server/issues/3361,Review,Discussing functionality change
+php,openid invalid messag type hint jus oa ge,issue,https://github.com/overtrue/wechat/issues/757,Errors,Identified bug
+php,fix lost password form handl space email,pr,https://github.com/woocommerce/woocommerce/issues/9075,Fix,Missing functionality
+php,chrome drop support ad credenti,issue,https://github.com/Codeception/Codeception/issues/4384,API Change,Update Issue
+php,ssl routin ssl read byte sslv alert certif unknown,issue,https://github.com/davibennun/laravel-push-notification/issues/132,Discrepancy,Unexpected behaviour
+php,delet row forget full text statu,issue,https://github.com/phpmyadmin/phpmyadmin/issues/8084,Errors,Identified bug
+php,cannot login websit misconfigur credenti,issue,https://github.com/WWBN/AVideo/issues/3254,Discrepancy,Unexpected behaviour
+php,implement fido u f two factor authent,issue,https://github.com/RainLoop/rainloop-webmail/issues/798,Update,Adds functionality
+php,remov sqli vulner flat php exampl,pr,https://github.com/symfony/symfony-docs/issues/1535,Fix,Fix vulnerability
+php,secur decrypt work set db encod utf,issue,https://github.com/cakephp/cakephp/issues/7309,Discrepancy,Unexpected behaviour
+php,prevent downgrad attack app,pr,https://github.com/nextcloud/server/issues/2094,"Review, API Change",Reviewing version update
+php,chang session cooki icecod path,issue,https://github.com/icecoder/ICEcoder/issues/528,"API Usage, Update",Usage question and update
+php,counterintuit error messag password share conform polici,issue,https://github.com/nextcloud/server/issues/19525,"Discrepancy, Errors",Unusual error message
+php,hash password even user exist,pr,https://github.com/cakephp/cakephp/issues/1393,Errors,Identified vulnerability
+php,rainloop email go receiv spam folder,issue,https://github.com/RainLoop/rainloop-webmail/issues/1734,API Usage,Usage question
+php,new tini login arrow proper login,issue,https://github.com/owncloud/core/issues/18940,Update,Feature request
+php,implement sudo mode enter password access admin area function,issue,https://github.com/flarum/core/issues/1112,Update,Adds functionality
+php,fix get activ valid safe attribut,pr,https://github.com/yiisoft/yii2/issues/13088,Fix,Bug fix
+php,check privat key export pass length,pr,https://github.com/pfsense/pfsense/issues/4147,Review,Adding checks
+php,lose session login dashboard,issue,https://github.com/MPOS/php-mpos/issues/1721,Discrepancy,Unexpected behaviour
+php,featur request possibl disabl password reset via email link user account password recoveri disabl,issue,https://github.com/owncloud/core/issues/16839,Update,Feature request
+javascript,fix hash properli handl encod paramet hash close,pr,https://github.com/vuejs/vue-router/issues/3045,Fix,Bug fix
+javascript,navig hardwareconcurr serv fingerprint vector,issue,https://github.com/brave/brave-browser/issues/4129,Errors,Identified vulnerability
+javascript,skip maco applic code sign reason cannot find valid mac develop ident custom non appl code sign certif,issue,https://github.com/electron-userland/electron-builder/issues/4295,Discrepancy,Unexpected Issue
+javascript,pushbullet invalid author certif,issue,https://github.com/ramboxapp/community-edition/issues/588,"Errors, API Usage",Warning when using an API
+javascript,error sign upgrad nodej,issue,https://github.com/electron-userland/electron-builder/issues/4932,"Errors, API Change",Error on update
+javascript,incorrect usernam password,issue,https://github.com/docker/kitematic/issues/3260,Discrepancy,Unexpected behaviour
+javascript,authent throw error use authent hook authent jwt,issue,https://github.com/feathersjs/feathers/issues/1480,Errors,Identified bug
+javascript,updatenotif modul caus excess spam pm error log,issue,https://github.com/MichMich/MagicMirror/issues/1238,"Errors, API Usage",Identified bug in API component use
+javascript,add function regexp support blacklist whitelist persist config,pr,https://github.com/rt2zz/redux-persist/issues/325,Update,Adds functionality
+javascript,error self sign certif certif chain,issue,https://github.com/request/request/issues/1764,"Discrepancy, Errors",Unexpected error
+javascript,question regard hash,issue,https://github.com/gatsbyjs/gatsby/issues/23988,Conceptual,Discussing security considerations
+javascript,valid although input disabl,issue,https://github.com/logaretm/vee-validate/issues/1093,Discrepancy,Unexpected behaviour
+javascript,custom authent servic creat account although prohibit set,issue,https://github.com/RocketChat/Rocket.Chat/issues/15787,Errors,Identified vulnerability
+javascript,log debug ad authent issu,issue,https://github.com/ansible/awx/issues/2194,Discrepancy,Incorrect behaviour
+javascript,tcl singl hash comment shebang,issue,https://github.com/codemirror/CodeMirror/issues/3853,API Usage,Usage of an external API
+javascript,fix prevent accesstoken leakag subdomain redirect,pr,https://github.com/outline/outline/issues/1263,Fix,Bug fix
+javascript,account password except invok method login error,issue,https://github.com/meteor/meteor/issues/9893,"Discrepancy, Errors",Doesn't understand error
+javascript,fail decod download font bower asset bootstrap v,issue,https://github.com/twbs/bootstrap/issues/16708,"Errors, API Change",Error on update
+javascript,housekeep npm audit resolut,pr,https://github.com/swagger-api/swagger-ui/issues/5457,Review,Updating to better practice
+javascript,reason v js content type user agent ignor sign header,issue,https://github.com/aws/aws-sdk-js/issues/659,Discrepancy,Doesn't understand error
+javascript,jwt cooki custom respons header store procedur,issue,https://github.com/graphile/postgraphile/issues/501,Review,Updating to better practice
+javascript,chang algolia password algolia secret,pr,https://github.com/firebase/functions-samples/issues/64,Fix,Bug fix
+javascript,dangerouslysetinnerhtml appli style properti,issue,https://github.com/facebook/react/issues/5616,Discrepancy,Unexpected behaviour
+javascript,loopback without usernam email login,issue,https://github.com/strongloop/loopback/issues/3390,API Usage,Usage question
+javascript,nodebb crash log wrong password,issue,https://github.com/NodeBB/NodeBB/issues/2934,"Errors, API Change",Error on update
+javascript,sso link login page work without refresh page,issue,https://github.com/NodeBB/NodeBB/issues/2847,Errors,Identified bug
+javascript,question csrftoken rout match first config rout js config blueprint js,issue,https://github.com/balderdashy/sails/issues/2360,Conceptual,Discussing security considerations
+javascript,publish pgp public key secur,issue,https://github.com/NodeBB/NodeBB/issues/2548,Update,Feature request
+javascript,bug chang password form work mu,issue,https://github.com/TryGhost/Ghost/issues/4624,Discrepancy,Incorrect behaviour
+javascript,jpc add notic invalid credenti error notic,issue,https://github.com/Automattic/wp-calypso/issues/24279,Update,Feature request
+javascript,bootstrap v beta find class danger,issue,https://github.com/twbs/bootstrap/issues/23515,Fix,Missing functionality
+javascript,loginid token loginid token header token cooki,issue,https://github.com/PanJiaChen/vue-admin-template/issues/499,API Usage,Usage question
+javascript,save credenti activ tab pop activ tab,issue,https://github.com/brave/browser-laptop/issues/13936,Discrepancy,Incorrect behaviour
+javascript,need help backport crypto chang v x stage,issue,https://github.com/nodejs/node/issues/20691,API Change,Backwards compatability
+javascript,cooki extens,issue,https://github.com/wenzhixin/bootstrap-table/issues/1104,Update,Feature request
+javascript,cla signatur timotalviti,pr,https://github.com/odoo/odoo/issues/18314,Update,Adds documentation
+javascript,besid valid possibl sanit,issue,https://github.com/Automattic/mongoose/issues/5077,Update,Feature request
+javascript,move oauth login result ram mongo give server access,pr,https://github.com/meteor/meteor/issues/1913,Review,Updating to better practice
+javascript,add secur flag session cooki requir sent secur connect,issue,https://github.com/ansible/awx/issues/1881,Fix,Missing functionality
+javascript,applock whitelist mode problem node file manag self updat signal,issue,https://github.com/signalapp/Signal-Desktop/issues/4086,Update,Feature request
+javascript,remov account password nova lib depend,pr,https://github.com/VulcanJS/Vulcan/issues/1299,Review,Updating to better practice
+javascript,save credenti android,issue,https://github.com/jitsi/jitsi-meet/issues/6584,Update,Feature request
+javascript,set cooki onbefor work expect,issue,https://github.com/garris/BackstopJS/issues/443,Discrepancy,Unexpected behaviour
+javascript,socket io author cooki connect sid,issue,https://github.com/socketio/socket.io/issues/1361,Discrepancy,Usage confusion
+javascript,cannot login via rest,issue,https://github.com/parse-community/parse-server/issues/835,"Discrepancy, Errors",Doesn't understand error
+javascript,yarn audit show high vulner,issue,https://github.com/GeekyAnts/NativeBase/issues/2796,Errors,Identified vulnerability
+javascript,window defend quarantin atom malwar,issue,https://github.com/atom/atom/issues/8246,API Change,Version issue
+javascript,revert made incorrect usernam password show error se,pr,https://github.com/HabitRPG/habitica/issues/2865,Review,Discussing functionality change
+javascript,last fm login issu window,issue,https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-/issues/1016,Discrepancy,Incorrect behaviour
+javascript,make possibl admin chang user password,issue,https://github.com/VulcanJS/Vulcan/issues/1086,Update,Adds functionality
+javascript,ad miss ssl option cipher ecdhcurv,pr,https://github.com/mongodb/node-mongodb-native/issues/1579,Fix,Missing functionality
+javascript,enabl cayman island protector territori brave ads,issue,https://github.com/brave/brave-browser/issues/6006,Update,Adds functionality
+javascript,jetpack connect display detail invalid password error signup,pr,https://github.com/Automattic/wp-calypso/issues/27285,Review,Improving bad functionality
+javascript,fix locat allow empti string url reset path search hash,pr,https://github.com/angular/angular.js/issues/10064,Fix,Missing functionality
+javascript,fix gatsbi plugin guess js leak jwt gatsbi browser,pr,https://github.com/gatsbyjs/gatsby/issues/18434,Fix,Bug fix
+javascript,cla corpor signatur wiserbi,pr,https://github.com/odoo/odoo/issues/49734,Update,Adds documentation
+javascript,question initi password admin creat user invalid certain time use,issue,https://github.com/RocketChat/Rocket.Chat/issues/9641,Conceptual,Discussing security considerations
+javascript,fix password valid crash,pr,https://github.com/freeCodeCamp/freeCodeCamp/issues/9297,Fix,Bug fix
+javascript,feathersj authent oauth,pr,https://github.com/feathersjs/feathers/issues/1299,API Usage,Integrating a component
+javascript,new survey type volatil password option save jt survey password,issue,https://github.com/ansible/awx/issues/1274,Update,Feature request
+javascript,pr build fail due travi secur restrict,issue,https://github.com/axios/axios/issues/273,API Usage,API Misconfiguration
+javascript,googl com cooki mismatch import,issue,https://github.com/brave/brave-browser/issues/5313,Discrepancy,Incorrect behaviour
+javascript,partial encod paramet,issue,https://github.com/ReactTraining/react-router/issues/5472,Discrepancy,Incorrect behaviour
+javascript,amp soundcloud emb secret token fail valid,issue,https://github.com/ampproject/amphtml/issues/3854,Errors,Identified bug
+javascript,custom dropdown compon valid,issue,https://github.com/logaretm/vee-validate/issues/878,Errors,Identified bug
+javascript,doc fix crypto updat signatur,pr,https://github.com/nodejs/node/issues/5500,Fix,Bug fix
+javascript,popper js integr problem,issue,https://github.com/twbs/bootstrap/issues/27645,API Usage,Issue integrating a component
+javascript,expir certif demo version,issue,https://github.com/streamaserver/streama/issues/948,API Change,Expiration
+c#,abstract campaignsummarymodelvalid eventdetailmodelvalid locationeditmodelvalid make inject,issue,https://github.com/HTBox/allReady/issues/728,Review,Updating to better practice
+c#,set ssh openssh reset ssh ssh client restart program,issue,https://github.com/gitextensions/gitextensions/issues/2187,Discrepancy,Unexpected behaviour
+c#,yourexot error usernam email field requir config,issue,https://github.com/Jackett/Jackett/issues/3672,Errors,Identified bug
+c#,exceptionsthrowneverywher stress test fail due leak,issue,https://github.com/SignalR/SignalR/issues/1621,Errors,Identified bug
+c#,hasauthor reimplement,pr,https://github.com/vis2k/Mirror/issues/1191,Review,Refactor
+c#,nh make debugconnectionprovid connect thread safe,pr,https://github.com/nhibernate/nhibernate-core/issues/495,Fix,Missing functionality
+c#,valu either larg small unsign byte,issue,https://github.com/mafaca/UtinyRipper/issues/652,Errors,Identified bug
+c#,accord intel quick sync h encod,issue,https://github.com/accord-net/framework/issues/1300,Update,Feature request
+c#,fix memori leak download button,pr,https://github.com/ppy/osu/issues/5606,Fix,Bug fix
+c#,question scrypt mine,issue,https://github.com/MultiPoolMiner/MultiPoolMiner/issues/652,API Usage,Usage question
+c#,authent fail remot parti close transport stream,issue,https://github.com/Redth/PushSharp/issues/139,"Discrepancy, Errors",Doesn't understand error
+c#,automat reserv usernam packag prefix,issue,https://github.com/NuGet/NuGetGallery/issues/6138,Review,Improving bad functionality
+c#,oper complet success file contain viru potenti unwant softwar,issue,https://github.com/quasar/Quasar/issues/545,Discrepancy,Virus flagging
+c#,bypass unigram secur,issue,https://github.com/UnigramDev/Unigram/issues/767,Errors,Identified vulnerability
+c#,cant find custom redirect login accessdeni etc cooki authent,issue,https://github.com/IdentityServer/IdentityServer4/issues/1783,API Usage,Usage question
+c#,lp abort connect callback caus leak,issue,https://github.com/SignalR/SignalR/issues/2309,Discrepancy,Unexpected behaviour
+c#,add extens load user credenti configur file,issue,https://github.com/chkr1011/MQTTnet/issues/664,Update,Feature request
+c#,updat audit log beta updat databas migrat audit log dataprotect,pr,https://github.com/skoruba/IdentityServer4.Admin/issues/578,Review,Improving logging
+c#,chang ssl cert differ site,issue,https://github.com/win-acme/win-acme/issues/252,Discrepancy,Unexpected behaviour
+c#,send bitcoin without transact hash,issue,https://github.com/MetacoSA/NBitcoin/issues/459,API Usage,Usage question
+c#,azurermvmaccessextens reboot vm usernam chang,issue,https://github.com/Azure/azure-powershell/issues/3561,Fix,Bug fix
+c#,asp net core auth cooki bigger mvc cooki,issue,https://github.com/dotnet/aspnetcore/issues/16699,Conceptual,Asking for explanation
+c#,cisco ios throw system argumentoutofrangeexcept renci sshnet dll soon enabl password sent,issue,https://github.com/sshnet/SSH.NET/issues/66,Errors,Identified bug
+c#,instal fail due block unsign powershel script execut,issue,https://github.com/JamesNK/Newtonsoft.Json/issues/1500,Discrepancy,Incorrect behaviour
+c#,updat build script new korebuild ad hack fix,pr,https://github.com/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet/issues/352,API Usage,Integrating a component
+c#,bypass fingerprint valid skirmish mission server,pr,https://github.com/OpenRA/OpenRA/issues/17542,Update,Changing functionality
+c#,move password verif final step,pr,https://github.com/zkSNACKs/WalletWasabi/issues/1142,Review,Discussing functionality change
+c#,open id client client credenti flow,issue,https://github.com/IdentityServer/IdentityServer4/issues/632,Discrepancy,Incorrect behaviour
+c#,turn assembl sign,issue,https://github.com/ninject/Ninject/issues/8,Update,Feature request
+c#,geofenc breach display actual breach,issue,https://github.com/ArduPilot/MissionPlanner/issues/2241,Discrepancy,Incorrect behaviour
+c#,protectkeyswithcertif cannot find self sign certif,issue,https://github.com/dotnet/aspnetcore/issues/12068,Errors,Identified bug
+c#,negotiag client certif,pr,https://github.com/Azure/DotNetty/issues/134,Fix,Missing functionality
+c#,microsoft codeanalysi csharp dll miss sha code sign signatur,issue,https://github.com/dotnet/roslyn/issues/18088,API Change,Updating component
+c#,decod qrcode imag c success iphon,issue,https://github.com/micjahn/ZXing.Net/issues/131,Discrepancy,Unexpected behaviour
+c#,ident antiforgeri invalid antiforgeri token error,issue,https://github.com/dotnet/aspnetcore/issues/11485,Errors,Identified bug
+c#,prism ninject,issue,https://github.com/PrismLibrary/Prism/issues/1450,API Usage,Usage question
+c#,design make operationbas execut protect,issue,https://github.com/dotnet/efcore/issues/9388,Review,Updating to better practice
+c#,fix invalid cooki name,pr,https://github.com/OrchardCMS/OrchardCore/issues/5237,Fix,Bug fix
+c#,add login screen main window show,issue,https://github.com/tgjones/gemini/issues/145,API Usage,Implementation question
+c#,consid option allow set displaynam window authent scheme,issue,https://github.com/dotnet/aspnetcore/issues/5876,Update,Feature request
+c#,state cooki lost idserv receiv callback adf logout,issue,https://github.com/IdentityServer/IdentityServer3/issues/3268,Discrepancy,Unexpected behaviour
+c#,html attribut element tag helper target doubl encod,issue,https://github.com/aspnet/Razor/issues/335,Errors,Identified bug
+c#,self sign zip exe file,issue,https://github.com/ravibpatel/AutoUpdater.NET/issues/149,Update,Feature request
+c#,make servic accept access token multipl author,issue,https://github.com/IdentityServer/IdentityServer4/issues/2256,API Usage,Usage question
+c#,actiondescriptorextens thread safe,issue,https://github.com/OData/WebApi/issues/1600,Errors,Identified vulnerability
+c#,fix sign publish nuspec,pr,https://github.com/NuGetPackageExplorer/NuGetPackageExplorer/issues/640,Fix,Bug fix
+c#,password provid instead autogener,pr,https://github.com/umbraco/Umbraco-CMS/issues/3528,Fix,Bug fix
+c#,proxi requir digest authent type work,issue,https://github.com/mono/mono/issues/6342,Errors,Identified bug
+c#,add support myget feed authenticod sign build,pr,https://github.com/windows-toolkit/WindowsCommunityToolkit/issues/478,API Usage,Integrating a component
+c#,hashset hashget easycach redi,issue,https://github.com/dotnetcore/EasyCaching/issues/71,API Usage,Usage question
+c#,pendingtransportoper thread safe,pr,https://github.com/Particular/NServiceBus/issues/3546,Fix,Bug fix
+c#,stringenumconvert thread safe,issue,https://github.com/JamesNK/Newtonsoft.Json/issues/253,Conceptual,Discussing security considerations
+c#,interfac inject control constructor implement itransientdepend,issue,https://github.com/aspnetboilerplate/aspnetboilerplate/issues/1948,"Discrepancy, Errors",Unexpected error
+c#,error usernam blank creat credenti,issue,https://github.com/Terminals-Origin/Terminals/issues/100,Errors,Identified bug
+c#,new azurermwebappsslbind use certificatefilepath ase upload certif howev inaccess site,issue,https://github.com/Azure/azure-powershell/issues/7577,"API Usage, Errors",Issue integrating a component
+c#,quartz integr work bus encrypt,issue,https://github.com/MassTransit/MassTransit/issues/498,"API Usage, Errors",Issue integrating a component
+c#,network password correct give encrypt certif adf use kentor,issue,https://github.com/Sustainsys/Saml2/issues/531,"Discrepancy, Errors",Unexpected error
+c#,ca cert issuer store trust,issue,https://github.com/OPCFoundation/UA-.NETStandard/issues/257,Review,Updating to better practice
+c#,dnn decod url,pr,https://github.com/dnnsoftware/Dnn.Platform/issues/630,Errors,Identified bug
+c#,need protect separ tier api endpoint data access ident server oauth,issue,https://github.com/IdentityServer/IdentityServer3/issues/2115,API Usage,Usage question
+c#,mvc unobtrus ajax work unsafeinlin,issue,https://github.com/Dotnet-Boxed/Templates/issues/113,API Usage,Usage question
+c#,nicehash miner turn auto neoscrypt mine,issue,https://github.com/nicehash/NiceHashMiner-Archived/issues/809,Errors,Identified bug
+c#,authent handler configur handl scheme linkedin,issue,https://github.com/aspnet/Security/issues/1015,Discrepancy,Unexpected behaviour
+c#,servic princip authent fail azur autom,issue,https://github.com/Azure/azure-powershell/issues/655,"API Usage, Errors",Issue integrating a component
+c#,creat reader base file signatur issu,pr,https://github.com/ExcelDataReader/ExcelDataReader/issues/85,Fix,Bug fix
+c#,long poll transport fail establish connect sql scale paramet tablecount greater,issue,https://github.com/SignalR/SignalR/issues/3757,Discrepancy,Incorrect behaviour
+c#,unabl obtain configur well known openid configur host iis,issue,https://github.com/openiddict/openiddict-core/issues/628,"Discrepancy, Errors",Doesn't understand error
+c#,ensur thread safeti android weakrealmnotifi,pr,https://github.com/realm/realm-dotnet/issues/551,Fix,Bug fix
+python,add python checker call encod decod non text codec,pr,https://github.com/PyCQA/pylint/issues/1172,Update,Adds functionality
+python,salt cloud attributeerror list object attribut copi,issue,https://github.com/saltstack/salt/issues/38662,"Discrepancy, Errors",Usage error
+python,auto gener bug report baseframeworkexcept paramet requir empti miss paramet usernam password usernam field password field check string,issue,https://github.com/andresriancho/w3af/issues/16975,Errors,Identified bug
+python,appl read imessag encrypt appl key,issue,https://github.com/drduh/macOS-Security-and-Privacy-Guide/issues/88,Conceptual,Discussing security considerations
+python,ansibl regress error problem run vault password file errno permiss deni,issue,https://github.com/ansible/ansible/issues/8483,Errors,Identified bug
+python,becom requir password even sudoerfil nopasswd,issue,https://github.com/ansible/ansible/issues/51775,Errors,Identified bug
+python,move ctfd util secur password ctfd util crypto close,pr,https://github.com/CTFd/CTFd/issues/898,Review,Refactor
+python,deprec ubuntu ppa mechan favor repo saltstack com,issue,https://github.com/saltstack/salt/issues/28674,API Usage,Integrating a component
+python,cannot visit productforum googl com right websit use hst network error attack usual temporari page probabl work later,issue,https://github.com/XX-net/XX-Net/issues/4145,Discrepancy,Unexpected behaviour
+python,instal ext secur reproduc,issue,https://github.com/ipython/ipython/issues/5742,Review,Improving security
+python,ssh known host take account ssh configur file,issue,https://github.com/saltstack/salt/issues/32711,Errors,Identified bug
+python,decod file list setup py python,pr,https://github.com/saltstack/salt/issues/45824,Fix,Missing functionality
+python,pass walletpassword paytomani use rpc interfac,issue,https://github.com/spesmilo/electrum/issues/5852,API Usage,Usage question
+python,allow getpass prompt ask user password,issue,https://github.com/fabric/fabric/issues/105,Update,Adds functionality
+python,enabl salt minion servic auto restart linux,pr,https://github.com/saltstack/salt/issues/55732,Fix,Missing functionality
+python,hid backdoor inject script,issue,https://github.com/RoganDawes/P4wnP1/issues/143,API Usage,Usage question
+python,add credenti import metasploit rest api,pr,https://github.com/byt3bl33d3r/CrackMapExec/issues/266,API Usage,Integrating a component
+python,util script bulk import privat key,pr,https://github.com/spesmilo/electrum/issues/3106,Update,Adds functionality
+python,window unabl extract login form form,issue,https://github.com/r0oth3x49/udemy-dl/issues/103,"Discrepancy, Errors",Usage error
+python,salt auth act field miss,issue,https://github.com/saltstack/salt/issues/56200,Errors,Identified bug
+python,ec cloud fix anoth avail zone mismatch,pr,https://github.com/saltstack/salt/issues/25355,Fix,Bug fix
+python,ssl error ssl tlsv alert protocol version tlsv alert protocol version ssl c,issue,https://github.com/docker/compose/issues/6473,Errors,Identified bug
+python,googl login error app login work,issue,https://github.com/PokemonGoF/PokemonGo-Bot/issues/4420,Errors,Identified bug
+python,refactor output support allow direct record metric bypass cloudwatch,issue,https://github.com/cloud-custodian/cloud-custodian/issues/399,Review,Refactor
+python,cryptmodul includ crypt h declar crypt need,pr,https://github.com/python/cpython/issues/5261,API Usage,Integrating a component
+python,fix python ec salt cloud typeerror instal salt,pr,https://github.com/saltstack/salt/issues/48212,Fix,Bug fix
+python,file manag state redownload alreadi present file correct sourc hash,issue,https://github.com/saltstack/salt/issues/44307,Discrepancy,Incorrect behaviour
+python,sle login work audit shell,issue,https://github.com/ansible/ansible/issues/24115,Errors,Identified bug
+python,crunchyrol user found email usernam,issue,https://github.com/chrippa/livestreamer/issues/1266,Discrepancy,Unexpected behaviour
+python,win acl error ldap sign enabl use univent,issue,https://github.com/ansible/ansible/issues/25475,"API Usage, Errors",Issue integrating a component
+python,fix issu audit event user pin chang,pr,https://github.com/pritunl/pritunl/issues/229,Fix,Bug fix
+python,fix connect get overridden network cli transport nxapi eapi net modul,pr,https://github.com/ansible/ansible/issues/35590,Fix,Bug fix
+python,auto gener bug report return codec utf decod input error true,issue,https://github.com/andresriancho/w3af/issues/14717,Errors,Identified bug
+python,url passport web login,issue,https://github.com/testerSunshine/12306/issues/546,Errors,Identified bug
+python,cannot watch stream proxi requir authent,issue,https://github.com/chrippa/livestreamer/issues/446,Discrepancy,Unexpected behaviour
+python,auto gener bug report baseframeworkexcept paramet requir empti miss paramet usernam password usernam field password field check string,issue,https://github.com/andresriancho/w3af/issues/15511,Errors,Identified bug
+python,integr test pass new old version openssl,issue,https://github.com/certbot/certbot/issues/6304,API Change,Backwards compatability
+python,user download fpf sign key websit,issue,https://github.com/freedomofpress/securedrop/issues/771,Review,Updating to better practice
+python,integr attribut javascript cdn,issue,https://github.com/Pylons/pyramid/issues/2548,Review,Updating to better practice
+python,add crossorigin credenti attribut manifest tag,pr,https://github.com/Tautulli/Tautulli/issues/1364,Fix,Missing functionality
+python,rutrack option session cooki,pr,https://github.com/rembo10/headphones/issues/2952,Fix,Missing functionality
+python,ssh key steal,pr,https://github.com/guardicore/monkey/issues/138,Fix,Bug fix
+python,json web token zip password protect file,issue,https://github.com/jpadilla/pyjwt/issues/502,API Usage,Usage question
+python,pyinstal sdl code signatur invalid,issue,https://github.com/kivy/kivy/issues/5042,"Discrepancy, Errors",Usage confusion
+python,metasploit modul,issue,https://github.com/P0cL4bs/WiFi-Pumpkin-deprecated/issues/351,Update,Adds functionality
+python,webp imag display preview mitmweb,issue,https://github.com/mitmproxy/mitmproxy/issues/3571,Discrepancy,Incorrect behaviour
+python,salt ssh support return,issue,https://github.com/saltstack/salt/issues/28039,Update,Feature request
+python,ad meaning messag invalid public key,pr,https://github.com/spesmilo/electrum/issues/4429,Review,Improving functionality
+python,bpo fix pars email mime header whitespac encod word gh,pr,https://github.com/python/cpython/issues/20505,Fix,Bug fix
+python,suse packag salt minion miss depend,issue,https://github.com/saltstack/salt/issues/29714,API Usage,Issue integrating a component
+python,merg openssh keypair add password protect key check,pr,https://github.com/ansible/ansible/issues/65407,API Change,Backwards compatability
+python,salt ssh custom util,issue,https://github.com/saltstack/salt/issues/53666,"API Usage, Discrepancy",Issue integrating a component
+python,add default password argument postgr user present state,pr,https://github.com/saltstack/salt/issues/26855,Update,Adds functionality
+python,add function random serial number x certif,issue,https://github.com/pyca/cryptography/issues/3077,"Update, Review",Discussing possible improvement
+python,chang password hash largebinari text,issue,https://github.com/Pylons/pyramid/issues/2623,Update,Adds functionality
+python,nxo l interfac nnxo l interfac nxo linkagg fail transport cli nxapi,issue,https://github.com/ansible/ansible/issues/34654,Errors,Identified bug
+python,show messag hash sign,pr,https://github.com/spesmilo/electrum/issues/3633,Update,Adds functionality
+python,read csrf cooki everi api request sinc valu chang,pr,https://github.com/getsentry/sentry/issues/3015,Review,Improves functionality
+python,allow encrypt watch wallet,pr,https://github.com/spesmilo/electrum/issues/3346,Update,Adds functionality
+python,auto gener bug report baseframeworkexcept paramet requir empti miss paramet usernam password usernam field password field check string,issue,https://github.com/andresriancho/w3af/issues/16974,Errors,Identified bug
+python,homekit cryptographi unsupport algorithm,issue,https://github.com/home-assistant/core/issues/34759,API Usage,Issue integrating a component
+python,auto gener bug report sslversion choic ssl version client,issue,https://github.com/andresriancho/w3af/issues/14691,Errors,Identified bug
+python,error pkgconfig file lead cryptic build failur,issue,https://github.com/mesonbuild/meson/issues/1122,Errors,Identified bug
+python,featur includ document type secur,issue,https://github.com/tiangolo/fastapi/issues/1131,Update,Adds documentation
+python,auto gener bug report unicodedecodeerror utf codec decod byte xf posit invalid continu byte,issue,https://github.com/andresriancho/w3af/issues/2384,Errors,Identified bug
+python,corrupt rsa privat key load,pr,https://github.com/twisted/twisted/issues/1055,Errors,Identified bug
+python,osx fail connect host via ssh,issue,https://github.com/ansible/ansible/issues/17743,Discrepancy,Unexpected behaviour
+python,cooki output cooki run via python script,issue,https://github.com/ytdl-org/youtube-dl/issues/9661,Discrepancy,Incorrect behaviour
+bash,configur autologin cooki,pr,https://github.com/sameersbn/docker-redmine/issues/204,Update,Adds functionality
+bash,usernam password,issue,https://github.com/thelinuxchoice/saycheese/issues/16,Update,Adds functionality
+bash,fix useradd run privileg,pr,https://github.com/awslabs/amazon-eks-ami/issues/439,Fix,Bug fix
+bash,net analyz metasploit drop openva omp support properli,pr,https://github.com/gentoo/gentoo/issues/13488,"API Usage, Fix",Issue integrating a component
+bash,add privaci level privaci level code,pr,https://github.com/pi-hole/pi-hole/issues/2543,Fix,Missing functionality
+bash,delet role assign one applic break actual instanc,issue,https://github.com/dreamfactorysoftware/dreamfactory/issues/127,Discrepancy,Incorrect behaviour
+bash,test app extens use attack main process via share contain,issue,https://github.com/OWASP/owasp-mstg/issues/1416,Conceptual,Discussing security considerations
+bash,featur request entir hand mode requir amazon digitalocean usernam password command line argument,issue,https://github.com/StreisandEffect/streisand/issues/478,Update,Feature request
+bash,question hack,issue,https://github.com/TheCrypt0/yi-hack-v4/issues/58,Conceptual,Discussing security considerations
+bash,log user name fingerprint event,pr,https://github.com/dokku/dokku/issues/1500,Update,Adds functionality
+bash,full game descript rvm scraper hash,pr,https://github.com/RetroPie/RetroPie-Setup/issues/2310,,
+bash,mail filter rspamd remov unus patch,pr,https://github.com/gentoo/gentoo/issues/8614,Review,Cleaning code
+bash,publish public key,issue,https://github.com/kward/shunit2/issues/76,API Usage,Usage question
+bash,v bug ldap manag password hash,issue,https://github.com/reportportal/reportportal/issues/713,Errors,Identified bug
+bash,add apt transport ubuntu,pr,https://github.com/saltstack/salt-bootstrap/issues/896,Fix,Missing functionality
+bash,request creat un privileg user apart root,issue,https://github.com/BlackArch/blackarch/issues/1223,Update,Feature request
+bash,encrypt client handshak rtt key,issue,https://github.com/quicwg/base-drafts/issues/262,Review,Updating to better practice
+bash,encrypt file appear chang git,issue,https://github.com/elasticdog/transcrypt/issues/64,Discrepancy,Unexpected behaviour
+bash,purpos ssh,issue,https://github.com/srvrco/getssl/issues/304,Conceptual,Wants to understand functionality
+bash,extra anti spam option pleas,issue,https://github.com/tomav/docker-mailserver/issues/524,Update,Feature request
+bash,allow use sign insid spawn protect,pr,https://github.com/PaperMC/Paper/issues/3143,Update,Feature request
+bash,memori leak,issue,https://github.com/pavanjadhaw/betterlockscreen/issues/41,Errors,Identified bug
+bash,ssh exe error load share librari,issue,https://github.com/msys2/MSYS2-packages/issues/1588,"API Usage, Errors",Issue integrating a component
+bash,user password glassfish,issue,https://github.com/oracle/docker-images/issues/664,API Usage,Usage question
+bash,arch linux setup ssl ca fail secur command found,issue,https://github.com/markshust/docker-magento/issues/233,Discrepancy,Usage confusion
+bash,ubuntu openssl usr local openssl lib libcrypto version inform avail,issue,https://github.com/oneinstack/oneinstack/issues/110,"Discrepancy, Errors",Unexpected error
+bash,ldap connect,issue,https://github.com/stilliard/docker-pure-ftpd/issues/44,Discrepancy,Unexpected behaviour
+bash,support ecdsa certif,issue,https://github.com/acmesh-official/acme.sh/issues/63,"Update, API Usage",Feature request
+bash,ubi add python saml packag mgr sso modul,pr,https://github.com/ceph/ceph-container/issues/1646,API Usage,Integrating a component
+bash,cannot login need default admin,issue,https://github.com/reportportal/reportportal/issues/78,API Usage,Usage question
+bash,ssh keygen command dockerfil fail creat imag,issue,https://github.com/CentOS/CentOS-Dockerfiles/issues/203,Discrepancy,Unexpected behaviour
+bash,hide usernam root,issue,https://github.com/denysdovhan/spaceship-prompt/issues/81,API Usage,Usage question
+bash,remov registri credenti instal script user data file,issue,https://github.com/paz-sh/paz/issues/27,Review,Cleaning code
+bash,revert updat insert function hashlist decod,pr,https://github.com/kaldi-asr/kaldi/issues/3436,Errors,Identified bug
+bash,openssl miss latest imag,issue,https://github.com/pypa/manylinux/issues/258,Discrepancy,Unexpected behaviour
+bash,smtp password cannot contain equal sign without caus problem,issue,https://github.com/prey/prey-bash-client/issues/340,Errors,Identified bug
+bash,expect hash publish somewher,issue,https://github.com/osresearch/heads/issues/152,API Usage,Usage question
+bash,updat updat terminalapp cwd urlencod hostnam,pr,https://github.com/ohmyzsh/ohmyzsh/issues/6245,Fix,Missing functionality
+bash,servic ipsec statu error ser connect cannot vpn connect internet,issue,https://github.com/hwdsl2/setup-ipsec-vpn/issues/751,Errors,Identified bug
+bash,remov root password valid,pr,https://github.com/docker-library/mysql/issues/15,Update,Feature request
+bash,wheezi octopi boot past gener ssl certif,issue,https://github.com/guysoft/OctoPi/issues/13,Discrepancy,Incorrect behaviour
+bash,instal sh fail relay credenti json exist,issue,https://github.com/getsentry/onpremise/issues/476,Errors,Identified bug
+bash,issu debian tls crypt empti,issue,https://github.com/angristan/openvpn-install/issues/523,"API Change, Errors",Version issue
+bash,let encrypt extern bug zope compon found,issue,https://github.com/nextcloud/nextcloudpi/issues/230,"API Usage, Errors",External bug
+bash,vs code unabl join host due authent error verifi host onlin sign sign retri,issue,https://github.com/MicrosoftDocs/live-share/issues/1149,Errors,Identified bug
+bash,cloudflar dns mode,issue,https://github.com/acmesh-official/acme.sh/issues/108,API Usage,Usage question
+bash,semicolon input wierd ssh,issue,https://github.com/fish-shell/fish-shell/issues/577,Discrepancy,Incorrect behaviour
+bash,ts chang password answer ignor,pr,https://github.com/GameServerManagers/LinuxGSM/issues/762,Errors,Identified bug
+bash,remov bleak edyo theme,pr,https://github.com/gohugoio/hugoThemes/issues/482,Review,Updating legacy code
+bash,remov certif,issue,https://github.com/nginx-proxy/docker-letsencrypt-nginx-proxy-companion/issues/635,API Usage,Usage question
+bash,per architectur opensslconf h take,pr,https://github.com/x2on/OpenSSL-for-iPhone/issues/142,Review,Updating to better practice
+bash,deploy cryptsetup reencrypt head permit qubeso imag deploy organ,issue,https://github.com/osresearch/heads/issues/463,API Usage,Integrating a component
+bash,netgear login,issue,https://github.com/firmadyne/firmadyne/issues/33,API Usage,Usage question
+bash,updat openvpn mirror gpg key fingerprint,pr,https://github.com/StreisandEffect/streisand/issues/754,API Change,Update
+bash,repl requir login,issue,https://github.com/aviaryan/awesome-no-login-web-apps/issues/160,API Usage,Usage question
+bash,app crypt moolticut version bump,pr,https://github.com/gentoo/gentoo/issues/7563,Update,Adds functionality
+bash,add cap audit control auditctl work,pr,https://github.com/docker/docker-bench-security/issues/35,Fix,Missing functionality
+bash,configur script pipe seper sed ldap user filter,issue,https://github.com/sameersbn/docker-gitlab/issues/526,"API Change, Discrepancy",Update Issue
+bash,dietpi drive manag preserv encryptf vboxsf virtualbox share folder fstab entri,pr,https://github.com/MichaIng/DietPi/issues/2729,Fix,Missing functionality
+bash,add paper key reinstal attack,pr,https://github.com/papers-we-love/papers-we-love/issues/484,Update,Adds documentation
+bash,test let encrypt pebbl certif verifi fail,issue,https://github.com/nginx-proxy/docker-letsencrypt-nginx-proxy-companion/issues/395,Discrepancy,Unexpected behaviour
+bash,certif check,issue,https://github.com/drwetter/testssl.sh/issues/1004,"Review, Conceptual",Discussing security considerations
+bash,ssh agent autoload ident alreadi load,pr,https://github.com/ohmyzsh/ohmyzsh/issues/7174,Fix,Missing functionality
+bash,updat oraclelinux openssl,pr,https://github.com/docker-library/official-images/issues/4957,API Change,Update
+bash,el nodej packag updat via yum packag sign,issue,https://github.com/nodesource/distributions/issues/344,"API Change, Discrepancy",Update Issue
+bash,extens socksend tls clienthello,pr,https://github.com/drwetter/testssl.sh/issues/342,Update,Adds functionality
+bash,remov transport paramet newsessionticket,pr,https://github.com/quicwg/base-drafts/issues/1058,Review,Cleaning code
+bash,unabl login linux,issue,https://github.com/void-linux/void-packages/issues/21946,"Errors, API Change",Update Issue
+c,add support crack encrypt vmware vmx file,pr,https://github.com/magnumripper/JohnTheRipper/issues/3633,Update,Adds functionality
+c,wrong length reject rule attack wpa hash,issue,https://github.com/hashcat/hashcat/issues/2202,"Errors, Conceptual",Identified vulnerability
+c,cannot pars repli rspamd,issue,https://github.com/rspamd/rspamd/issues/932,"API Change, Errors",Version issue
+c,curl pass usernam password proxi,issue,https://github.com/curl/curl/issues/2575,Discrepancy,Unexpected behaviour
+c,codeown updat log shell code owner,pr,https://github.com/zephyrproject-rtos/zephyr/issues/10605,Review,Improving logging
+c,rsa implement fip modul thread safe,issue,https://github.com/openssl/openssl/issues/4180,Errors,Identified vulnerability
+c,ssl opt sh compat sh return error,issue,https://github.com/ARMmbed/mbedtls/issues/2068,Errors,Identified bug
+c,sslstrip plugin load fail compil find cooki regex,issue,https://github.com/Ettercap/ettercap/issues/865,API Usage,Install issue
+c,hmac sha salt charact,issue,https://github.com/hashcat/hashcat/issues/1004,API Usage,Usage question
+c,gener password protect share link seahub user password pre fill default,issue,https://github.com/haiwen/seafile/issues/2288,"Review, Conceptual",Discussing security considerations
+c,flb hash add resz logic flb hash map,pr,https://github.com/fluent/fluent-bit/issues/1229,Review,Improving functionality
+c,merg ad compil flag enabl user namespac default instal suid,pr,https://github.com/containers/bubblewrap/issues/159,Update,Missing functionality
+c,esp wifimulti record credenti last connect network,issue,https://github.com/esp8266/Arduino/issues/2606,Discrepancy,Incorrect behaviour
+c,semml ensur permiss privat key,pr,https://github.com/citusdata/citus/issues/3506,Fix,Bug fix
+c,decrypt work gt n x recoveri,issue,https://github.com/TeamWin/Team-Win-Recovery-Project/issues/62,Discrepancy,Incorrect behaviour
+c,tls fix defect detect coverti scan,pr,https://github.com/OISF/suricata/issues/3323,Fix,Bug fix
+c,featur request add passin argument openssl ocsp,issue,https://github.com/openssl/openssl/issues/10682,Update,Feature request
+c,asan error scrypt format fuzz,issue,https://github.com/magnumripper/JohnTheRipper/issues/2003,Errors,Identified bug
+c,cannot self sign client certif alongsid ca sign server certif,issue,https://github.com/eclipse/mosquitto/issues/420,"Discrepancy, Errors",Usage confusion
+c,malwar analysi antiviru cours,issue,https://github.com/trailofbits/ctf/issues/49,Review,Cleaning code
+c,withelist hash,issue,https://github.com/rspamd/rspamd/issues/1927,API Usage,Usage question
+c,openssl dtl memori leak,issue,https://github.com/openssl/openssl/issues/7428,Errors,Identified bug
+c,init mbedtl rsa context use,issue,https://github.com/ARMmbed/mbedtls/issues/691,Errors,Identified bug
+c,auditset manifest miss,issue,https://github.com/joyent/smartos-live/issues/393,API Usage,Integrating a component
+c,vsftpd decod srcip decod quot,issue,https://github.com/ossec/ossec-hids/issues/1150,Errors,Identified bug
+c,add support sha openssl enc format,pr,https://github.com/magnumripper/JohnTheRipper/issues/2639,"Update, Review",Adding security consideration
+c,fix safe sha sum function declar,pr,https://github.com/netdata/netdata/issues/5788,Fix,Missing functionality
+c,refactor hmac remov duplic code,pr,https://github.com/awslabs/s2n/issues/648,Review,Refactor
+c,sign integ overflow iso parser,issue,https://github.com/libarchive/libarchive/issues/717,Errors,Identified vulnerability
+c,runtim error sign integ overflow caus sign integ overflow sourc code,issue,https://github.com/redis-io/redis/issues/7318,Errors,Identified vulnerability
+c,handl partial encrypt block cen pattern encrypt scheme,issue,https://github.com/gpac/gpac/issues/662,Conceptual,Wants to understand functionality
+c,fix memori leak conn client encod,pr,https://github.com/psycopg/psycopg2/issues/1101,Fix,Vulnerability fix
+c,micro iram attr safe stage,issue,https://github.com/espressif/arduino-esp32/issues/1410,Errors,Identified vulnerability
+c,libcurl static openssl engin ios,issue,https://github.com/curl/curl/issues/5003,API Usage,Usage question
+c,tls cipher,issue,https://github.com/h2o/h2o/issues/1667,API Usage,Usage question
+c,bad signatur debian stretch,issue,https://github.com/kaltura/nginx-vod-module/issues/672,"API Usage, Errors",Install issue
+c,bad signatur sendpay,issue,https://github.com/ElementsProject/lightning/issues/41,Errors,Identified bug
+c,secur client side encrypt work,issue,https://github.com/haiwen/seafile/issues/824,Errors,Identified bug
+c,non canon curv public key supercop,issue,https://github.com/jedisct1/libsodium/issues/147,,
+c,remov superflu san cov flag fuzz build,pr,https://github.com/h2o/h2o/issues/1296,Review,Cleaning code
+c,add support crack older bitshar wallet,pr,https://github.com/magnumripper/JohnTheRipper/issues/3283,"Update, API Change",Backwards compatability
+c,crypto sign ed seed keypair expect public key right privat key memori,issue,https://github.com/jedisct1/libsodium/issues/940,,
+c,hashcat api,pr,https://github.com/hashcat/hashcat/issues/382,Update,Adds functionality
+c,endless loop ssl handshak mbedtl upto,issue,https://github.com/ARMmbed/mbedtls/issues/1345,Errors,Identified bug
+c,fix tls,pr,https://github.com/openssl/openssl/issues/2144,Fix,Bug fix
+c,ecc sign hash ex ecc verifi hash ex forc link der asn code,issue,https://github.com/libtom/libtomcrypt/issues/449,Review,Discussing functionality change
+c,cannot non login shell default,issue,https://github.com/tmux/tmux/issues/1937,Discrepancy,Unexpected behaviour
+c,heap buffer overflow load sixel loader c,issue,https://github.com/saitoha/libsixel/issues/110,Errors,Identified vulnerability
+c,rspamadm control fuzzystat cannot execut lua script return requir rspamadm fuzzi stat,issue,https://github.com/rspamd/rspamd/issues/2121,Errors,Identified bug
+c,cryptofuzz add crypto libgcrypt,pr,https://github.com/google/oss-fuzz/issues/2401,"Update, API Usage",Integrating a component
+c,luk hashcat cannot crack header,issue,https://github.com/hashcat/hashcat/issues/2477,Discrepancy,Unexpected behaviour
+c,shall check return valu bn word call ssl lib c,issue,https://github.com/openssl/openssl/issues/6572,Review,Discussing functionality change
+c,sphinx fix buffer overflow hmac gener,pr,https://github.com/ElementsProject/lightning/issues/97,Fix,Bug fix
+c,sql inject php code,issue,https://github.com/dgiese/dustcloud/issues/17,Errors,Identified vulnerability
+c,featur request fallback authent mechan,issue,https://github.com/apple/cups/issues/4581,Update,Feature request
+c,error invalid incomplet type ssl aka struct ssl st,issue,https://github.com/openssl/openssl/issues/9772,"Discrepancy, Errors",Doesn't understand error
+c,var log rspamd world readabl,issue,https://github.com/rspamd/rspamd/issues/2429,Errors,Identified bug
+c,audit chang unsaf str printf function,issue,https://github.com/nmap/nmap/issues/278,Review,Updating to better practice
+c,secur client window check ssl certif,issue,https://github.com/haiwen/seafile/issues/394,Discrepancy,Unexpected behaviour
+c,introduct hash comparison api mem,pr,https://github.com/radareorg/radare2/issues/15108,API Usage,Integrating a component
+c,make mcrypt input handl stricter,pr,https://github.com/php/php-src/issues/610,Review,Improves functionality
+c,align sftp ssh plugin authent tunnel function,pr,https://github.com/FreeRDP/Remmina/issues/1393,Fix,Bug fix
+c,fix read buffer overflow stun,pr,https://github.com/ntop/nDPI/issues/824,Fix,Bug fix
+c,addresssanit heap buffer overflow read size libr bin p bin dex c,issue,https://github.com/radareorg/radare2/issues/4589,Errors,Identified bug
+c,add crypto mdebug valid option,pr,https://github.com/openssl/openssl/issues/538,Update,Adds functionality
+c,client login timeout tcp reset detect,issue,https://github.com/yandex/odyssey/issues/162,Discrepancy,Incorrect behaviour
+c,forgot password link,issue,https://github.com/nesbox/TIC-80/issues/634,Update,Adds functionality
+c,add sandbox home directori,pr,https://github.com/darlinghq/darling/issues/185,Update,Adds functionality
+ruby,add callback password chang,issue,https://github.com/heartcombo/devise/issues/3631,Update,Feature request
+ruby,tail fix rotat relat resourc leak fix,pr,https://github.com/fluent/fluentd/issues/2105,Fix,Bug fix
+ruby,filter usernam password host log,issue,https://github.com/elastic/elasticsearch-rails/issues/496,API Usage,Usage question
+ruby,utf input box return ascii bit box decrypt,issue,https://github.com/RubyCrypto/rbnacl/issues/116,Discrepancy,Unexpected behaviour
+ruby,user sign vs user signedin,issue,https://github.com/lynndylanhurley/devise_token_auth/issues/623,Discrepancy,Unexpected behaviour
+ruby,fix admin chang password admin user,pr,https://github.com/spree/spree/issues/950,Fix,Bug fix
+ruby,bug brew cask audit languag iso languag check languag,issue,https://github.com/Homebrew/homebrew-cask/issues/31114,Discrepancy,Unexpected behaviour
+ruby,auth password show confus invalid error messag,issue,https://github.com/tootsuite/mastodon/issues/4502,"Discrepancy, Errors",Doesn't understand error
+ruby,make user enumer time attack difficult,issue,https://github.com/thoughtbot/clearance/issues/636,"Conceptual, Review",Discussing security considerations
+ruby,moodl cmd exec exploit show exploit fail rexml parseexcept close tag div,issue,https://github.com/rapid7/metasploit-framework/issues/6879,Errors,Identified bug
+ruby,ad toot cafe mastodon whitelist,pr,https://github.com/thepracticaldev/dev.to/issues/1268,Fix,Missing functionality
+ruby,bug ssh head gear scalabl app return error,pr,https://github.com/openshift/origin-server/issues/6334,Fix,Bug fix
+ruby,updat exploit window smb doublepulsar rce info,pr,https://github.com/rapid7/metasploit-framework/issues/12571,Update,Adds documentation
+ruby,client side valid violat content secur polici,issue,https://github.com/DavyJonesLocker/client_side_validations/issues/565,Review,Refactor
+ruby,port audit modifi cask script rubi speed,pr,https://github.com/Homebrew/homebrew-cask/issues/16177,Review,Improves functionality
+ruby,add secur command renegoti tlv encrypt,pr,https://github.com/rapid7/metasploit-framework/issues/11965,Update,Adds functionality
+ruby,rubi bind rubi crypto hook libmongocrypt,pr,https://github.com/mongodb/mongo-ruby-driver/issues/1623,"Update, API Usage",Integrating a component
+ruby,memoiz caus multipl record share attribut hash,issue,https://github.com/Shopify/identity_cache/issues/246,Discrepancy,Incorrect behaviour
+ruby,secur updat nokogiri patch,pr,https://github.com/errbit/errbit/issues/1287,API Change,Version update
+ruby,rubygem rail download url mark malwar site,issue,https://github.com/rubygems/rubygems/issues/1067,Discrepancy,Virus flagging
+ruby,remov mutat prop backdoor take,pr,https://github.com/sorbet/sorbet/issues/2561,Review,Cleaning code
+ruby,match remov un need encrypt match nuke,pr,https://github.com/fastlane/fastlane/issues/13533,Review,Cleaning code
+ruby,sidekiq log heartbeat err invalid password,issue,https://github.com/mperham/sidekiq/issues/2788,Errors,Identified bug
+ruby,add exploit modul cve lnk code execut vulner,pr,https://github.com/rapid7/metasploit-framework/issues/8767,Update,Adds functionality
+ruby,push imag use commandlin local docker credenti,pr,https://github.com/zendesk/samson/issues/2403,Update,Adds functionality
+ruby,pup deprec cach certif author verifi method,pr,https://github.com/puppetlabs/puppet/issues/5484,Review,Cleaning code
+ruby,ignor secret token absens asset precompil,pr,https://github.com/errbit/errbit/issues/381,Fix,Bug fix
+ruby,authent fail bcrypt,issue,https://github.com/heartcombo/devise/issues/148,Discrepancy,Unexpected behaviour
+ruby,cannot regist user unpermit paramet usernam email password deviseinvit registrationscontrol creat,issue,https://github.com/scambra/devise_invitable/issues/387,Discrepancy,Unexpected behaviour
+ruby,wrong signatur user omniauth author path method test helper,pr,https://github.com/heartcombo/devise/issues/762,Fix,Bug fix
+ruby,featur request access cooki,issue,https://github.com/thoughtbot/capybara-webkit/issues/168,Update,Feature request
+ruby,feat pass custom ssl cert file pact node retri,pr,https://github.com/pact-foundation/pact-ruby/issues/208,Update,Adds functionality
+ruby,pup add support devic puppet ssl clean,pr,https://github.com/puppetlabs/puppet/issues/7194,"Update, API Usage",Integrating a component
+ruby,fix creat user ldap requir password,pr,https://github.com/theforeman/foreman/issues/6005,Fix,Missing functionality
+ruby,rake bootstrap error bcrypt error invalidhash invalid hash,issue,https://github.com/loomio/loomio/issues/4756,"Discrepancy, Errors",Doesn't understand error
+ruby,updat support ssh config readi,pr,https://github.com/hashicorp/vagrant/issues/2953,Discrepancy,Incorrect behaviour
+ruby,problem ssh config pars,issue,https://github.com/net-ssh/net-ssh/issues/6,Discrepancy,Incorrect behaviour
+ruby,encrypt channel password store db,issue,https://github.com/zammad/zammad/issues/460,Review,Adding security consideration
+ruby,updat trust cach updat role,pr,https://github.com/thepracticaldev/dev.to/issues/1786,Fix,Bug fix
+ruby,check usernam password,issue,https://github.com/NoamB/sorcery/issues/169,API Usage,Usage question
+ruby,os x user provid fix except salt found,pr,https://github.com/chef/chef/issues/2724,Fix,Missing functionality
+ruby,ldap allow login signup docker cli,pr,https://github.com/SUSE/Portus/issues/326,Update,Adds functionality
+ruby,miss javascript asset deploy heroku,issue,https://github.com/ankane/blazer/issues/205,"Discrepancy, Errors",Unexpected error
+ruby,check cooki overflow,pr,https://github.com/rails/rails/issues/6796,Fix,Missing functionality
+ruby,allow secur cooki,pr,https://github.com/binarylogic/authlogic/issues/210,Fix,Missing functionality
+ruby,backport sharedhelp trap memleak fix,pr,https://github.com/elastic/logstash/issues/11468,API Change,Backwards compatability
+ruby,alert exist user new password criteria,issue,https://github.com/ifmeorg/ifme/issues/1168,Update,Adds functionality
+ruby,password contain ssh password login recogn show password login,issue,https://github.com/net-ssh/net-ssh/issues/520,Errors,Identified bug
+ruby,rail api undefin method auto login,issue,https://github.com/NoamB/sorcery/issues/331,Errors,Identified bug
+ruby,improv perform checksum filter,pr,https://github.com/elastic/logstash/issues/1491,Review,Improves functionality
+ruby,run match cert report local code sign ident found find newli gener certif instal,issue,https://github.com/fastlane/fastlane/issues/7689,"Discrepancy, Errors",Unexpected error
+ruby,prevent user sign notifi airbrak,pr,https://github.com/airbrake/airbrake/issues/642,Fix,Bug fix
+ruby,login credenti seem wrong,issue,https://github.com/fastlane/fastlane/issues/12528,Discrepancy,Incorrect behaviour
+ruby,cannot overrid default ssh port forward,issue,https://github.com/hashicorp/vagrant/issues/3232,Discrepancy,Unexpected behaviour
+ruby,match cannot decrypt manual certif,issue,https://github.com/fastlane/fastlane/issues/15111,Discrepancy,Usage confusion
+ruby,rebuilt java payload latest ndk sdk meterpret javapayload,pr,https://github.com/rapid7/metasploit-framework/issues/4699,"Fix, Review",Refactor
+ruby,filter attempt authent check option,pr,https://github.com/ManageIQ/manageiq/issues/13026,Fix,Missing functionality
+ruby,print unpatch version found insecur sourc,pr,https://github.com/rubysec/bundler-audit/issues/68,Review,Cleaning code
+ruby,cooki token owasp fingerprint,issue,https://github.com/doorkeeper-gem/doorkeeper/issues/1284,"API Usage, Review",Discussing security considerations
+ruby,plu symbol longer decod space part url captur,issue,https://github.com/sinatra/sinatra/issues/463,Errors,Identified bug
+ruby,creat server cannot ssh,issue,https://github.com/fog/fog/issues/544,Discrepancy,Unexpected behaviour
+ruby,mongodatastor abl specifi usernam password,issue,https://github.com/markevans/dragonfly/issues/23,Update,Feature request
+ruby,allow asseturlhelp asset url use mailer,pr,https://github.com/rails/rails/issues/19390,Update,Adds functionality
+ruby,add rout rb asset path,issue,https://github.com/railsware/js-routes/issues/146,API Usage,Usage question
+ruby,gecod repositori sha chang,issue,https://github.com/Homebrew/homebrew-core/issues/24954,API Change,Update Issue
+ruby,proxi asset replac second run,issue,https://github.com/envygeeks/jekyll-assets/issues/451,Errors,Identified bug
+ruby,pool blacklist,issue,https://github.com/danbooru/danbooru/issues/1402,Update,Feature request
+ruby,sign redirect sign complet unauthor ms,issue,https://github.com/heartcombo/devise/issues/1741,"API Change, Errors",Version issue
+objective-c,show error messag ssh key miss,issue,https://github.com/blinksh/blink/issues/671,Discrepancy,Unexpected behaviour
+objective-c,react nativ facebook login get pictur,issue,https://github.com/magus/react-native-facebook-login/issues/246,API Usage,Usage question
+objective-c,japanes review show incorrect usernam,issue,https://github.com/omz/AppSales-Mobile/issues/30,Errors,Identified bug
+objective-c,timob updat assetcrypt modul,pr,https://github.com/appcelerator/titanium_mobile/issues/6303,Update,Adds functionality
+objective-c,danger add changelog check,pr,https://github.com/expo/expo/issues/7441,Update,Adds functionality
+objective-c,chip exampl respect safe area,pr,https://github.com/material-components/material-components-ios/issues/4856,Fix,Missing functionality
+objective-c,auth login fail present password,issue,https://github.com/expo/expo/issues/340,Errors,Identified bug
+objective-c,forc new login twitter auth,issue,https://github.com/nst/STTwitter/issues/66,API Usage,Usage question
+objective-c,alway unsaf unretain deleg,issue,https://github.com/nicklockwood/iCarousel/issues/706,Errors,Identified bug
+objective-c,validatereceiptio alway return fals,issue,https://github.com/dooboolab/react-native-iap/issues/237,Errors,Identified bug
+objective-c,gener password keychain item found,issue,https://github.com/ptoomey3/Keychain-Dumper/issues/35,Errors,Identified bug
+objective-c,condens form unsign cast,pr,https://github.com/spotify/HubFramework/issues/257,Review,Updating to better practice
+objective-c,issu integr login screen applic,issue,https://github.com/Friend-LGA/LGSideMenuController/issues/60,"API Usage, Discrepancy",Issue integrating a component
+objective-c,notauthorizedexcept messag incorrect usernam password,issue,https://github.com/aws-amplify/aws-sdk-ios/issues/1124,"Discrepancy, Errors",Usage confusion
+objective-c,make authent scope avail librari client,issue,https://github.com/nxtbgthng/OAuth2Client/issues/9,API Usage,Integrating a component
+objective-c,cooki login work,issue,https://github.com/liquidx/webviewscreensaver/issues/31,Discrepancy,Usage confusion
+objective-c,sign updat via ssh unabl access requir key keychain,issue,https://github.com/sparkle-project/Sparkle/issues/1323,"Discrepancy, Errors",Usage confusion
+objective-c,timob android tihttpclient credenti encod issu,pr,https://github.com/appcelerator/titanium_mobile/issues/9220,Errors,Identified bug
+objective-c,provid version asset compil binari,issue,https://github.com/paypal/PayPal-iOS-SDK/issues/473,Update,Feature request
+objective-c,url valid request url success didfailloaderror give info,issue,https://github.com/ninjinkun/NJKWebViewProgress/issues/28,Errors,Identified bug
+objective-c,possibl lock usernam email creation,issue,https://github.com/agilebits/onepassword-app-extension/issues/381,API Usage,Usage question
+objective-c,login error googl sign null develop error,issue,https://github.com/expo/expo/issues/8927,Errors,Identified bug
+objective-c,ad ca automat make certif pass afsecuritypolici,issue,https://github.com/AFNetworking/AFNetworking/issues/3119,Discrepancy,Unexpected behaviour
+objective-c,mqttsession securitypolici found,issue,https://github.com/novastone-media/MQTT-Client-Framework/issues/326,"Discrepancy, Errors",Doesn't understand error
+objective-c,allow block start empti whitelist,issue,https://github.com/SelfControlApp/selfcontrol/issues/260,Update,Feature request
+objective-c,handl authent code,pr,https://github.com/facebook/facebook-ios-sdk/issues/450,"Update, Review",Adding security consideration
+objective-c,chatsecur silent lose trust omemo key,issue,https://github.com/ChatSecure/ChatSecure-iOS/issues/1046,Discrepancy,Incorrect behaviour
+objective-c,secur bug bypass pin entri,issue,https://github.com/MiniKeePass/MiniKeePass/issues/594,Errors,Identified vulnerability
+objective-c,omemo otr fingerprint handl messag,issue,https://github.com/ChatSecure/ChatSecure-iOS/issues/600,Review,Adding security consideration
+objective-c,add custom thumb asset scale,issue,https://github.com/ResearchKit/ResearchKit/issues/67,Update,Adds functionality
+objective-c,remov framework refer openssl libcrypto,pr,https://github.com/nygard/class-dump/issues/58,Fix,Bug fix
+objective-c,push self sign onion cert,issue,https://github.com/ChatSecure/ChatSecure-iOS/issues/799,"API Usage, Conceptual",Discussing security considerations
+objective-c,bug fix potenti memori leak,pr,https://github.com/rFlex/SCRecorder/issues/63,Fix,Bug fix
+objective-c,strip sign strip framework sh still requir,issue,https://github.com/realm/realm-cocoa/issues/3706,Discrepancy,Usage confusion
+objective-c,creat new zip password protect,issue,https://github.com/pixelglow/ZipZap/issues/124,API Usage,Usage question
+objective-c,abil hide password still copi,issue,https://github.com/MacPass/MacPass/issues/480,Update,Feature request
+objective-c,self sign certif,pr,https://github.com/RestKit/RestKit/issues/31,Update,Adds functionality
+objective-c,decod progress jpeg imag internet,issue,https://github.com/ibireme/YYImage/issues/56,API Usage,Usage question
+objective-c,new initi inject typhoonparameterinjectedbyfactoryrefer,issue,https://github.com/appsquickly/typhoon/issues/153,Update,Adds functionality
+objective-c,timob android tls properli validatessecurecert true,pr,https://github.com/appcelerator/titanium_mobile/issues/7493,Update,Adds functionality
+objective-c,unabl ssh copi id,issue,https://github.com/blinksh/blink/issues/554,Discrepancy,Usage confusion
+objective-c,memori leak due unsaf swizzl,issue,https://github.com/mattt/AnimatedGIFImageSerialization/issues/11,Errors,Identified bug
+objective-c,fix android fix asset encrypt window bit java,pr,https://github.com/appcelerator/titanium_mobile/issues/11136,Fix,Bug fix
+objective-c,url seem clear cach use store usernam password integr web browser,issue,https://github.com/MiniKeePass/MiniKeePass/issues/419,Discrepancy,Unexpected behaviour
+objective-c,exp login fail feedback code,issue,https://github.com/expo/expo/issues/852,Discrepancy,Unexpected behaviour
+objective-c,explicitli set data protect attribut file written read watchkit extens even pair phone lock,pr,https://github.com/mutualmobile/MMWormhole/issues/75,Update,Adds functionality
+objective-c,wrong redirect url provid wrong credenti first log correctli,issue,https://github.com/nst/STTwitter/issues/197,Errors,Identified bug
+objective-c,add encrypt cdecloudfilesystem,issue,https://github.com/drewmccormack/ensembles/issues/35,Update,Feature request
+objective-c,client credenti includ request bodi recommend,issue,https://github.com/AFNetworking/AFOAuth2Manager/issues/85,Review,Updating to better practice
+objective-c,know websit encrypt password,issue,https://github.com/Lyndir/MasterPassword/issues/147,API Usage,Usage question
+objective-c,support authent,issue,https://github.com/pkyeck/socket.IO-objc/issues/100,Update,Feature request
+objective-c,add thread safeti httprequest,pr,https://github.com/phoboslab/Ejecta/issues/559,Fix,Missing functionality
+objective-c,chang host favorit lose password store keychain,issue,https://github.com/sequelpro/sequelpro/issues/1005,Errors,Identified bug
+objective-c,make afnetwork allow self sign certif without ad project,issue,https://github.com/AFNetworking/AFNetworking/issues/2776,API Usage,Usage question
+objective-c,allow forbid privat key export,issue,https://github.com/blinksh/blink/issues/622,Update,Feature request
+objective-c,timob function assign proxi properti garbag collect,pr,https://github.com/appcelerator/titanium_mobile/issues/3994,Errors,Identified bug
+objective-c,json encod yield applic x www form urlencod content type,issue,https://github.com/MugunthKumar/MKNetworkKit/issues/48,Discrepancy,Incorrect behaviour
+objective-c,add support password protect ssh key,issue,https://github.com/git-up/GitUp/issues/159,Update,Feature request
+objective-c,fix crash load grpc certif bundl found,pr,https://github.com/firebase/firebase-ios-sdk/issues/2280,Fix,Bug fix
+objective-c,add support invalid untrust ssl certif debug,pr,https://github.com/AFNetworking/AFNetworking/issues/204,Update,Adds functionality
+objective-c,extra space usernam,issue,https://github.com/blinksh/blink/issues/211,Errors,Identified bug
+objective-c,wkwebviewjavascriptbridg inject javasript issu,issue,https://github.com/marcuswestin/WebViewJavascriptBridge/issues/154,Errors,Identified bug
+objective-c,twitter login crash app,issue,https://github.com/parse-community/Parse-SDK-iOS-OSX/issues/792,"Discrepancy, Errors",Doesn't understand error
+objective-c,featur request lock password view,issue,https://github.com/MacPass/MacPass/issues/432,Update,Feature request
+objective-c,storyboard solut login,issue,https://github.com/mikefrederick/MFSideMenu/issues/117,"Review, Conceptual",Discussing functionality change
+objective-c,unexpect behaviour ssl certif,issue,https://github.com/AFNetworking/AFNetworking/issues/1624,Discrepancy,Unexpected behaviour
+objective-c,dispatch sync pars expir date still thread safe potenti caus deadlock,issue,https://github.com/MugunthKumar/MKNetworkKit/issues/108,Errors,Identified vulnerability
+objective-c,synchron open login checkmark,pr,https://github.com/matryer/bitbar/issues/259,Fix,Bug fix
+swift,detect ssl certif chang,issue,https://github.com/Alamofire/Alamofire/issues/814,API Usage,Usage question
+swift,cannot import address key file password,issue,https://github.com/trustwallet/trust-wallet-ios/issues/573,"Discrepancy, Errors",Unexpected error
+swift,make self sign certif work ios,issue,https://github.com/grpc/grpc-swift/issues/536,"Discrepancy, Errors",Usage confusion
+swift,flickr oauth succe photo upload return photo specifi,issue,https://github.com/OAuthSwift/OAuthSwift/issues/543,Discrepancy,Unexpected behaviour
+swift,aes encrypt without iv,issue,https://github.com/krzyzanowskim/CryptoSwift/issues/575,API Usage,Usage question
+swift,crash deinit decryptor xcode b,issue,https://github.com/RNCryptor/RNCryptor/issues/276,"Discrepancy, Errors",Usage confusion
+swift,auto inject without regist,issue,https://github.com/AliSoftware/Dip/issues/137,API Usage,Usage question
+swift,clarifi type password requir ssl config maco make,pr,https://github.com/IBM-Swift/Kitura/issues/1108,Update,Adds documentation
+swift,forgot password button cover keyboard loginviewcontrol,issue,https://github.com/wordpress-mobile/WordPress-iOS/issues/2160,Update,Improving functionality
+swift,add unsafememori abstract,pr,https://github.com/Jounce/Surge/issues/77,Review,Updating to better practice
+swift,decrypt php,issue,https://github.com/RNCryptor/RNCryptor/issues/39,API Usage,Usage question
+swift,login voiceov focu speak text login error overlay,issue,https://github.com/wordpress-mobile/WordPress-iOS/issues/5421,Errors,Identified bug
+swift,ad password email pre fill login screen,pr,https://github.com/wireapp/wire-ios/issues/1341,"API Change, Update",Adds functionality
+swift,custom uri paramet oauth token,pr,https://github.com/OAuthSwift/OAuthSwift/issues/198,Update,Adds functionality
+swift,code sign fail archiv export,issue,https://github.com/Carthage/Carthage/issues/1619,Discrepancy,Usage confusion
+swift,error feedbin password invalid chang,issue,https://github.com/Ranchero-Software/NetNewsWire/issues/1056,Discrepancy,Unexpected behaviour
+swift,appli new guidelin unsafemutablepoint,issue,https://github.com/jrendel/SwiftKeychainWrapper/issues/82,Review,Cleaning code
+swift,bcrypt instanc method,issue,https://github.com/vapor/vapor/issues/1299,Review,Updating to better practice
+swift,unabl decompress enter password finder,issue,https://github.com/marmelroy/Zip/issues/160,"API Usage, Discrepancy",Usage confusion
+swift,store share secret password safe,issue,https://github.com/bizz84/SwiftyStoreKit/issues/263,"Review, Conceptual",Discussing security considerations
+swift,link dylib safe applic extens warn,issue,https://github.com/krzyzanowskim/CryptoSwift/issues/164,Errors,Identified bug
+swift,contiguouscollect withunsafebyt method misnam,issue,https://github.com/apple/swift-nio/issues/502,Errors,Identified bug
+swift,use oauthswift lib call web servic use oauth server side authent everi time call servic creat new session server side use cooki jar android app abl maintain session new session creat server case ios code tri follow,issue,https://github.com/OAuthSwift/OAuthSwift/issues/431,"Discrepancy, Errors",Usage confusion
+swift,integr cloudflar captcha token ident system,issue,https://github.com/OnionBrowser/OnionBrowser/issues/145,API Usage,Integrating a component
+swift,queri paramet doubl encod,issue,https://github.com/ishkawa/APIKit/issues/59,Errors,Identified bug
+swift,session leak,issue,https://github.com/socketio/socket.io-client-swift/issues/945,Errors,Identified bug
+swift,add support token authent,issue,https://github.com/watson-developer-cloud/swift-sdk/issues/327,"Update, Review, Conceptual",Adding security consideration
+swift,fix backup password control appear present,pr,https://github.com/wireapp/wire-ios/issues/2004,Review,Cleaning code
+swift,aes cbc encrypt decrypt code,issue,https://github.com/krzyzanowskim/CryptoSwift/issues/547,"API Usage, Discrepancy",Usage question
+swift,decod doubl,pr,https://github.com/hkellaway/Gloss/issues/245,Errors,Identified bug
+swift,store credenti keychain,pr,https://github.com/buildasaurs/Buildasaur/issues/209,Fix,Bug fix
+swift,chang password show inlin valid password,issue,https://github.com/wordpress-mobile/WordPress-iOS/issues/10854,Update,Feature request
+swift,clear login search field select differ login entri desir one,issue,https://github.com/mozilla-mobile/firefox-ios/issues/6403,Errors,Identified bug
+swift,question file encrypt messag,issue,https://github.com/wireapp/wire-ios/issues/2504,Conceptual,Wants to understand functionality
+swift,made oauth verifi public oauthswiftcredenti,pr,https://github.com/OAuthSwift/OAuthSwift/issues/186,Update,Adds functionality
+swift,store credenti keychain,pr,https://github.com/buildasaurs/Buildasaur/issues/208,Fix,Bug fix
+swift,configur oauth bearer authent,issue,https://github.com/OAuthSwift/OAuthSwift/issues/434,API Usage,Usage question
+swift,writewithunsafemutablebyt miss precondit,issue,https://github.com/apple/swift-nio/issues/1503,Errors,Identified bug
+swift,zio show session expir login,pr,https://github.com/wireapp/wire-ios/issues/3187,Fix,Bug fix
+swift,bug make sqlite compil option match previou sqlcipher option v x,pr,https://github.com/mozilla-mobile/firefox-ios/issues/4598,Fix,Bug fix
+swift,authent turnstil,pr,https://github.com/vapor/vapor/issues/547,Update,Adds functionality
+swift,help debug danger danger,pr,https://github.com/realm/SwiftLint/issues/1756,Review,Improving logging
+swift,chore asset updat,pr,https://github.com/fossasia/susi_iOS/issues/173,"Update, Fix",Adds functionality
+swift,fix memori leak,pr,https://github.com/nicklockwood/layout/issues/142,Fix,Bug fix
+swift,encrypt decrypt string,issue,https://github.com/krzyzanowskim/CryptoSwift/issues/358,Discrepancy,Usage confusion
+swift,ajax encod json,issue,https://github.com/httpswift/swifter/issues/177,Discrepancy,Usage confusion
+swift,chang cryptolib,issue,https://github.com/signalapp/Signal-iOS/issues/100,"API Usage, Review",Integrating a component
+swift,xss vulner issu markdown,issue,https://github.com/GitHawkApp/GitHawk/issues/2737,Errors,Identified vulnerability
+swift,ad black white list status,pr,https://github.com/wireapp/wire-ios/issues/1016,Update,Adds functionality
+swift,bug updat login detail ui make websit edit,pr,https://github.com/mozilla-mobile/firefox-ios/issues/4571,Fix,Missing functionality
+swift,reader gravatar imag url contain encod xml entiti caus crash,issue,https://github.com/wordpress-mobile/WordPress-iOS/issues/6281,Errors,Identified bug
+swift,memori leak,issue,https://github.com/tid-kijyun/Kanna/issues/157,Errors,Identified bug
+swift,circleci disabl danger fork develop,pr,https://github.com/wordpress-mobile/WordPress-iOS/issues/10681,Fix,Bug fix
+swift,target content hash part,pr,https://github.com/tuist/tuist/issues/1119,Update,Adds functionality
+swift,close certif valid,issue,https://github.com/Moya/Moya/issues/2041,API Usage,Usage question
+swift,usernam password memori persist,issue,https://github.com/p2/OAuth2/issues/318,"Review, Conceptual",Discussing security considerations
+swift,add action detail disclosur button label row,issue,https://github.com/xmartlabs/Eureka/issues/635,API Usage,Usage question
+swift,forc code sign set ios develop releas configur built depend,issue,https://github.com/Carthage/Carthage/issues/647,Review,Discussing functionality change
+swift,configur alamofir accept unsign ssl cert,issue,https://github.com/Alamofire/Alamofire/issues/540,"Discrepancy, Errors",Usage confusion
+swift,error decrypt openssl encrypt file,issue,https://github.com/krzyzanowskim/CryptoSwift/issues/411,"Discrepancy, Errors",Usage confusion
+swift,everi time differ encrypt string aes key,issue,https://github.com/RNCryptor/RNCryptor/issues/179,Discrepancy,Unexpected behaviour
+swift,best inject side effect properti updat,issue,https://github.com/ReactiveCocoa/ReactiveCocoa/issues/1731,"API Usage, Conceptual",Usage question
+swift,client authent fail due unknown client client authent includ unsupport authent method,issue,https://github.com/p2/OAuth2/issues/134,"Discrepancy, Errors",Unexpected error
+swift,support step authent,issue,https://github.com/wordpress-mobile/WordPress-iOS/issues/269,Review,Discussing functionality change
+swift,wip fix pin login failur,pr,https://github.com/artsy/eidolon/issues/530,Fix,Bug fix
+swift,cannot decrypt encrypt text use aes ctr,issue,https://github.com/krzyzanowskim/CryptoSwift/issues/807,Discrepancy,Usage confusion
+swift,creat autom test check googl sign avail,issue,https://github.com/mozilla-mobile/focus-ios/issues/1300,Review,Adding tests
+swift,sessiondeleg protectedrequest grow infinit,issue,https://github.com/Alamofire/Alamofire/issues/2411,Errors,Identified bug
+powershell,auto batch keyvault pfx password,pr,https://github.com/Azure/azure-quickstart-templates/issues/5528,Update,Adds documentation
+powershell,auto api manag creat keyvault ssl,pr,https://github.com/Azure/azure-quickstart-templates/issues/4412,Update,Adds documentation
+powershell,ad action role trust polici break provis,issue,https://github.com/MicrosoftDocs/azure-docs/issues/51322,Discrepancy,Unexpected behaviour
+powershell,ctrl alt delet window helo fingerprint login,issue,https://github.com/MicrosoftDocs/windows-itpro-docs/issues/1195,Update,Feature request
+powershell,speccyhash check fail,issue,https://github.com/lukesampson/scoop-extras/issues/1959,API Usage,Integrating a component
+powershell,support sign multipl aad directori tenant,issue,https://github.com/MicrosoftDocs/vsonline/issues/39,,
+powershell,rdcertif mood exampl secur certif,issue,https://github.com/MicrosoftDocs/windows-powershell-docs/issues/2005,,Incorrect behaviour
+powershell,oauth authent token use,issue,https://github.com/OneDrive/onedrive-api-docs/issues/24,Conceptual,Wants to understand functionality
+powershell,retriev encrypt method powershel,issue,https://github.com/MicrosoftDocs/windows-powershell-docs/issues/447,API Usage,Usage question
+powershell,allow architectur specif hash extract,issue,https://github.com/lukesampson/scoop/issues/1433,Update,Feature request
+powershell,section abandon exist encrypt key,pr,https://github.com/MicrosoftDocs/azure-docs/issues/50120,Review,Cleaning code
+powershell,referenc secur center complianc access,issue,https://github.com/MicrosoftDocs/microsoft-365-docs/issues/2154,API Usage,Usage question
+powershell,hst secur advic danger incorrect,issue,https://github.com/MicrosoftDocs/windowsserverdocs/issues/3982,"Review, Conceptual",Discussing security considerations
+powershell,bypassuac get detect av,issue,https://github.com/EmpireProject/Empire/issues/151,Discrepancy,Virus flagging
+powershell,team privaci,issue,https://github.com/microsoftgraph/microsoft-graph-docs/issues/6048,Update,Feature request
+powershell,sqlserverlogin sqlserverloginpassword set secur password string method accept plain text version password,issue,https://github.com/dsccommunity/SqlServerDsc/issues/361,Errors,Identified vulnerability
+powershell,inconsist avail,issue,https://github.com/MicrosoftDocs/windows-itpro-docs/issues/4852,"API Usage, Update",Integrating a component
+powershell,intern gener privat key never see light day,issue,https://github.com/MicrosoftDocs/azure-docs/issues/12158,"Review, Conceptual",Discussing security considerations
+powershell,az ad sp creat rbac longer password option,issue,https://github.com/MicrosoftDocs/azure-docs/issues/38046,Review,Cleaning code
+powershell,pap authent special charact,issue,https://github.com/MicrosoftDocs/azure-docs/issues/35660,Discrepancy,Incorrenct behaviour
+powershell,sideload app window page step import secur certif seem switch manag unmanag devic,issue,https://github.com/MicrosoftDocs/windows-itpro-docs/issues/131,Discrepancy,Unexpected behaviour
+powershell,feat autoupd add multipl url hash extract dir support autoupd,pr,https://github.com/lukesampson/scoop/issues/3518,Update,Adds functionality
+powershell,configur access audit log cli powershel,issue,https://github.com/MicrosoftDocs/azure-docs/issues/52270,Update,Feature request
+powershell,valid templat file todo,pr,https://github.com/redcanaryco/atomic-red-team/issues/389,Review,Cleaning code
+powershell,updat autom credenti md,pr,https://github.com/MicrosoftDocs/azure-docs/issues/3444,Update,Adds documentation
+powershell,ps xml file sign,issue,https://github.com/pester/Pester/issues/1356,"Review, Discrepancy",Discussing security considerations
+powershell,tri updat user offic assignedlicens read,issue,https://github.com/microsoftgraph/microsoft-graph-docs/issues/744,Discrepancy,Unexpected behaviour
+powershell,updat azur secur disk encrypt tsg md,pr,https://github.com/MicrosoftDocs/azure-docs/issues/2676,Update,Adds documentation
+powershell,fix git push error protect cla branch,pr,https://github.com/MicrosoftDocs/cpp-docs/issues/1504,Fix,Bug fix
+powershell,set tenant name user name work,issue,https://github.com/OfficeDev/O365-InvestigationTooling/issues/4,Discrepancy,Incorrect behaviour
+powershell,latexhash check fail,issue,https://github.com/ScoopInstaller/Main/issues/627,Errors,Identified bug
+powershell,fix articl activ directori develop activ directori saml protocol refer md,pr,https://github.com/MicrosoftDocs/azure-docs/issues/27860,Review,Cleaning code
+powershell,encrypt c,issue,https://github.com/MicrosoftDocs/azure-docs/issues/16753,"Review, Conceptual",Discussing security considerations
+powershell,resourc hackerhash check fail,issue,https://github.com/lukesampson/scoop-extras/issues/1109,Errors,Identified bug
+powershell,threat vulner manag vs secur center vulner,issue,https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5188,Conceptual,Wants to understand functionality
+powershell,wrong valu ssl client auth hdi,issue,https://github.com/MicrosoftDocs/azure-docs/issues/51655,Errors,Identified bug
+powershell,use aadloginforlinux ssh harden vm,issue,https://github.com/MicrosoftDocs/azure-docs/issues/19419,API Usage,Usage question
+powershell,login stuck complet factor authent,issue,https://github.com/MicrosoftDocs/vsonline/issues/174,,
+powershell,add support secur store credenti via protecteddata modul,issue,https://github.com/alanrenouf/vCheck-vSphere/issues/378,Update,Adds functionality
+powershell,updat configur authent feder user portal md,pr,https://github.com/MicrosoftDocs/azure-docs/issues/10452,Review,Cleaning code
+powershell,capppool test targetresourc incorrectli report password match,issue,https://github.com/PowerShellOrg/DSC/issues/24,Errors,Identified bug
+powershell,fix powershel error remov certif hash rdp,pr,https://github.com/MicrosoftDocs/azure-docs/issues/39993,Fix,Bug fix
+powershell,bracket version wrong download hash repositori,issue,https://github.com/chocolatey-community/chocolatey-coreteampackages/issues/797,Errors,Identified bug
+powershell,fix articl app servic faq avail perform applic issu md,pr,https://github.com/MicrosoftDocs/azure-docs/issues/24452,Update,Adds functionality
+powershell,cmsoftwareupdatedeploymentpackag cannot valid argument paramet id,issue,https://github.com/paulwetter/DocumentConfigMgrCB/issues/45,"Discrepancy, Errors",Doesn't understand error
+powershell,instal step secur consider,issue,https://github.com/lukesampson/scoop/issues/2583,"Review, Conceptual",Discussing security considerations
+powershell,mislead address ssh command,issue,https://github.com/MicrosoftDocs/azure-docs/issues/6602,Review,Cleaning code
+powershell,encrypt email document,issue,https://github.com/MicrosoftDocs/microsoft-365-docs/issues/1091,API Usage,Usage question
+powershell,modul thread safeti contain unrel section local zh cn,issue,https://github.com/dotnet/AspNetCore.Docs.zh-cn/issues/281,Discrepancy,Unexpected behaviour
+powershell,avail includ southeast asia,issue,https://github.com/MicrosoftDocs/powerbi-docs/issues/1446,API Usage,Usage question
+powershell,base output assign contentbyt,issue,https://github.com/microsoftgraph/microsoft-graph-docs/issues/5159,API Usage,Usage question
+powershell,miss inform regard privat key permiss,issue,https://github.com/MicrosoftDocs/sql-docs/issues/3048,Update,Feature request
+powershell,encrypt token uri psslack xml,issue,https://github.com/RamblingCookieMonster/PSSlack/issues/7,Review,Discussing security considerations
+powershell,paramet decryptattachmentfromport depreci,issue,https://github.com/MicrosoftDocs/microsoft-365-docs/issues/578,Review,Cleaning code
+powershell,cheat engin fix hash,pr,https://github.com/lukesampson/scoop-extras/issues/2720,Fix,Bug fix
+powershell,describ encod uhd k p adapt stream,issue,https://github.com/MicrosoftDocs/azure-docs/issues/16793,API Usage,Usage question
+powershell,invok shellcod caught window defend,issue,https://github.com/EmpireProject/Empire/issues/938,Discrepancy,Virus flagging
+powershell,miss explan diskencryptionkeyfilenam,issue,https://github.com/MicrosoftDocs/azure-docs/issues/44323,Conceptual,Wants to understand functionality
+powershell,crm user privileg enhanc,pr,https://github.com/seanmcne/Microsoft.Xrm.Data.PowerShell/issues/5,Update,Adds functionality
+powershell,store param remov self sign script,pr,https://github.com/MicrosoftDocs/PowerShell-Docs/issues/733,Review,Cleaning code
+powershell,secur boot polici testsign,issue,https://github.com/appveyor/ci/issues/919,"API Change, Errors",Version issue
+powershell,default checksum algorithm sha,pr,https://github.com/dotnet/docs/issues/14513,Update,Adds documentation
+powershell,updat secur overview md,pr,https://github.com/MicrosoftDocs/azure-docs/issues/20964,Update,Adds documentation
+powershell,updat ad fs singl sign set md,pr,https://github.com/MicrosoftDocs/windowsserverdocs/issues/1613,Update,Adds documentation
+powershell,fix new authent document,pr,https://github.com/PowerShell/Polaris/issues/192,Update,Adds documentation
+powershell,sharepoint onlin client extens web applic princip find public signatur,issue,https://github.com/SharePoint/sp-dev-docs/issues/3860,API Usage,Usage question
+powershell,csp avail,issue,https://github.com/MicrosoftDocs/azure-docs/issues/53145,API Usage,Usage question
+powershell,vm report failur process extens azurediskencryptionforlinux error messag enabl fail,issue,https://github.com/Azure/azure-quickstart-templates/issues/2808,"API Usage, Errors",Install issue
+perl,obfusc password node user bulk import,issue,https://github.com/inverse-inc/packetfence/issues/4870,Errors,Identified vulnerability
+perl,ssl authent show full dn instead cn,pr,https://github.com/sni/Thruk/issues/137,Discrepancy,Incorrect behaviour
+perl,verifi pdf signatur adob aatl file,pr,https://github.com/kirei/catt/issues/9,Fix,Missing functionality
+perl,fqdn xcatd certif subjectaltnam,pr,https://github.com/xcat2/xcat-core/issues/754,Review,Adding security consideration
+perl,clarif document keepassxc entri protect,issue,https://github.com/asbru-cm/asbru-cm/issues/565,"API Usage, Conceptual",Wants to understand functionality
+perl,add operabas otherdatabas whitelist,pr,https://github.com/metabrainz/musicbrainz-server/issues/542,"Update, Review",Cleaning code
+perl,insecur eval perlio,issue,https://github.com/Perl/perl5/issues/13168,Review,Discussing security considerations
+perl,inreleas follow signatur invalid keyexpir,issue,https://github.com/openxpki/openxpki/issues/646,API Change,Expiration
+perl,fail authent use symbol,issue,https://github.com/RexOps/Rex/issues/517,Errors,Identified bug
+perl,ascii charact use password,issue,https://github.com/yuki-kimoto/gitprep/issues/20,Update,Feature request
+perl,famili zone firewal sso support,pr,https://github.com/inverse-inc/packetfence/issues/4606,"Update, API Usage",Integrating a component
+perl,bmcdiscov bmc password expir,pr,https://github.com/xcat2/xcat-core/issues/6524,API Change,Expiration
+perl,bot request password chang,issue,https://github.com/andk/pause/issues/300,Review,Discussing security considerations
+perl,utf decod turn undef defin,issue,https://github.com/Perl/perl5/issues/12475,Errors,Identified vulnerability
+perl,json request bodi contain calc z valu mod secur captur,issue,https://github.com/SpiderLabs/owasp-modsecurity-crs/issues/1606,Errors,Identified bug
+perl,bug fix session hijack,pr,https://github.com/SpiderLabs/owasp-modsecurity-crs/issues/8,Fix,Bug fix
+perl,add firedr media emb whitelist,issue,https://github.com/dreamwidth/dw-free/issues/828,Update,Adds functionality
+perl,sourceforg bug ubuntu pre script execut provis cn,issue,https://github.com/xcat2/xcat-core/issues/10,Errors,Identified bug
+perl,warn userha user name password user login lock,issue,https://github.com/major/MySQLTuner-perl/issues/102,"Discrepancy, Update",Feature request
+perl,tlsv option cipher list seclevel,issue,https://github.com/adrienverge/openfortivpn/issues/687,"API Change, Discrepancy",Version issue
+perl,featur request renam folder backend nom backend sha,issue,https://github.com/tadzik/rakudobrew/issues/41,Update,Feature request
+perl,jag core param hash unsaf,pr,https://github.com/zentyal/zentyal/issues/83,Errors,Identified vulnerability
+perl,set tls privat key tls certif per node effect,issue,https://github.com/munin-monitoring/munin/issues/1179,Errors,Identified bug
+perl,switch type aruba login privileg mode radiu repli use incorrect vsa,issue,https://github.com/inverse-inc/packetfence/issues/5223,Errors,Identified bug
+perl,dmidecod warn osx,issue,https://github.com/fusioninventory/fusioninventory-agent/issues/711,API Change,Version issue
+perl,correct session fixat detect login,issue,https://github.com/SpiderLabs/owasp-modsecurity-crs/issues/481,Review,Discussing security considerations
+perl,default usernam password passwd tabl openbmc,pr,https://github.com/xcat2/xcat-core/issues/2695,Update,Adds functionality
+perl,password lost reset password option login popup,issue,https://github.com/NixOS/hydra/issues/157,Update,Feature request
+perl,alway hide cleartext password vv output,pr,https://github.com/adrienverge/openfortivpn/issues/535,Discrepancy,Incorrect behaviour
+perl,spam adam,issue,https://github.com/andk/pause/issues/301,Update,Adds functionality
+perl,box strang behaviour call set credenti,issue,https://github.com/RexOps/Rex/issues/157,Discrepancy,Unexpected behaviour
+perl,add sshcipher option,pr,https://github.com/jimsalterjrs/sanoid/issues/96,Review,Updating to better practice
+perl,pf admin display wrong password login,issue,https://github.com/inverse-inc/packetfence/issues/2191,Discrepancy,Unexpected behaviour
+perl,encrypt custom packet key,issue,https://github.com/OpenKore/openkore/issues/474,API Usage,Usage question
+perl,secur session cooki test,pr,https://github.com/mojolicious/mojo/issues/67,Update,Adds functionality
+perl,increas cooki size,issue,https://github.com/adrienverge/openfortivpn/issues/171,Errors,Identified bug
+perl,op crypt fail fip mode,issue,https://github.com/Perl/perl5/issues/13715,Errors,Identified bug
+perl,chang default password cumulu switch,issue,https://github.com/xcat2/xcat-core/issues/3743,Review,Discussing security considerations
+perl,send raw packet login possibl,issue,https://github.com/OpenKore/openkore/issues/99,API Usage,Usage question
+perl,ad entir modsecur bad robot data affect,issue,https://github.com/SpiderLabs/owasp-modsecurity-crs/issues/170,Discrepancy,Unexpected behaviour
+perl,featur session cooki site,pr,https://github.com/PerlDancer/Dancer2/issues/1548,Update,Adds functionality
+perl,password avoid ambigu charact gener pronounc password,issue,https://github.com/duckduckgo/zeroclickinfo-goodies/issues/4456,Update,Feature request
+perl,bin rt print password prompt stderr,pr,https://github.com/bestpractical/rt/issues/275,Update,Feature request
+perl,public key still login work lock user,issue,https://github.com/AndriiGrytsenko/openssh-ldap-publickey/issues/14,API Usage,Usage question
+perl,password gener name argument dictionari file,issue,https://github.com/bbusschots/hsxkpasswd/issues/38,"Discrepancy, Errors",Usage confusion
+perl,incorrect warn filehandl stdin reopen testfil output decod form line,issue,https://github.com/Perl/perl5/issues/6770,Errors,Identified bug
+perl,invalid argument tunnel multipl host,issue,https://github.com/ryancdotorg/ssh-chain/issues/1,Errors,Identified bug
+perl,http certif,issue,https://github.com/davisjam/vuln-regex-detector/issues/17,Review,Discussing security considerations
+perl,migrat exist privat key new openssh format,issue,https://github.com/dolmen/github-keygen/issues/42,API Change,Update Issue
+perl,json encod utf flag scalar string,pr,https://github.com/mojolicious/mojo/issues/1173,Review,Updating to better practice
+perl,token length except hashcat,issue,https://github.com/philsmd/7z2hashcat/issues/27,"Discrepancy, Errors",Unexpected error
+perl,issu xss open redirect wwsympa,pr,https://github.com/sympa-community/sympa/issues/411,Fix,Bug fix
+perl,use http request object caus cooki duplic,issue,https://github.com/libwww-perl/libwww-perl/issues/5,Discrepancy,Unexpected behaviour
+perl,add usernam match oauth sourc rule,pr,https://github.com/inverse-inc/packetfence/issues/185,Review,Updating to better practice
+perl,unicod author data doubl encod,issue,https://github.com/rjbs/Dist-Zilla/issues/211,Errors,Identified bug
+perl,project p paramet properli valid,issue,https://github.com/broquaint/Gitalist/issues/12,Errors,Identified vulnerability
+perl,fix apach ssl config,pr,https://github.com/inverse-inc/packetfence/issues/164,Review,Updating to better practice
+perl,xdsh read credenti passwd tabl ibswitch,pr,https://github.com/xcat2/xcat-core/issues/2445,Fix,Bug fix
+perl,sql fals neg filter bypass,issue,https://github.com/SpiderLabs/owasp-modsecurity-crs/issues/206,Errors,Identified bug
+perl,configur save wrong hash type,issue,https://github.com/inverse-inc/packetfence/issues/454,Errors,Identified bug
+perl,get error let encrypt updat cpanel latest version,issue,https://github.com/Prajithp/letsencrypt-cpanel/issues/117,"Discrepancy, Errors",Unexpected error
+perl,fix openva integr,pr,https://github.com/inverse-inc/packetfence/issues/3814,Fix,Bug fix
+perl,http ssl certif configur apach intermedi certif,issue,https://github.com/inverse-inc/packetfence/issues/5053,Update,Missing functionality
+perl,new valid trigger phone field design properli,issue,https://github.com/microsoft/ALAppExtensions/issues/253,Errors,Identified bug
+perl,option openssl direct usag crypto oper,issue,https://github.com/mrash/fwknop/issues/36,Update,Feature request
+perl,cooki cooki keyword default,pr,https://github.com/PerlDancer/Dancer2/issues/1362,Review,Updating to better practice
+perl,disabl certif check github download,pr,https://github.com/gugod/App-perlbrew/issues/380,Fix,Bug fix
+perl,upload file duplic treehash,issue,https://github.com/vsespb/mt-aws-glacier/issues/84,API Usage,Usage question
+go,add aead encrypt transform store secret encrypt rest,pr,https://github.com/kubernetes/kubernetes/issues/41939,Update,Adds functionality
+go,curl insecur return ingress fake certif,issue,https://github.com/kubernetes/ingress-nginx/issues/2130,Discrepancy,Unexpected behaviour
+go,unabl creat new connect tunnel,issue,https://github.com/olivere/elastic/issues/1052,Errors,Identified bug
+go,hash,issue,https://github.com/cyfdecyf/cow/issues/302,"API Usage, Discrepancy",Usage confusion
+go,circleci chang docker login command,issue,https://github.com/aquasecurity/trivy/issues/457,Review,Updating to better practice
+go,unabl case insensit usernam harbor extern auth,issue,https://github.com/goharbor/harbor/issues/9466,Discrepancy,Incorrect behaviour
+go,dnssec pihol activ dnscrypt,issue,https://github.com/DNSCrypt/dnscrypt-proxy/issues/814,API Usage,Usage question
+go,rc tls go open cert pem file directori,issue,https://github.com/ginuerzh/gost/issues/38,Errors,Doesn't understand error
+go,html encod issu comment,issue,https://github.com/gogs/gogs/issues/1709,Discrepancy,Unexpected behaviour
+go,fix certif rotat threshold add jitter,pr,https://github.com/kubernetes/kubernetes/issues/42498,Fix,Bug fix
+go,session fix user usernam contain auth error,pr,https://github.com/pingcap/tidb/issues/3749,Fix,Bug fix
+go,unabl decod key mac,issue,https://github.com/keybase/client/issues/20380,Errors,Identified bug
+go,backend encrypt broken,issue,https://github.com/gruntwork-io/terragrunt/issues/179,Errors,Identified bug
+go,dao implement docker cli password,issue,https://github.com/goharbor/harbor/issues/7121,Update,Adds functionality
+go,docker registri token sign untrust key,issue,https://github.com/docker/distribution/issues/2880,"API Usage, Discrepancy",Usage confusion
+go,valid webhook valid nginx ingress kubernet io annot key invalid format,issue,https://github.com/kubernetes/ingress-nginx/issues/5738,Errors,Identified bug
+go,improv certif gener exampl ad reason expir,pr,https://github.com/elastic/logstash-forwarder/issues/462,Review,Adds documentation
+go,x crypto pkc incorrect result use pbkdf sha hash function,issue,https://github.com/golang/go/issues/22163,Discrepancy,Incorrect behaviour
+go,provid api system admin manag system level vulner whitelist,issue,https://github.com/goharbor/harbor/issues/8061,Update,Adds functionality
+go,document thread safeti plugin,issue,https://github.com/mozilla-services/heka/issues/1262,"API Usage, Conceptual",Wants to understand functionality
+go,support vscode builtin github authent,issue,https://github.com/cli/cli/issues/1074,Update,Feature request
+go,host version dosn trust certif krebsonsecur com,issue,https://github.com/miniflux/miniflux/issues/265,Discrepancy,Virus flagging
+go,authent failur correct password,issue,https://github.com/github/hub/issues/501,"Discrepancy, Errors",Unexpected error
+go,support ldap authent via code host authent,issue,https://github.com/sourcegraph/sourcegraph/issues/1001,"Update, Review",Adding security consideration
+go,continu fuzz,issue,https://github.com/loadimpact/k6/issues/1135,Review,Discussing security considerations
+go,eks x certif sign unknown author,issue,https://github.com/kubernetes-sigs/metrics-server/issues/494,"Discrepancy, Errors",Unexpected error
+go,wire advanc audit asset oauth api server,pr,https://github.com/openshift/origin/issues/16567,Fix,Missing functionality
+go,question mixer custom servic authent,issue,https://github.com/istio/istio/issues/9141,API Usage,Usage question
+go,improv link speed fingerprint error report,pr,https://github.com/hashicorp/nomad/issues/139,Review,Improving functionality
+go,snmp plugin behavior upon checksum error,issue,https://github.com/influxdata/telegraf/issues/2152,"Review, Discrepancy",Discussing security considerations
+go,circl ci push tag imag sso dev,pr,https://github.com/buzzfeed/sso/issues/46,Update,Adds functionality
+go,ssh unexpectedli close ss ip,issue,https://github.com/xtaci/kcptun/issues/257,Discrepancy,Unexpected behaviour
+go,script releas add sha sum summari releas asset,pr,https://github.com/etcd-io/etcd/issues/11087,Update,Adds functionality
+go,mac work fine password alway request client certif,issue,https://github.com/FiloSottile/mkcert/issues/157,API Usage,Usage question
+go,combin allow fals publickeynam ssh config open port access world public nodegroup sg,issue,https://github.com/weaveworks/eksctl/issues/1089,Errors,Identified bug
+go,cli ui creat safeti rail deploy,issue,https://github.com/cockroachdb/cockroach/issues/12157,Review,Updating to better practice
+go,registerdi safe call multipl goroutin,issue,https://github.com/go-sql-driver/mysql/issues/772,Errors,Identified bug
+go,rke error remot error tls bad certif,issue,https://github.com/rancher/rke/issues/847,"Errors, Discrepancy",Unexpected error
+go,sidecar annot inject enabl namespac inject disabl sidecar inject,issue,https://github.com/istio/istio/issues/15619,Discrepancy,Unexpected behaviour
+go,fix leak connect integr test,pr,https://github.com/moby/moby/issues/30077,Fix,Bug fix
+go,doc improv entrypoint whitelist v,pr,https://github.com/containous/traefik/issues/6571,Update,Adds functionality
+go,abc plugin sandbox linux amd,pr,https://github.com/mattermost/mattermost-server/issues/8068,Update,Adds functionality
+go,featur request allow set trust ssh ca cloud config yaml,issue,https://github.com/rancher/os/issues/637,Update,Feature request
+go,error login remot docker registri use minishift docker env,issue,https://github.com/minishift/minishift/issues/1441,Errors,Identified bug
+go,someon help solv probelm git commit err error hack lib etcd sh,issue,https://github.com/kubernetes/kubernetes/issues/31338,"Discrepancy, Errors",Doesn't understand error
+go,net tls config servernam ignor line net transport go,issue,https://github.com/golang/go/issues/5829,Discrepancy,Unexpected behaviour
+go,fix handl decrypt error audit,pr,https://github.com/gopasspw/gopass/issues/249,Fix,Bug fix
+go,consolid hack script directori,pr,https://github.com/knative/serving/issues/454,Review,Cleaning code
+go,issu login use window client,issue,https://github.com/keybase/client/issues/4024,Discrepancy,Unexpected behaviour
+go,bug report metanod leak memori,issue,https://github.com/chubaofs/chubaofs/issues/333,Errors,Identified bug
+go,window password paragraph charact problem,issue,https://github.com/restic/restic/issues/1738,Errors,Identified bug
+go,js need comput union type decod,pr,https://github.com/attic-labs/noms/issues/1523,Review,Cleaning code
+go,ca delet old node premis k cluster ignor autosc rule instanc protect,issue,https://github.com/kubernetes/autoscaler/issues/3220,Discrepancy,Usage confusion
+go,ms ad login group empti question,issue,https://github.com/dexidp/dex/issues/1651,Discrepancy,Usage confusion
+go,creat rolebind ldap group subject grant member permiss role,issue,https://github.com/rancher/rancher/issues/12204,Discrepancy,Incorrect behaviour
+go,fix url pars logic norman allow login request work port,issue,https://github.com/rancher/rancher/issues/26434,Errors,Identified bug
+go,fix error creat root aws credenti nonexist directori,pr,https://github.com/mlabouardy/komiser/issues/82,Fix,Bug fix
+go,azur authent avail offici terraform docker imag,issue,https://github.com/terraform-providers/terraform-provider-azurerm/issues/3781,API Usage,Usage question
+go,crypto combinedmult speedup secp k verif,issue,https://github.com/tendermint/tendermint/issues/2290,Review,Improving functionality
+go,roachtest kv encrypt fals node fail,issue,https://github.com/cockroachdb/cockroach/issues/31578,Errors,Identified bug
+go,u f login broken,issue,https://github.com/gravitational/teleport/issues/842,Errors,Identified bug
+go,forc null termin tf filenam avoid buffer overflow,pr,https://github.com/hpcng/singularity/issues/1048,Fix,Bug fix
+go,json transmit untrust inbox core,pr,https://github.com/keybase/client/issues/8121,Review,Improving functionality
+go,tls,issue,https://github.com/Dreamacro/clash/issues/487,Errors,Identified bug
+go,registri fail start certif file encod utf bom,issue,https://github.com/docker/distribution/issues/3179,Errors,Identified bug
+go,fix race condit start salt minion salt master,pr,https://github.com/kubernetes/kubernetes/issues/1775,Fix,Bug fix
+go,expos cooki path configur paramet,pr,https://github.com/oauth2-proxy/oauth2-proxy/issues/122,Update,Adds functionality
+go,specifi algorithm cipher suit,pr,https://github.com/google/trillian/issues/699,Update,Adds functionality
+typescript,simplifi default sign,issue,https://github.com/EOSIO/eosjs/issues/17,Review,Refactor
+typescript,fix exampl field valid readm md,pr,https://github.com/formik/formik/issues/482,Fix,Bug fix
+typescript,page user name search access,issue,https://github.com/syuilo/misskey/issues/1310,Errors,Identified bug
+typescript,bower compon automat ad asset,issue,https://github.com/linnovate/mean/issues/928,Update,Feature request
+typescript,allow embed crc md checksum filenam check calcul checksum,issue,https://github.com/balena-io/etcher/issues/1113,"Update, Conceptual",Wants to understand functionality
+typescript,add strict option fail build error danger report,pr,https://github.com/danger/danger-js/issues/847,Update,Adds functionality
+typescript,test valid content flash state object,pr,https://github.com/balena-io/etcher/issues/526,Review,Adding tests
+typescript,remov usernam submodul,pr,https://github.com/cucumber/cucumber-js/issues/30,Review,Cleaning code
+typescript,applic integr insur,issue,https://github.com/wireapp/wire-desktop/issues/115,"Review, Conceptual",Discussing security considerations
+typescript,contribut redirect previous save url login authent,issue,https://github.com/ngx-rocket/generator-ngx-rocket/issues/388,Update,Adds functionality
+typescript,integr app servic creation sandbox subscript learn modul,issue,https://github.com/microsoft/WebTemplateStudio/issues/1207,Update,Adds functionality
+typescript,improv set sync flow authent,issue,https://github.com/microsoft/vscode/issues/94766,"Update, Review",Improving functionality
+typescript,raddataform password field present word suggest,issue,https://github.com/NativeScript/NativeScript/issues/5507,Discrepancy,Incorrect behaviour
+typescript,add changelog md entri revert usag crypto,pr,https://github.com/firebase/firebase-js-sdk/issues/2873,Update,Adds documentation
+typescript,authent bypass auth requir certain url,issue,https://github.com/aws-amplify/amplify-js/issues/4726,API Usage,Usage question
+typescript,make azur login entri point discover,issue,https://github.com/microsoft/azuredatastudio/issues/2961,Update,Feature request
+typescript,scheme oauth,pr,https://github.com/nuxt-community/auth-module/issues/74,Update,Adds functionality
+typescript,passportstrategi default field valu usernam password field exampl email password,issue,https://github.com/nestjs/nest/issues/4918,API Usage,Usage question
+typescript,secur vulner,issue,https://github.com/ParabolInc/parabol/issues/2624,Errors,Identified vulnerability
+typescript,add cookiejar option,pr,https://github.com/sindresorhus/got/issues/596,Update,Adds functionality
+typescript,fix server node nlp servic secur vulner artp,pr,https://github.com/AdaptiveConsulting/ReactiveTraderCloud/issues/1323,"Fix, API Change",Version update
+typescript,allow administr chang user password,issue,https://github.com/Chocobozzz/PeerTube/issues/517,Update,Feature request
+typescript,favour formattedmessag injectintl,issue,https://github.com/este/este/issues/943,Review,Refactor
+typescript,kibana login enabl xpack secur server basepath time,issue,https://github.com/elastic/kibana/issues/46594,Discrepancy,Unexpected behaviour
+typescript,allow oauth authent minim userinfo,issue,https://github.com/grafana/grafana/issues/13141,Update,Feature request
+typescript,enter submit signin form focu password field,issue,https://github.com/aws-amplify/amplify-js/issues/1019,Discrepancy,Incorrect behaviour
+typescript,extern tile server requir authent,issue,https://github.com/elastic/kibana/issues/15344,"Update, API Usage",Integrating a component
+typescript,toggl cooki storag,issue,https://github.com/puppeteer/puppeteer/issues/1632,Update,Feature request
+typescript,fix fluctuat broadhash consensu,issue,https://github.com/LiskHQ/lisk-sdk/issues/319,Errors,Identified bug
+typescript,refactor notelist alreadi assign list iter,pr,https://github.com/Automattic/simplenote-electron/issues/1808,Review,Refactor
+typescript,mac login error,issue,https://github.com/LeetCode-OpenSource/vscode-leetcode/issues/136,Errors,Identifed bug
+typescript,ubuntu server configur authent issu without ssl attach,issue,https://github.com/tlaverdure/laravel-echo-server/issues/468,Discrepancy,Unexpected behaviour
+typescript,dispatch signedin custom ui authent,issue,https://github.com/aws-amplify/amplify-js/issues/2683,API Usage,Usage question
+typescript,use firebas ionic rc navig issu firebas auth signinwithemailandpassword email password,issue,https://github.com/ionic-team/ionic/issues/8450,"API Usage, Discrepancy",Unexpected behaviour
+typescript,sso autologin work,issue,https://github.com/spring-guides/tut-spring-security-and-angular-js/issues/24,"API Usage, Discrepancy",Usage confusion
+typescript,provid server ssl clientauthent set kibana,issue,https://github.com/elastic/kibana/issues/15835,Update,Feature request
+typescript,feat oauth scheme session base secur frontend backend,pr,https://github.com/nuxt-community/auth-module/issues/488,Update,Feature request
+typescript,delet folder delet password default least prompt user,issue,https://github.com/bitwarden/browser/issues/462,"Update, Review",Feature request
+typescript,v run electron forg project sharp packag,issue,https://github.com/electron-userland/electron-forge/issues/1058,"API Usage, Errors",Issue integrating a component
+typescript,ios error evalu injectedjavascript possibl due unsupport return type simul phone,issue,https://github.com/react-native-community/react-native-webview/issues/269,Errors,Identified bug
+typescript,make nugetauthent task instal netfx credenti provid linux,pr,https://github.com/microsoft/azure-pipelines-tasks/issues/12525,Fix,Missing functionality
+typescript,wip remov sandbox extens,pr,https://github.com/mozilla/shumway/issues/516,Review,Cleaning code
+typescript,fail test x pack space api integr test space x pack test space api integr space api ts space api without secur access space default hook,issue,https://github.com/elastic/kibana/issues/32867,Errors,Identified bug
+typescript,first scenario authent order minim authent,issue,https://github.com/strongloop/loopback-next/issues/1998,"Review, Conceptual",Discussing security considerations
+typescript,loopback authent pass role loopback author thu get everytim,issue,https://github.com/strongloop/loopback-next/issues/5603,Errors,Identified bug
+typescript,xss login form,issue,https://github.com/cdr/code-server/issues/1379,Errors,Identified bug
+typescript,deno typescript asset outsid crate,pr,https://github.com/denoland/deno/issues/3739,Errors,Identified bug
+typescript,event click outsid recaptcha,issue,https://github.com/firebase/firebase-js-sdk/issues/2636,Update,Feature request
+typescript,script lang fetch enabl lang health check,issue,https://github.com/elastic/kibana/issues/12453,Update,Feature request
+typescript,document authent set,pr,https://github.com/elastic/kibana/issues/69284,Update,Adds functionality
+typescript,tinymc nonedit plugin encod content,issue,https://github.com/tinymce/tinymce/issues/2529,Review,Discussing security considerations
+typescript,chore remov asset dir,pr,https://github.com/angular/angular-cli/issues/319,Review,Refactor
+typescript,dep deprecationwarn crypto default encod deprec,issue,https://github.com/textlint/textlint/issues/620,"API Change, Errors",Expiration
+typescript,git show commit short hash instead head detach,issue,https://github.com/eclipse-theia/theia/issues/3229,Update,Feature request
+typescript,updat npm run avoid potenti exploit,pr,https://github.com/firebase/firebase-js-sdk/issues/1406,Fix,Bug fix
+typescript,fix gradl wrapper updat checksum,pr,https://github.com/renovatebot/renovate/issues/6162,Fix,Bug fix
+typescript,featur add author author function perform return promis render promiserend compon add,pr,https://github.com/ant-design/ant-design-pro/issues/1641,Discrepancy,Incorrect behaviour
+typescript,cooki signatur fix return type unsign function,pr,https://github.com/DefinitelyTyped/DefinitelyTyped/issues/37228,Fix,Bug fix
+typescript,authent provid regist messag,issue,https://github.com/microsoft/vscode/issues/94053,Discrepancy,Unexpected behaviour
+typescript,creat webini load asset packag easier inclus addit script link eg stylesheet,pr,https://github.com/webiny/webiny-js/issues/304,Update,Adds functionality
+typescript,fail test x pack space api integr test secur space x pack test space api integr secur space api delet ts space api secur delet dual privileg user space space return,issue,https://github.com/elastic/kibana/issues/31864,Errors,Identified bug
+typescript,valid sentenc,issue,https://github.com/mozilla/voice-web/issues/269,Conceptual,Discussing security considerations
+typescript,unign signatur incorrect merg propos option paramet,issue,https://github.com/palantir/tslint/issues/2088,Errors,Identified bug
+typescript,flaki test api kerbero secur kerbero authent finish spnego properli cooki authent user,issue,https://github.com/elastic/kibana/issues/68836,Review,Updating to better practice
+typescript,maddi prompt password differ,pr,https://github.com/microsoft/azuredatastudio/issues/4537,Update,Adds functionality
+typescript,add option encod paramet cookiesetopt,pr,https://github.com/reactivestack/cookies/issues/232,Update,Adds functionality
+typescript,build fail fail run custom build command openssl sys v,issue,https://github.com/witheve/Eve/issues/208,"API Change, Errors",Update Issue
+typescript,commit hash short larg repo,issue,https://github.com/desktop/desktop/issues/6662,Review,Discussing security considerations

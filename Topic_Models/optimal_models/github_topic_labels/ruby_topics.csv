@@ -1,0 +1,12 @@
+Topic ID,Top Words,Category,Sub-Category,Specifics
+TOPIC 0,asset app file imag rail png path url gener work ,Secure Development,Implementation,
+TOPIC 1,net ssh debug connect kb type info sha session server ,Network Security,Client/Server,ssh connection
+TOPIC 2,login authent token request credenti api access user use log ,Access Control,Authentication,
+TOPIC 3,certif ssl work openssl use version error updat verifi sign ,Network Security,Digital Certificates,openssl certificate authentication
+TOPIC 4,hash cooki method option valu default use fix updat safe ,Access Control,Tokens,hash cookie implementation
+TOPIC 5,gem rubi rb lib googl cloud instal secur home version ,Secure Development,Libraries/Configuration,ruby gem install 
+TOPIC 6,test fix thank chang check add look pull commit merg ,Secure Development,Testing,
+TOPIC 7,think encrypt secur make implement need use want requir support ,Secure Development,Implementation,requirements
+TOPIC 8,key ssh vagrant use host config default work privat run ,Access Control,Authentication,ssh key configuration related to user authentication
+TOPIC 9,password user valid email usernam creat chang account field model ,Access Control,Authentication,
+TOPIC 10,exploit modul window metasploit vulner run framework session cve meterpret ,Software Vulnerabilities,Mitigation,metasploit penetration testing framework

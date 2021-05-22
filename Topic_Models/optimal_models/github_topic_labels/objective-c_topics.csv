@@ -1,0 +1,15 @@
+Topic ID,Top Words,Category,Sub-Category,Specifics
+TOPIC 0,login user email auth log sign app cooki googl use ,Access Control,Authentication,
+TOPIC 1,fix leak memori credenti deleg relea wrong messag time crash,Software Vulnerabilities,Memory Management,Memory Leaks
+TOPIC 2,error id io client sandbox account sdk app plea tri ,Secure Development,Testing,
+TOPIC 3,key app hash gener bundl facebook updat sha copi android ,Cryptography,Encryption,
+TOPIC 4,request fix sign thank pull encod use look author chang ,Secure Development,GitHub/Reports,pull requests
+TOPIC 5,password master usernam chang enter app field user use exten ,Access Control,Authentication,password features
+TOPIC 6,use token user aw provid plea ident follow sdk cognito ,Access Control,Tokens,AWS user authentication 
+TOPIC 7,connect ssh date author host server use tri work pro ,Network Security,Client/Server,ssh connection security
+TOPIC 8,encrypt implement method decrypt work object block use ae actual,Cryptography,Encryption,
+TOPIC 9,sign updat app code build xcode script version signatur run ,Data Security,Digital Signature,
+TOPIC 10,file key databa support use privat protect store keychain thank,Data Security,Password/Data Storage,file and database protection by key
+TOPIC 11,certif server ssl valid work use cert self pin trust ,Network Security,Digital Certificates,certificate authentication
+TOPIC 12,version authent app user url behavior expect devic test case ,Secure Development,Implementation,
+TOPIC 13,type data ssh packet send read use channel work process ,Network Security,Client/Server,ssh data packet process

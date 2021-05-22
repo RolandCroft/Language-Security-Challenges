@@ -1,0 +1,14 @@
+Topic ID,Top Words,Category,Sub-Category,Specifics
+TOPIC 0,exten autodelet addon delet html protect mozilla import wallet sftp ,Secure Development,Libraries/Configuration,Addons
+TOPIC 1,password user login authent token use usernam credenti auth request ,Access Control,Authentication,
+TOPIC 2,key ssh file debug command privat vscode sign code git ,Network Security,Client/Server,ssh
+TOPIC 3,test chang fix updat add build new request pull ad ,Secure Development,Testing,
+TOPIC 4,js hash modul file script asset node sha lib app ,Secure Development,Libraries/Configuration,hash application
+TOPIC 5,type valid signatur error function use code typescript valu encod ,Software Vulnerabilities,Network Exploits,Input Validation
+TOPIC 6,sign plea thank author github request automat use email packag ,Secure Development,GitHub/Reports,
+TOPIC 7,test secur api space fail failur integr ts object save ,Secure Development,Testing,
+TOPIC 8,use think need user make work want secur encrypt option ,Secure Development,Implementation,
+TOPIC 9,secur updat avail aw vulner report fix version codebuild day ,Software Vulnerabilities,Mitigation,Vulnerabilities
+TOPIC 10,cooki delet whitelist site tab domain firefox browser close clean ,Access Control,Tokens,cookie and whitelist implementation
+TOPIC 11,version bug log reproduc work step login os expect behavior ,Secure Development,Testing,Reproducing a bug
+TOPIC 12,certif node server client connect opcua error openssl ssl use ,Network Security,Client/Server,

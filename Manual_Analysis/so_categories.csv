@@ -1,0 +1,15 @@
+Language,API Usage,Discrepancy,Errors,Review,API Change
+Java,24,21,18,12,1
+PHP,29,19,15,16,1
+JavaScript,23,24,16,15,1
+C#,21,14,19,15,0
+Python,21,19,18,14,0
+Shell,28,16,31,11,2
+C/C++,28,8,7,26,1
+Ruby,20,12,31,16,0
+Objective-C,34,17,21,11,1
+Swift,24,13,27,8,0
+PowerShell,22,18,37,7,0
+Perl,23,14,32,13,0
+Go,31,11,28,6,0
+TypeScript,16,13,35,13,1

@@ -1,0 +1,9 @@
+TOPIC 0: certif rubi ssl use openssl server tri error connect client 
+TOPIC 1: hash rubi use method file object valu attribut code variabl 
+TOPIC 2: rubi script tri run password work error use file command 
+TOPIC 3: secur rail safe sql attack paramet queri inject protect html 
+TOPIC 4: rubi encrypt key use string decrypt code openssl encod data 
+TOPIC 5: token oauth api use rubi app googl request access applic 
+TOPIC 6: user password devi valid login rail authent rubi use sign 
+TOPIC 7: password hash user store encrypt use rubi databa secur creat 
+TOPIC 8: authent cooki session request use rail server rubi app http 

@@ -1,0 +1,2133 @@
+TOPIC 0: 
+openssl ruby 10
+openssl ruby ssl 7
+ruby ruby-on-rails 4
+ruby ssl 3
+openssl ruby ruby-on-rails 3
+rest-client ruby ssl 3
+ruby security 2
+ruby ruby-on-rails security 2
+ftps ruby ruby-on-rails 2
+httparty openssl ruby ssl 2
+https openssl ruby ruby-on-rails 2
+openssl ruby ruby-on-rails rubygems ssl 2
+net-http openssl ruby ruby-on-rails ssl 2
+openssl ruby savon soap ssl 2
+ruby 2
+networking ruby ruby-on-rails security 1
+jruby ruby security tomcat6 ubuntu 1
+firewall network-security ruby security watir-webdriver 1
+openssl ruby soap ws-security x509certificate 1
+hsm net-http openssl ruby security 1
+jruby nokogiri ruby sanitize security 1
+eval ruby security 1
+nessus ruby scripting security 1
+audio jack ruby security 1
+heroku ruby-1.9.3 ruby-on-rails-3 security 1
+brakeman exec ruby security 1
+certificate http ruby security x509 1
+newrelic ruby ruby-on-rails security 1
+csrf mollie ruby ruby-on-rails 1
+mysql php python ruby security 1
+replace ruby security windows 1
+http logging ruby security 1
+rdoc ruby ubuntu xss 1
+aws-sdk certificate passbook ruby security 1
+libyaml ruby ruby-on-rails security ubuntu 1
+antivirus-integration ruby ruby-development-tools rubygems security 1
+ruby soap ws-security 1
+attachment-fu encryption ruby ruby-on-rails security 1
+apple-push-notifications ruby ruby-on-rails security ssl-certificate 1
+ddos ruby ruby-on-rails security 1
+gem ruby security 1
+certificate cryptography node.js openssl ruby 1
+cryptography encryption-symmetric ruby 1
+ruby-on-rails ruby security rvm gnupg 1
+certificate faraday ruby ruby-on-rails ssl 1
+certificate ruby ruby-on-rails savon ssl 1
+https net-http ruby ssl 1
+httpi openssl ruby savon ssl 1
+ocsp openssl ruby ssl 1
+ftp ruby 1
+http openssl ruby ssl 1
+faraday openssl ruby 1
+configuration encryption iphone openssl ruby 1
+omniauth openssl ruby sinatra 1
+nginx openssl ruby ruby-on-rails 1
+blogs openid ruby ruby-on-rails 1
+emc openssl ruby ssl 1
+openssl osx-yosemite rest-client ruby 1
+ruby ruby-on-rails ruby-on-rails-4 rubygems ssl-certificate 1
+curl openssl rest-client ruby ruby-on-rails 1
+certificate ruby soap ssl 1
+javascript jquery recaptcha ruby ruby-on-rails 1
+openssl ruby smime 1
+openssl ruby ruby-on-rails sendmail ssl 1
+amazon-web-services certificate ruby ssl 1
+postgresql ruby ruby-on-rails sql 1
+charles-proxy net-http openssl ruby ssl 1
+activerecord postgresql ruby ruby-on-rails 1
+ruby ssl vsphere 1
+digital-signature email openssl ruby smime 1
+https openssl ruby ssl ssl-certificate 1
+api certificate openssl ruby 1
+curl ruby ssl 1
+ruby savon ssl-certificate 1
+compass gem ruby rubygems sass 1
+mechanize ruby ssl 1
+discourse ruby ruby-on-rails ssl 1
+amazon-ec2 amazon-web-services ruby 1
+bootstrap-sass ruby ruby-on-rails twitter-bootstrap 1
+net-http openssl ruby ruby-on-rails 1
+ruby sockets ssl zeromq 1
+activemerchant openssl ruby ruby-on-rails 1
+ruby ruby-on-rails rubygems ssl-certificate 1
+encryption in-app-purchase ios openssl ruby 1
+jruby keytool ruby ssl 1
+python ruby ssh-tunnel 1
+google-authentication omniauth openid ruby ruby-on-rails 1
+gem homebrew ruby rubygems ssl 1
+kerberos oracle ruby 1
+gmail imap oauth ruby sasl 1
+net-ssh openssl ruby ruby-on-rails ssh 1
+gost3410 openssl ruby 1
+email ruby rubygems smtp ssl 1
+firewall ruby ssl-certificate 1
+command-line-interface ruby ssl 1
+openssl pdf ruby ruby-on-rails 1
+devise linux ruby ruby-on-rails windows 1
+macos openssl ruby rubygems ssl 1
+net-http openssl rest ruby ssl 1
+openssl options ruby ssl 1
+metasploit ruby rubygems 1
+ca openssl ruby self-signed ssl 1
+ocsp openssl ruby ruby-on-rails ssl 1
+macos ruby sinatra ssl-certificate 1
+openssl ruby ruby-on-rails ruby-on-rails-4 tls1.2 1
+chef macos openssl ruby vagrant 1
+ca http-proxy openssl ruby ssl 1
+openssl ruby ssl windows 1
+heroku ruby ruby-on-rails ssl ssl-certificate 1
+chef iis ruby ssl 1
+linux openssl ruby ssl 1
+ruby ruby-on-rails single-sign-on siteminder 1
+openssl ruby ruby-on-rails rvm ssl 1
+cocoa ios ruby 1
+encryption rest-client ruby ruby-on-rails-3 ssl 1
+encryption javascript ruby sinatra websocket 1
+openssl ruby x509certificate 1
+ruby self-signed wsdl 1
+faraday faraday-oauth ruby url 1
+net-http openssl ruby ssl ssl-certificate 1
+ruby ruby-on-rails web-push 1
+digital-signature openssl pdf ruby 1
+encryption openssl pkcs#7 ruby smime 1
+encryption gnupg openpgp ruby 1
+nokogiri openssl ruby ruby-on-rails 1
+ldap netldap openssl ruby ruby-on-rails 1
+mechanize ruby ruby-on-rails ssl 1
+ca certificate openssl ruby 1
+google-chrome google-chrome-devtools localhost ruby ruby-on-rails 1
+install ruby sha 1
+net-http openssl ruby ubuntu-14.04 1
+client-certificates https net-http openssl ruby 1
+heroku https ruby ruby-on-rails ssl 1
+ascii digital-signature encryption hash ruby 1
+omniauth ruby ruby-on-rails twitter 1
+https neo4j ruby ssl 1
+api httparty ruby ruby-on-rails ssl 1
+macos openssl ruby sockets ssl-certificate 1
+paypal ruby ruby-on-rails-4 ssl 1
+openssl ruby-1.9.3 ruby-on-rails ruby-on-rails-2 ssl 1
+ruby ruby-on-rails ruby-on-rails-5 rvm ubuntu-18.04 1
+decision-tree ruby 1
+cloudflare mechanize parsing ruby 1
+devise ldap ruby ruby-on-rails ruby-on-rails-3 1
+centos openssl ruby ssl-certificate 1
+bundler ruby rubygems ssl 1
+javascript ruby ruby-on-rails 1
+ruby siteminder xml-dsig xml-signature 1
+bundle ruby ruby-on-rails 1
+openshift-client-tools ruby rubygems ssl-certificate 1
+openssl public-key-encryption ruby ssl ubuntu 1
+certificate https openssl ruby ssl 1
+command-line gnupg macos ruby rvm 1
+certificate rack ruby sinatra web-services 1
+bittorrent hash ruby 1
+mechanize openssl ruby ssl 1
+ajax apache cors kerberos ruby 1
+https python ruby ssl tdd 1
+json openssl ruby ruby-on-rails ssl 1
+ruby rvm ubuntu-16.04 1
+certificate email redmine ruby smtp 1
+api osx-elcapitan ruby ruby-on-rails ssl 1
+chef ruby 1
+openssl ruby ssl starttls 1
+heroku pony ruby sinatra 1
+jquery-form-wizard recaptcha ruby ruby-on-rails-5 1
+certificate private-key ruby ruby-on-rails server-to-server 1
+ruby ruby-on-rails ssl 1
+authentication ruby ssl ssl-certificate 1
+curl ruby 1
+https mechanize ruby ssl 1
+passenger ruby ruby-on-rails sendmail ssl 1
+angularjs https ruby ruby-on-rails ssl 1
+docusignapi ruby-2.2 ruby-on-rails-4 1
+linux ruby ssl 1
+capybara ruby selenium selenium-webdriver ssl 1
+centos openssl ruby 1
+authentication ruby 1
+openssl ruby ssl-certificate x509certificate 1
+github ruby ssl 1
+jruby openssl ruby ruby-on-rails x509 1
+chef chef-recipe cookbook ruby ruby-on-rails 1
+command-line-interface heroku heroku-toolbelt ruby ruby-on-rails 1
+ftp open-uri ruby 1
+certificate ruby ssl 1
+c# openssl paypal ruby x509certificate 1
+authentication http ruby 1
+heroku openssl ruby ruby-on-rails sidekiq 1
+net-http openssl ruby-2.0 ruby-on-rails-4 ssl 1
+html openssl ruby ruby-on-rails 1
+aes ruby ruby-on-rails ssl 1
+email mandrill ruby ruby-on-rails ssl 1
+netldap ruby ruby-on-rails-3.2 1
+redmine ruby ssl svn 1
+digital-signature ruby xml xml-signature 1
+postgresql postgresql-9.1 ruby ruby-on-rails ruby-on-rails-4 1
+ruby ruby-on-rails ssl thin 1
+excel ruby 1
+keytool openssl ruby ruby-on-rails ssl 1
+faraday https openssl ruby ssl 1
+heroku ruby ruby-on-rails ssl 1
+https ruby ssl ssl-certificate 1
+c# ruby savon soap web-services 1
+http net-http openssl ruby ssl-certificate 1
+homebrew openssl ruby ruby-on-rails ssl 1
+ruby wsdl 1
+certificate dns ruby ssl 1
+curb ruby ubuntu 1
+clearance ruby ruby-on-rails timeout 1
+digital-signature openssl ruby x509 1
+apple-push-notifications ruby 1
+bundler ruby ssl 1
+ruby ssl-certificate x509 1
+open-uri openssl ruby 1
+amazon-s3 ruby ruby-on-rails-3 rubygems 1
+openssl pkcs#12 ruby ruby-on-rails 1
+networking ruby 1
+actionmailer ruby ruby-on-rails ssl 1
+gem oauth ruby twitter 1
+ruby rubygems ssl ssl-certificate 1
+faraday ruby ssl 1
+hsm openssl ruby ruby-on-rails ssl 1
+openssl ruby ruby-1.9.3 ssl 1
+heroku https ruby sinatra ssl 1
+net-http ruby ruby-2.0 scripting 1
+ruby saml single-sign-on 1
+ldap ruby ruby-on-rails 1
+encryption-asymmetric linux ruby ruby-on-rails windows 1
+httpi ruby savon soap ssl 1
+httpclient https ntlm ruby same-origin-policy 1
+openssl paypal ruby ssl ssl-certificate 1
+certificate debian openssl redmine ruby 1
+ruby ruby-2.3 ssl 1
+ruby ssl-certificate windows 1
+https ruby ruby-on-rails ssl 1
+amazon-web-services ruby ruby-on-rails ssl ubuntu 1
+mechanize openssl ruby 1
+certificate client ruby ssl 1
+api rest-client ruby ssl ssl-certificate 1
+openssl ruby ruby-enterprise-edition ssl 1
+bundler ruby rubygems rvm ssl 1
+openssl ruby-1.9.3 ruby-on-rails-3 1
+certificate directory ruby ssl 1
+api rack ruby ruby-on-rails ssl 1
+ruby rvm 1
+https ruby sinatra webrick 1
+powershell ruby sockets ssl 1
+gnupg ruby ruby-on-rails ruby-on-rails-3 rvm 1
+ftp ruby uri url-encoding 1
+poodle-attack ruby ssl sslv3 1
+email ruby 1
+net-http openssl ruby ruby-on-rails-2 ssl-certificate 1
+amazon-web-services aws-sdk openssl ruby ssl 1
+nginx ruby ruby-on-rails ssl 1
+https ruby ssl x509 1
+adfs omniauth ruby saml 1
+authorize.net ruby ruby-on-rails ssl 1
+httparty httpclient ruby ruby-on-rails 1
+linux ruby ruby-on-rails ssl 1
+apple-push-notifications gem ruby ruby-on-rails ruby-on-rails-4 1
+c# perl python ruby x509 1
+client-certificates ruby sinatra ssl thin 1
+ruby ruby-on-rails rubygems ssl 1
+gitlab ruby saml 1
+ldap ruby ssl starttls 1
+firefox ruby watir 1
+elixir hashicorp-vault ruby 1
+certificate ruby ruby-on-rails ssl x509 1
+homebrew open-uri ruby ssl 1
+openssl ruby x509certificate2 1
+ruby savon ssl 1
+openssl postman rest-client ruby ssl-certificate 1
+iphone openssl ruby ruby-on-rails 1
+certificate net-http ruby ssl ssl-certificate 1
+api ruby ruby-on-rails ssl 1
+encoding openssl pkcs#12 ruby ssl 1
+certificate openssl pem ruby ruby-on-rails 1
+git-bash m ruby 1
+openssl ruby signed smime 1
+digital-signature encryption ruby 1
+openssl ruby rvm ubuntu-12.04 1
+csr openssl ruby 1
+openssl ruby savon sekken 1
+client-server openssl ruby 1
+openssl ruby ssl ssl-certificate 1
+net-http openssl ruby ssl 1
+onelogin ruby saml 1
+rest-client ruby ruby-1.9.3 ruby-2.0 ssl 1
+certificate chef openssl ruby 1
+geckodriver ruby selenium selenium-webdriver watir 1
+basic-authentication ruby ssl-certificate 1
+openssl pki ruby ssl-certificate 1
+digital-signature ruby ruby-on-rails-3 x509certificate xml-signature 1
+digital-signature pdf ruby 1
+https ruby sinatra ssl ssl-certificate 1
+homebrew openssl rails-geocoder ruby ruby-on-rails 1
+ftp ruby ruby-2.3 1
+jekyll liquid recaptcha ruby 1
+adobe origami pdf pkcs#7 ruby 1
+openssl ruby ruby-saml saml-2.0 ssl-certificate 1
+http ruby self-signed ssl 1
+ruby amazon-web-services ruby-on-rails-5 amazon-rds 1
+ruby ssl-certificate google-adwords 1
+ruby openssl jruby 1
+
+
+TOPIC 1: 
+ruby ruby-on-rails ruby-on-rails-3 6
+ruby ruby-on-rails 6
+ruby 6
+hash ruby 4
+ruby ruby-on-rails security 3
+ruby ruby-on-rails ruby-on-rails-4 3
+ruby security 2
+javascript json ruby ruby-on-rails security 2
+javascript ruby ruby-on-rails 2
+ruby ruby-on-rails stripe-payments 2
+ruby ruby-on-rails ruby-on-rails-5 2
+amazon-s3 amazon-web-services ruby 2
+csrf rack ruby 1
+owasp ruby ruby-on-rails security 1
+bit-manipulation ruby security 1
+oauth ruby ruby-on-rails ruby-on-rails-3 security 1
+passwords ruby slice 1
+file-io ruby xss 1
+amazon-ec2 aws-sdk aws-security-group ruby 1
+ruby sinatra xss 1
+erb ruby ruby-on-rails ruby-on-rails-3 xss 1
+abuse jruby ruby security 1
+code-injection ruby security 1
+ruby ruby-on-rails ruby-on-rails-4 security strong-parameters 1
+oop ruby security 1
+ruby security web-crawler 1
+cryptography encoding javascript md5 ruby 1
+nexmo ruby security sinatra 1
+penetration-testing perl python ruby security 1
+cryptography digest ruby sha sha256 1
+python ruby security yaml 1
+mass-assignment ruby ruby-on-rails security strong-parameters 1
+ruby ruby-on-rails ruby-on-rails-5 sanitization security 1
+arguments cryptography ruby ruby-on-rails 1
+cryptography encryption java ruby 1
+cryptography prng ruby security 1
+amazon-s3 ruby ruby-on-rails security 1
+ruby ruby-on-rails ruby-on-rails-3 security 1
+actioncontroller brakeman ruby ruby-on-rails security 1
+content-security-policy ruby ruby-on-rails-5 1
+cryptography openssl rsa ruby ruby-on-rails 1
+brakeman ruby ruby-on-rails ruby-on-rails-5 security 1
+hashmap multithreading ruby thread-safety 1
+dependency-management ruby rubygems 1
+heroku ruby ruby-on-rails sprockets 1
+coffeescript encoding javascript ruby ruby-on-rails 1
+ruby ruby-on-rails ruby-on-rails-3.1 1
+asset-pipeline javascript ruby ruby-on-rails 1
+oauth omniauth ruby 1
+operator-keyword ruby ruby-on-rails 1
+node.js puma ruby ruby-on-rails webserver 1
+ruby ruby-on-rails ruby-on-rails-3 rubygems 1
+angularjs javascript middleman ruby 1
+applescript ios itunes ruby scripting-bridge 1
+arrays hashmap require ruby ruby-on-rails 1
+cucumber owasp ruby 1
+jruby multithreading ruby thread-safety 1
+deployment heroku ruby ruby-on-rails 1
+ruby ruby-on-rails ruby-on-rails-3 validation 1
+buffer exploit overflow python ruby 1
+base64 ruby ruby-on-rails ruby-on-rails-3 1
+javascript json ruby ruby-on-rails 1
+metasploit ruby 1
+cancan hash ruby ruby-on-rails 1
+csv encoding ruby ruby-on-rails utf-8 1
+javascript ruby 1
+ruby ruby-hash ruby-on-rails 1
+activemerchant jruby paypal ruby 1
+integration-testing ruby ruby-on-rails tdd 1
+multithreading ruby ruby-on-rails sidekiq thread-safety 1
+encryption ruby ruby-on-rails ruby-on-rails-3 ruby-on-rails-3.2 1
+capistrano net-sftp ruby scp 1
+digital-signature openssl ruby ruby-on-rails-4 sha256 1
+gmaps4rails ruby ruby-on-rails 1
+rspec ruby ruby-on-rails 1
+hash parameters ruby ruby-on-rails 1
+asset-pipeline multi-tenant paas ruby ruby-on-rails 1
+apache passenger ruby ruby-on-rails shibboleth 1
+authentication ruby ruby-on-rails securid 1
+paypal ruby ruby-on-rails ruby-on-rails-4 1
+ruby ruby-on-rails runtime-error 1
+hash ruby ruby-on-rails validation 1
+attr-accessor mass-assignment model ruby ruby-on-rails-3 1
+ruby ruby-on-rails ruby-on-rails-3.2 1
+amazon-s3 amazon-web-services ruby ruby-on-rails 1
+devise mass-assignment ruby ruby-on-rails validation 1
+bash linux perl python ruby 1
+ruby ruby-on-rails-4 1
+linkedin oauth ruby ruby-on-rails 1
+asset-pipeline javascript ruby ruby-on-rails-4 1
+ruby ruby-on-rails ruby-on-rails-3 ruby-on-rails-3.1 1
+instance-variables multithreading ruby thread-safety 1
+hash hashrocket ruby ruby-1.9 syntax 1
+ruby thread-safety 1
+rack ruby-2.2 ruby-on-rails ssl webrick 1
+cookies eventmachine rack ruby 1
+bdd cucumber ruby 1
+activerecord ruby ruby-on-rails-3 1
+dig hash ruby ruby-2.3 safe-navigation-operator 1
+authentication credentials hash puppet ruby 1
+hash ruby symbols 1
+ruby validation 1
+ruby ruby-on-rails ruby-on-rails-4 session 1
+coffeescript javascript ruby ruby-on-rails 1
+nokogiri rest-client ruby ruby-on-rails ruby-on-rails-4 1
+angularjs asset-pipeline ruby ruby-on-rails templates 1
+activesupport encryption ruby ruby-on-rails 1
+hash md5 paperclip ruby ruby-on-rails 1
+google-maps javascript ruby ruby-on-rails 1
+json ruby 1
+cookies ruby ruby-on-rails-3 1
+asset-pipeline heroku javascript ruby ruby-on-rails 1
+automation ruby selenium selenium-webdriver sikuli 1
+exception mass-assignment ruby ruby-on-rails-3 1
+jquery ruby ruby-on-rails ruby-on-rails-4 1
+ruby ruby-on-rails sanitize 1
+c# hash ruby sha256 1
+global-variables ruby ruby-on-rails ruby-on-rails-3 variables 1
+excel password-encryption ruby 1
+amazon heroku ruby ruby-on-rails ruby-on-rails-3 1
+hash ruby sha1 1
+cookies ruby ruby-on-rails ruby-on-rails-3 1
+eval nokogiri ruby 1
+bioinformatics hash hashmap multidimensional-array ruby 1
+html-safe javascript ruby ruby-on-rails ruby-on-rails-4 1
+coffeescript erb ruby sprockets 1
+activerecord ruby ruby-on-rails ruby-on-rails-4 1
+arrays hash ruby 1
+encryption openssl osx-snow-leopard ruby ruby-on-rails 1
+hmacsha1 ruby ruby-on-rails-3 ruby-on-rails-3.1 sha256 1
+arrays converter hash parsing ruby 1
+base hash javascript md5 ruby 1
+c++ crypto++ hash ruby sha1 1
+ajax jquery json ruby ruby-on-rails 1
+digest md5 ruby 1
+coffeescript erb jquery ruby ruby-on-rails 1
+exploit metasploit ruby 1
+net-sftp ruby ruby-on-rails sftp ssh 1
+mass-assignment ruby ruby-on-rails ruby-on-rails-3 1
+encryption hash ruby ruby-on-rails 1
+nokogiri ruby ruby-on-rails sanitize 1
+basic-authentication grape rails-api ruby 1
+base64 ruby ruby-on-rails 1
+hmac ruby ruby-hash ruby-on-rails 1
+heroku ruby ruby-on-rails 1
+erb javascript ruby 1
+asset-pipeline ruby ruby-on-rails ruby-on-rails-3.1 1
+hashtable ruby ruby-1.9.3 sinatra 1
+activerecord ruby ruby-on-rails 1
+rails-activerecord ruby ruby-on-rails 1
+asset-sync heroku ruby ruby-on-rails ruby-on-rails-3 1
+oauth-2.0 ruby ruby-on-rails 1
+arrays hash merge reduce ruby 1
+asset-pipeline handlebars.js md5 ruby ruby-on-rails 1
+rest ruby sinatra validation 1
+javascript renderpartial ruby ruby-on-rails 1
+oauth ruby yaml 1
+devise ruby 1
+asset-pipeline ruby ruby-on-rails ruby-on-rails-4 1
+hash multidimensional-array rspec ruby 1
+aes amazon-s3 amazon-web-services encryption ruby 1
+
+
+TOPIC 2: 
+ruby ssh 7
+net-ssh ruby 6
+ruby 6
+ruby ruby-on-rails 5
+ruby ruby-on-rails security 2
+ruby rubygems security 2
+net-ssh ruby ruby-on-rails 2
+ruby ruby-on-rails ruby-on-rails-3 2
+ldap ruby ruby-on-rails 2
+net-ssh ruby ruby-on-rails ssh 2
+active-directory ldap ruby 2
+metasploit ruby 2
+eval irb read-eval-print-loop ruby security 1
+ruby ruby-on-rails ruby-on-rails-5 sanitization security 1
+cron daemon ruby security sftp 1
+rack rackattack ruby ruby-on-rails security 1
+content-security-policy http-headers recaptcha ruby security 1
+capistrano deployment ruby ruby-on-rails security 1
+http ruby ruby-on-rails security 1
+actionmailer development-environment ruby ruby-on-rails-3 security 1
+cryptography openssl ruby ruby-on-rails 1
+extensibility ruby sandbox scripting security 1
+apache mod-security ruby ruby-on-rails ruby-on-rails-3 1
+database encoding passwords postgresql ruby 1
+ruby ruby-on-rails security websocket websocket-rails 1
+email gmail nokogiri ruby security 1
+ruby security shell 1
+ruby sanitization security shell system 1
+loops passwords recursion ruby 1
+jenkins ruby rubygems security 1
+bundler gem ignore ruby security 1
+ruby ruby-on-rails rubygems security sinatra 1
+passwords ruby rubygems 1
+omniauth passwords ruby ruby-on-rails 1
+ruby security 1
+content-security-policy ruby ruby-on-rails 1
+eval ruby security 1
+mysql passwords ruby 1
+mysql passwords rake ruby ruby-on-rails 1
+ruby ruby-1.9 ruby-on-rails-3 security 1
+apache ruby ruby-on-rails security 1
+csrf ruby ruby-on-rails 1
+ruby security windows 1
+compass-sass ruby sass security sinatra 1
+jruby ruby security 1
+docker dockerfile ruby security 1
+filesystems ruby rubygems security 1
+controller ruby ruby-on-rails security 1
+exploit ruby security sinatra windows 1
+javascript ruby ruby-on-rails sandbox security 1
+ruby ruby-on-rails-4 sql-injection 1
+gnupg openpgp ruby security shell 1
+api login passwords ruby ruby-on-rails 1
+file ruby security 1
+authenticity-token csrf devise ruby ruby-on-rails 1
+obfuscation ruby ruby-on-rails security 1
+ruby security source-code-protection 1
+process ruby ruby-on-rails security 1
+directory-structure ruby security server twitter 1
+deployment ruby ruby-on-rails-3 security 1
+ruby ruby-on-rails ruby-on-rails-3 security 1
+database neo4j ruby security ssl 1
+gitlab-ci ruby ruby-on-rails ruby-on-rails-5.1 ruby-on-rails-5.2 1
+io popen ruby 1
+executable ruby rubygems sudo suid 1
+heroku openssl ruby ruby-on-rails 1
+active-directory database ldap ldap-query ruby 1
+net-ssh ruby shell ssh 1
+io ruby scripting ssh 1
+mechanize ruby scripting 1
+ruby ssh switch-statement 1
+capistrano git ruby ssh 1
+capistrano deployment ruby 1
+google-api-client oauth-2.0 ruby ruby-on-rails ssl-certificate 1
+authentication net-sftp ruby ruby-on-rails sftp 1
+capistrano ruby 1
+amazon-web-services elasticsearch ruby ruby-on-rails searchkick 1
+mysql ruby sequel ssl 1
+client-certificates google-chrome rautomation ruby watir-webdriver 1
+ruby ruby-on-rails user-testing 1
+authentication login required ruby watir 1
+capistrano php ruby ruby-on-rails ssh 1
+ironruby ruby sftp ssh 1
+heroku net-sftp ruby ssh-keys 1
+ruby ruby-on-rails ssh 1
+net-sftp net-ssh ruby sftp ssh 1
+expect pty ruby ssh 1
+authentication net-ssh ruby 1
+ruby testing unit-testing 1
+capybara ruby selenium 1
+automation cmd ruby telnet 1
+net-ssh ruby serverspec 1
+javascript nginx ruby ruby-on-rails ruby-on-rails-3 1
+git macos ruby ruby-on-rails ssh 1
+authentication ruby selenium watir 1
+ldap ruby 1
+ruby svn 1
+capistrano github ruby ruby-on-rails ssh 1
+amazon-web-services capistrano ruby ruby-on-rails ssh 1
+rake rake-task ruby ruby-on-rails ruby-on-rails-3 1
+heroku middleware ruby ruby-on-rails staging 1
+kramdown openssl ruby 1
+devise recaptcha rspec ruby ruby-on-rails 1
+heroku ruby ruby-on-rails stripe-payments 1
+bcrypt-ruby irb mysql ruby ruby-on-rails 1
+ruby shoes ssh 1
+deployment nginx ruby ruby-on-rails 1
+basic-authentication heroku omniauth ruby 1
+authentication jruby ruby zap 1
+amazon-ec2 amazon-web-services ruby ruby-on-rails ssh 1
+private-key ruby sftp 1
+netldap ruby ruby-on-rails-3.1 1
+acts-as-audited devise ruby ruby-on-rails 1
+capistrano3 github linux ruby symfony 1
+python ruby ssh 1
+attributes chef hash ruby 1
+bash ruby ruby-on-rails ssh 1
+delayed-job net-ssh ruby ruby-on-rails ruby-on-rails-3 1
+ldap ldap-query netldap openldap ruby 1
+console ruby ruby-on-rails sftp ssh 1
+activemerchant authorize.net ruby ruby-on-rails 1
+authentication ruby selenium webdriver windows 1
+macports odbc ruby ruby-on-rails 1
+authlogic ruby ruby-on-rails 1
+paypal ruby ruby-on-rails 1
+jruby openssl private-key ruby rubygems 1
+amazon-web-services aws-sdk ruby 1
+ruby server ssh 1
+braintree paypal ruby testing 1
+github github-api ruby ruby-on-rails 1
+linux ruby sftp 1
+remote-access remote-execution ruby ruby-on-rails ssh 1
+net-sftp ruby ssh 1
+bcrypt clearance ruby ruby-on-rails 1
+expect ruby unix 1
+mechanize ntlm ruby 1
+opencart php ruby 1
+activemerchant paypal ruby ruby-on-rails ssl 1
+google-admin-sdk google-oauth2 ruby 1
+paypal paypal-sandbox ruby 1
+heroku ruby ssh windows 1
+ruby vagrant 1
+amazon-ec2 amazon-web-services capistrano circleci ruby 1
+excon fog openssl ruby ruby-on-rails 1
+google-drive-api learn-ruby-on-rails nitrousio ruby ruby-on-rails 1
+ruby shell 1
+capistrano ruby ruby-on-rails sinatra ssh-keys 1
+openssl ruby ssl-certificate 1
+ruby ruby-on-rails shell 1
+amazon-web-services encryption fog ruby 1
+mysql ruby ruby-on-rails ssh 1
+asp.net authentication cookies ruby single-sign-on 1
+html php ruby 1
+base64 bash md5 ruby 1
+rc4-cipher ruby 1
+encryption kali-linux openssl ruby terminal 1
+git http ruby ruby-on-rails-3.2 1
+eruby fedora linux mysql ruby 1
+evernote ruby ruby-on-rails ssl 1
+authentication devise ldap ruby ruby-on-rails 1
+failing-tests macos net-ssh ruby testunit 1
+command-line-arguments net-ssh ruby ruby-on-rails-3 shell 1
+bitbucket git jenkins ruby ruby-on-rails 1
+ruby ruby-on-rails smtp spree 1
+bash process python ruby signals 1
+net-sftp ruby rufus-scheduler 1
+net-sftp ruby 1
+amazon-ec2 capistrano ruby ruby-on-rails 1
+openssl ruby ruby-on-rails 1
+authentication ruby ssh 1
+heroku ruby ruby-on-rails ruby-on-rails-3 1
+ckeditor deployment ruby ruby-on-rails 1
+git rake ruby 1
+linux ruby ssh sudo 1
+gem github-api ruby rubygems 1
+email gem gmail ruby 1
+captcha exception exit handle ruby 1
+rsa ruby ssh 1
+ruby svn tortoisesvn windows 1
+evernote openssl ruby ruby-on-rails-3 1
+active-directory ruby 1
+amazon-web-services hashicorp-vault ruby 1
+credentials ruby-2.5 ruby-on-rails-5.2 1
+monitoring ruby ruby-on-rails ssh 1
+authentication net-ssh public-key ruby ssh 1
+coffeescript javascript ruby ruby-on-rails 1
+gem gmail io prompt ruby 1
+mysql ruby ssh 1
+active-directory ldap ruby windows-server 1
+cron expect ruby 1
+encryption ruby scp 1
+oracle ruby ssh 1
+command-line input openssl popen3 ruby 1
+activemerchant payment-gateway paypal ruby ruby-on-rails 1
+metasploit msf ruby 1
+devise ldap ruby ruby-on-rails 1
+mysql ruby ruby-on-rails 1
+basic-authentication https ruby 1
+expect ruby ssh 1
+gnupg gpgme ruby 1
+pg postgresql ruby ruby-on-rails ubuntu 1
+jruby rspec ruby sandbox 1
+net-ssh ruby ssh 1
+heroku rake ruby ruby-on-rails ruby-on-rails-3 1
+basic-authentication rest-client ruby 1
+net-ssh ruby ssh ssh-tunnel tunnel 1
+google-oauth oauth-2.0 ruby ruby-on-rails ruby-on-rails-3 1
+net-sftp net-ssh ruby ssh ubuntu 1
+docusignapi ruby 1
+nginx puma ruby ruby-on-rails ssh 1
+ruby ruby-on-rails sftp 1
+ruby-on-rails ruby nginx ssh puma 1
+ruby-on-rails ruby minitest 1
+ruby-on-rails ruby devise session-cookies 1
+
+
+TOPIC 3: 
+ruby ruby-on-rails security 7
+ruby ruby-on-rails xss 5
+ruby ruby-on-rails 5
+ruby ruby-on-rails sql-injection 3
+ruby ruby-on-rails security sql-injection 2
+ruby sql-injection 2
+ruby ruby-on-rails sql sql-injection 2
+ruby ruby-on-rails rubygems security 2
+ruby ruby-on-rails security xss 2
+csrf javascript ruby ruby-on-rails ruby-on-rails-3 1
+heroku ruby ruby-on-rails security yaml 1
+ruby ruby-on-rails ruby-on-rails-3 sql-injection 1
+ruby ruby-on-rails ruby-on-rails-4 xss 1
+html-safe javascript-injection ruby sanitize xss 1
+postgresql ruby security sql-injection 1
+internet-explorer ruby xss 1
+mysql ruby sql-injection 1
+ruby ruby-on-rails ruby-on-rails-3 sanitize security 1
+ruby ruby-on-rails security url validation 1
+ruby ruby-on-rails ruby-on-rails-4 security url-for 1
+escaping ruby ruby-on-rails sql-injection 1
+owasp ruby ruby-on-rails ruby-on-rails-4 security 1
+content-security-policy css javascript ruby ruby-on-rails 1
+ruby ruby-on-rails sanitization sanitize xss 1
+autolink ruby ruby-on-rails xss 1
+ruby ruby-on-rails ruby-on-rails-4 sql-injection 1
+ruby sql-injection tiny-tds 1
+ruby sinatra xss 1
+rack ruby security 1
+performance rails-i18n ruby ruby-on-rails security 1
+input-sanitization ruby ruby-on-rails-3 sql-injection 1
+mysql row-level-security ruby ruby-on-rails 1
+regex ruby ruby-on-rails security 1
+ruby ruby-on-rails sql sql-injection sql-server 1
+ruby security wget 1
+ruby ruby-on-rails sinatra sql sql-injection 1
+activerecord ruby ruby-on-rails ruby-on-rails-3 sql-injection 1
+ruby ruby-on-rails ruby-on-rails-3 security url 1
+ruby ruby-on-rails ruby-on-rails-3 xss 1
+activerecord mysql-real-escape-string ruby sql-injection 1
+coffeescript ruby ruby-on-rails xss 1
+ruby ruby-on-rails ruby-on-rails-3 security 1
+post ruby ruby-on-rails security 1
+activerecord ruby ruby-on-rails sql-injection 1
+cryptography encryption ruby ruby-on-rails 1
+internationalization ruby ruby-on-rails ruby-on-rails-3 security 1
+ruby ruby-on-rails sanitizer xss 1
+ruby ruby-on-rails tinymce xss 1
+jquery ruby ruby-on-rails security xss 1
+activerecord ruby ruby-on-rails sql sql-injection 1
+oracle ruby sql sql-injection 1
+code-injection ruby ruby-on-rails security 1
+ruby security 1
+ruby security session session-fixation sinatra 1
+filtering html ruby security 1
+brakeman ruby ruby-on-rails security 1
+ruby ruby-on-rails-4 xss 1
+ruby ruby-on-rails sanitization xss 1
+brakeman ruby ruby-on-rails sql sql-injection 1
+ruby ruby-on-rails ruby-on-rails-2 sql-injection 1
+ruby ruby-on-rails slim-lang xss 1
+database mongodb ruby security sinatra 1
+ruby ruby-on-rails ruby-on-rails-4 security xss 1
+ruby-on-rails ruby xss erb 1
+html-safe ruby ruby-on-rails ruby-on-rails-4 1
+html ruby ruby-on-rails ruby-on-rails-4 validation 1
+ruby ruby-on-rails sha 1
+activerecord ruby ruby-on-rails 1
+acts-as-taggable-on ruby ruby-on-rails 1
+https ruby rubycas ssl 1
+material-design ruby ruby-on-rails 1
+ruby ruby-on-rails ruby-on-rails-5 1
+dns ruby ruby-on-rails rubygems session 1
+ruby ruby-on-rails ruby-on-rails-4 1
+ruby ruby-on-rails ruby-on-rails-3 1
+code-injection curl ruby 1
+ruby ruby-on-rails sql where 1
+angular-ui-bootstrap html html5 ruby slim-lang 1
+brakeman owasp ruby ruby-on-rails 1
+brakeman ruby ruby-on-rails 1
+activerecord ruby ruby-on-rails-4 1
+parameters performance ruby ruby-on-rails ruby-on-rails-3 1
+
+
+TOPIC 4: 
+openssl ruby 12
+encryption ruby 10
+encryption openssl ruby 8
+cryptography encryption ruby 4
+cryptography ruby 4
+cryptography encryption openssl ruby 4
+encryption php ruby 4
+encryption ruby ruby-on-rails 4
+aes encryption java ruby 4
+ruby 4
+cryptography encryption ruby ruby-on-rails 3
+openssl rsa ruby 3
+encryption openssl rsa ruby 3
+aes encryption javascript ruby 3
+aes cryptography openssl ruby 2
+cryptography encryption javascript ruby ruby-on-rails 2
+cryptography openssl rsa ruby 2
+encryption openssl python ruby 2
+aes mcrypt openssl php ruby 2
+jwt openssl ruby 2
+aes encryption python ruby 2
+rsa ruby 2
+base64 encryption openssl ruby 2
+binary encryption hex ruby 2
+aes c# encryption rijndaelmanaged ruby 2
+encryption rsa ruby 2
+encryption openssl ruby ruby-on-rails 2
+aes java ruby 2
+c# ruby 2
+encryption node.js ruby 2
+javascript ruby 2
+cryptography encryption padding ruby 1
+gnupg pgp ruby security shell 1
+cryptography des ruby 1
+certificate public-key ruby security size 1
+cryptography javascript openssl ruby sjcl 1
+passwords ruby 1
+c# hash ruby security 1
+cryptography encryption rsa ruby 1
+encoding hmac php ruby security 1
+cryptography hmac javascript ruby sha256 1
+blowfish cryptography encryption ruby ruby-on-rails 1
+cryptography ruby sha1 twitter-oauth 1
+cryptography encryption node.js ruby 1
+aes-gcm encryption openssl ruby security 1
+binary cryptography encryption ruby 1
+cryptography encoding openssl puzzle ruby 1
+cryptography encryption openssl php ruby 1
+aes cryptography encryption python ruby 1
+duck-typing dynamic ruby security 1
+authentication cryptography encryption ruby swift 1
+cryptography public-key-encryption ruby 1
+cryptography encryption openssl padding ruby 1
+cryptography encryption php ruby 1
+internet-explorer ruby ruby-on-rails xss 1
+aes cryptography encryption random ruby 1
+ipc ruby security sockets 1
+cryptography openssl ruby signature 1
+cryptography digest hash node.js ruby 1
+bouncycastle cryptography java ruby 1
+cryptography hmac java ruby string 1
+encryption ruby ruby-on-rails ruby-on-rails-3 security 1
+cryptography modular-arithmetic ruby 1
+cryptography encryption javascript node.js ruby 1
+aes cryptography encryption java ruby 1
+cryptography encryption pki ruby ssl 1
+cryptography diffie-hellman ruby 1
+blowfish cryptography java ruby 1
+cryptography openssl python ruby 1
+cryptography elixir encryption openssl ruby 1
+ruby ruby-on-rails ruby-on-rails-3 ruby-on-rails-4 security 1
+.net c# cryptography ruby 1
+optionparser passwords ruby 1
+aes cryptography encryption ruby scrypt 1
+base64 bitcoin cryptography encoding ruby 1
+cryptography java openssl ruby 1
+cryptography node-crypto node.js ruby ruby-on-rails 1
+crypt encryption passwords ruby sha 1
+encryption openssl ruby security 1
+aes cryptography encryption php ruby 1
+cryptography encryption java ruby 1
+hash ruby ruby-on-rails-3 security 1
+c# cryptography ruby sha sha256 1
+cryptography encoding ruby 1
+hash passwords php ruby sha512 1
+cryptography encryption python rsa ruby 1
+cryptography java public-key-encryption rsa ruby 1
+compilation gem ruby security 1
+cryptography encryption encryption-symmetric openssl ruby 1
+bit-manipulation bitwise-xor cryptography ruby 1
+cryptography gmpy openssl python ruby 1
+c# cryptography encryption rsa ruby 1
+rack ruby ruby-on-rails security 1
+aes cryptography encryption go ruby 1
+cryptography encryption java openssl ruby 1
+cryptography encryption python ruby tripledes 1
+aes cryptography encryption javascript ruby 1
+cryptography openssl ruby 1
+cryptography jwt mapkit ruby 1
+aes cryptography encryption ruby 1
+image ruby security xmpp xmpp4r 1
+algorithm encryption javascript ruby security 1
+encryption java openssl ruby security 1
+cryptography cryptojs javascript ruby ruby-on-rails-3 1
+aes cryptography perl rijndael ruby 1
+passwords regex ruby ruby-on-rails 1
+cryptography encryption openssl ruby tls1.2 1
+ruby encryption openssl cryptography aes 1
+python-3.x ruby security encryption caesar-cipher 1
+irb marshalling ruby 1
+cloudkit cloudkit-web-services ecdsa ruby ruby-on-rails 1
+amazon-s3 encryption gnupg gpgme ruby 1
+encryption ruby ruby-on-rails-4 1
+encryption rijndael ruby 1
+aes java ruby ruby-on-rails-3 sha 1
+openssl rsa ruby shell 1
+base64 encoding json ruby ruby-on-rails 1
+bash encryption ruby travis-ci 1
+cryptojs encryption javascript ruby ruby-on-rails 1
+java public-key-encryption recaptcha ruby 1
+encoding openssl ruby 1
+digital-signature encryption openssl rsa ruby 1
+faye ruby ssl websocket 1
+base64 decoding ruby ruby-on-rails 1
+crypt md5 openssl ruby salt 1
+casting encryption rsa ruby string 1
+hash ruby 1
+pycrypto python ruby 1
+encryption linux linux-kernel openssl ruby 1
+net-ssh ruby ssh ssh-keys 1
+c# encryption openssl rsa ruby 1
+python ruby ruby-on-rails sha256 1
+des encryption openssl pkcs#5 ruby 1
+aes openssl ruby 1
+ruby string 1
+digest md5 openssl rsa ruby 1
+encryption ios java-ee mdm ruby 1
+actionscript-3 blowfish encryption flash ruby 1
+pgp ruby 1
+des encryption openssl ruby 1
+hash java pbkdf2 ruby 1
+aes encryption java ruby scala 1
+encode escaping javascript ruby 1
+c# encryption php ruby scala 1
+encryption java jce openssl ruby 1
+diffie-hellman openssl ruby 1
+aes cryptoswift openssl ruby swift2 1
+checksum hash linux ruby windows 1
+aes android java ruby 1
+md5 rsa ruby 1
+openssl rijndael ruby 1
+ruby ruby-1.9 1
+ffi marshalling ruby source-code-protection 1
+net-sftp ruby 1
+google-play java rsa ruby ruby-on-rails 1
+javascript ruby ruby-on-rails 1
+openssl ruby ruby-on-rails ruby-on-rails-3 ruby-on-rails-3.1 1
+firebase firebase-authentication password-encryption ruby scrypt 1
+openssl pkcs#12 ruby 1
+crc ruby sha1 1
+ruby ruby-on-rails ssh 1
+encryption ruby scala 1
+blowfish encryption openssl perl ruby 1
+ecb encryption openssl ruby 1
+aes ruby ruby-on-rails 1
+aes encryption javascript openssl ruby 1
+cryptojs hmac node.js openssl ruby 1
+amazon amazon-web-services ruby ruby-on-rails web-services 1
+mongodb ruby 1
+base64 digital-signature hmac java ruby 1
+aes bash encryption openssl ruby 1
+c# openssl padding ruby ruby-1.9.2 1
+base64 encoding ruby 1
+encoding rails-admin ruby ruby-on-rails utf-8 1
+encryption encryption-asymmetric openssl ruby 1
+encryption rest ruby ruby-on-rails 1
+as3crypto encryption openssl ruby 1
+encryption mcrypt php ruby 1
+httparty json ruby 1
+api blowfish encryption ruby 1
+encoding ruby ruby-on-rails ruby-on-rails-3 1
+c# encryption php ruby 1
+php ruby ruby-on-rails 1
+character-encoding encryption ruby 1
+aes encryption mcrypt php ruby 1
+.net aes encryption ruby 1
+activesupport openssl ruby ruby-on-rails 1
+encoding ruby 1
+encryption ruby ruby-on-rails ruby-on-rails-4 1
+digital-signature encryption public-key-encryption ruby 1
+aes encryption perl ruby 1
+encryption private-key public-key rsa ruby 1
+encryption openssl php ruby ruby-on-rails 1
+httpclient ruby ruby-on-rails ruby-on-rails-3 1
+hmac md5 ruby ruby-on-rails 1
+encoding javascript ruby 1
+em-websocket encryption ruby ruby-on-rails websocket 1
+encryption public-key-encryption rsa ruby ruby-on-rails 1
+cryptojs encryption javascript php ruby 1
+aes-gcm ruby 1
+ruby-1.9 1
+encryption mysql ruby 1
+ruby ssl 1
+encryption gnupg gpgme pgp ruby 1
+aes encryption openssl ruby 1
+delphi delphi-xe8 encryption lockbox-3 ruby 1
+api-authorization public-key-encryption ruby ruby-on-rails 1
+cryptojs decoding encoding javascript ruby 1
+django encryption python ruby ruby-on-rails 1
+authentication oauth ruby rubygems 1
+hash mongodb ruby utf-8 1
+encryption-symmetric openssl ruby ruby-on-rails 1
+openssl php ruby 1
+base64 fingerprint openssl ruby sha1 1
+android openssl public-key-encryption ruby 1
+hmac javascript openssl ruby sha256 1
+digital-signature openssl rsa ruby 1
+aes openssl ruby ruby-on-rails utf-8 1
+hmac hmacsha1 ruby ruby-on-rails ruby-on-rails-3 1
+encryption mcrypt php ruby ruby-on-rails 1
+c# crypt php ruby string 1
+oauth openssl ruby 1
+digital-signature ecdsa ruby 1
+hmac ruby ruby-on-rails sha256 1
+openssl ruby ruby-on-rails 1
+ruby ssh-keygen vagrant 1
+aes encryption ios objective-c ruby 1
+encryption ruby ruby-on-rails salt 1
+aes rijndael rijndaelmanaged ruby ruby-on-rails 1
+attr-encrypted encryption java ruby ruby-on-rails 1
+gitlab ruby travis-ci 1
+des encryption ruby 1
+coldfusion encryption openssl ruby 1
+ruby watir 1
+ruby ruby-on-rails yodlee 1
+c# md5 ruby sha1 1
+hmac jwt ruby 1
+json openssl ruby 1
+authentication openssl rsa ruby 1
+node.js ruby 1
+openssl rsa ruby ruby-on-rails 1
+ruby ruby-on-rails utf-8 1
+omniauth ruby saml 1
+aes encryption openssl ruby ssl 1
+ruby ruby-on-rails ruby-on-rails-4 utf-8 1
+c# rijndaelmanaged ruby 1
+encryption encryption-asymmetric public-key-encryption ruby ruby-on-rails 1
+openssl public-key-encryption ruby 1
+authlogic hash ruby ruby-on-rails 1
+amazon-s3 aws-sdk encryption-symmetric python ruby 1
+digest digest-authentication ruby soap 1
+3des encryption openssl oracle ruby 1
+hash openssl ruby sha1 1
+aes base64 ruby 1
+encryption go rsa ruby 1
+c# encryption encryption-symmetric ruby ruby-on-rails 1
+aes base64 encryption openssl ruby 1
+cryptojs encryption reactjs ruby ruby-on-rails 1
+encryption python ruby 1
+encryption ruby tripledes 1
+coldfusion openssl ruby 1
+encryption kdf openssl pkcs#5 ruby 1
+aes base64 blowfish encryption ruby 1
+base64 chef decode encryption ruby 1
+java public-key-encryption ruby 1
+authentication blowfish encryption php ruby 1
+aes encryption javascript ruby sjcl 1
+cookies encryption ruby ruby-on-rails session 1
+openssl qt ruby 1
+escaping javascript ruby 1
+ruby ruby-on-rails saml 1
+cryptojs encryption javascript ruby sha1 1
+aes encryption openssl ruby sjcl 1
+.net rc4-cipher ruby 1
+encoding encryption openssl ruby ruby-on-rails 1
+c# encryption rfc2898 ruby salt 1
+authentication jwt oauth ruby sinatra 1
+cocoa ruby 1
+md5 openssl ruby 1
+cocoa licensing openssl rsa ruby 1
+coldfusion encoding encryption ruby 1
+hmacsha1 ruby 1
+java jruby ruby 1
+aes aes-gcm encryption openssl ruby 1
+bash hexdump ruby sha1 1
+encryption ruby ruby-on-rails url 1
+encryption javascript openssl ruby ruby-on-rails 1
+encryption open-source ruby 1
+checksum ruby 1
+aes openssl php rijndael ruby 1
+base64 hmacsha1 python ruby 1
+openssl rsa ruby sha1 1
+.net c# encryption rijndaelmanaged ruby 1
+aes ruby utf-8 1
+api apiclient java ruby 1
+php ruby 1
+aes encryption objective-c openssl ruby 1
+encryption encryption-symmetric javascript ruby 1
+aes cbc-mode encryption openssl ruby 1
+encryption openssl ruby sinatra 1
+android encryption pem public-key ruby 1
+encoding json ruby ruby-on-rails 1
+ios ruby ruby-on-rails xcode 1
+python ruby 1
+encryption hash php ruby 1
+aes libsodium ruby 1
+aes encryption key openssl ruby 1
+encryption ruby ruby-on-rails sagepay 1
+aes openssl ruby sha256 1
+oauth omniauth ruby ruby-on-rails ruby-on-rails-3 1
+encryption openssl ruby ruby-on-rails ruby-on-rails-5 1
+pbkdf2 ruby 1
+mailjet ruby ruby-on-rails 1
+algorithm api hmac ruby signature 1
+bash encryption ruby 1
+aes coldfusion coldfusion-8 encryption ruby 1
+amazon amazon-product-api ruby 1
+encoding ruby ruby-on-rails string 1
+encoding gem ruby ruby-on-rails spreadsheet 1
+elixir erlang phoenix-framework ruby 1
+base64 php ruby sha512 1
+openssl pkcs#7 ruby ruby-on-rails 1
+openssl rsa ruby ssh-keys 1
+ruby sagepay 1
+ffi macos murmurhash ruby 1
+encryption openssl ruby ruby-on-rails ssl 1
+3des c# encryption openssl ruby 1
+aes encryption openssl ruby ruby-on-rails 1
+aes cbc-mode php ruby sha256 1
+base64 endianness javascript ruby 1
+aes ruby 1
+blowfish encryption openssl ruby 1
+openssl opensuse ruby ruby-2.0 1
+3des php ruby 1
+encoding encryption openssl ruby 1
+aes base64 javascript ruby ruby-on-rails 1
+encryption java ruby 1
+base64 dsa openssl ruby wsse 1
+aes encryption http-live-streaming openssl ruby 1
+chilkat rsa ruby ruby-on-rails sha256 1
+deterministic encryption ruby ruby-on-rails 1
+messagepack msgpack python ruby 1
+c# hash hmac ruby sha1 1
+openssl pkcs#8 ruby 1
+aes cryptojs javascript ruby 1
+aes c# encryption ruby 1
+encoding openssh openssl ruby 1
+aes encryption ruby ruby-on-rails zip 1
+c# hmacsha1 ruby 1
+encryption metasploit ruby server-side 1
+c# encryption hmac ruby sha1 1
+encryption ruby ruby-on-rails ruby-on-rails-5.2 1
+ruby sinatra 1
+character-encoding ruby 1
+encryption java public-key rsa ruby 1
+bouncycastle java openssl ruby 1
+aws-kms node.js ruby serverless-framework 1
+encoding encryption json openssl ruby 1
+email encryption pgp ruby ruby-on-rails 1
+encryption java ruby ruby-on-rails 1
+aes encryption php ruby 1
+encryption java public-key-encryption rsa ruby 1
+rsa ruby ruby-on-rails ssh 1
+dsa public-key ruby 1
+bash md5 ruby ssh ssh-keygen 1
+cryptojs encryption javascript openssl ruby 1
+hmac javascript ruby sha256 1
+ruby ruby-on-rails-3 1
+node.js ruby openssl public-key-encryption 1
+ruby encryption clojure 1
+javascript ruby encryption jwt 1
+javascript node.js ruby webhooks coinbase-api 1
+python ruby encoding character-encoding 1
+ruby base64 encode hmac cryptojs 1
+javascript ruby hmacsha1 1
+ruby go rsa 1
+
+
+TOPIC 5: 
+ruby ruby-on-rails 4
+ruby 4
+oauth ruby ruby-on-rails 3
+ruby ruby-on-rails security 2
+api ruby ruby-on-rails security 2
+csrf ruby ruby-on-rails 2
+openid ruby ruby-on-rails 2
+oauth ruby 2
+api api-key ruby ruby-on-rails security 1
+ruby ruby-on-rails ruby-on-rails-3.2 security urlencode 1
+bouncycastle ios mdm ruby security 1
+ruby security 1
+regex ruby ruby-on-rails security 1
+challenge-response cryptography ruby 1
+bignum bit-manipulation cryptography ruby 1
+ruby ruby-on-rails savon ws-security 1
+cryptography ruby 1
+gem ruby security 1
+devise ruby ruby-on-rails security token 1
+csrf html5 ruby ruby-on-rails 1
+dropbox dropbox-api ruby security 1
+ruby ruby-on-rails-3.2 security 1
+csrf overriding ruby ruby-on-rails 1
+asp.net-web-api rest ruby ruby-on-rails security 1
+csrf doorkeeper ruby ruby-on-rails-5 1
+drb ruby security 1
+omniauth ruby ruby-on-rails security 1
+command-line proxy ruby security 1
+defensive-programming ruby security 1
+ruby sql-injection 1
+angularjs csrf ruby 1
+csrf ruby ruby-on-rails security 1
+authentication command-line design-patterns ruby security 1
+api plugins ruby ruby-on-rails security 1
+node.js ruby security web 1
+code-security on-prem ruby ruby-on-rails server 1
+google-sheets google-spreadsheet-api ruby security 1
+java ruby spring-security-saml2 1
+json ruby ruby-on-rails 1
+itunesconnect jwt ruby 1
+api gmail google-api oauth-2.0 ruby 1
+api ruby savon soap 1
+azure azure-eventhub ruby 1
+rack ruby sinatra 1
+oauth-2.0 ruby 1
+apache ruby ruby-on-rails saml single-sign-on 1
+certificate ruby ruby-saml saml saml-2.0 1
+gem oauth rest-client ruby 1
+devise ruby ruby-on-rails ruby-on-rails-3 1
+omniauth quickbooks-online ruby ruby-on-rails 1
+cordova oauth-2.0 restful-authentication ruby sinatra 1
+authentication rest restful-authentication ruby ruby-on-rails 1
+ruby ruby-1.9.3 1
+amazon-cognito amazon-web-services ruby ruby-on-rails single-sign-on 1
+oauth ruby ruby-on-rails twitter 1
+docusignapi ruby 1
+metasploit python ruby 1
+omniauth openid ruby ruby-on-rails 1
+jwt ruby ruby-on-rails 1
+api ruby ruby-on-rails ruby-on-rails-4 sdk 1
+ruby sinatra ssl 1
+inetd openssl ruby 1
+encryption oauth oauth-2.0 ruby ruby-on-rails 1
+api http ruby ruby-on-rails 1
+angularjs ruby ruby-on-rails 1
+devise google-authenticator ruby ruby-on-rails-3 1
+google-apps openid ruby ruby-on-rails 1
+adwords-api-v201802 google-adwords ruby 1
+oauth ruby ruby-on-rails streaming twitter 1
+authentication ruby token 1
+doorkeeper oauth omniauth ruby ruby-on-rails 1
+authentication cas php ruby single-sign-on 1
+google-api google-plus ruby ruby-on-rails ssl 1
+faraday oauth ruby ruby-on-rails 1
+facebook-login gem omniauth ruby ruby-on-rails 1
+heroku ios ruby ruby-on-rails ssl 1
+heroku oauth openid ruby 1
+encryption ruby soap xml xml-encryption 1
+authentication oauth-2.0 restforce ruby 1
+authentication google-openid openid ruby ruby-on-rails 1
+api intuit-partner-platform oauth quickbooks-online ruby 1
+instagram instagram-api ruby ruby-on-rails-3 1
+android devise ruby ruby-on-rails 1
+ruby ruby-on-rails-3 1
+ruby saml saml-2.0 wso2 1
+cas java oauth ruby single-sign-on 1
+encryption javascript ruby ruby-on-rails 1
+oauth-2.0 request ruby session sinatra 1
+google-oauth ruby 1
+linkedin mechanize oauth ruby 1
+net-http oauth oauth-2.0 ruby ruby-on-rails 1
+google-drive-api ruby 1
+httparty linkedin ruby 1
+encryption google-api-client google-api-ruby-client google-cloud-kms ruby 1
+android cors ios ruby ruby-on-rails 1
+google-signin reactjs ruby ruby-on-rails 1
+ruby ruby-on-rails ruby-on-rails-4 rubygems 1
+google-api google-calendar-api ruby ruby-on-rails 1
+devise ruby ruby-on-rails saml single-sign-on 1
+rack ruby ruby-on-rails-3 1
+google-api google-oauth google-oauth2 ruby ruby-on-rails 1
+ajax ruby 1
+google-play google-play-services in-app-purchase oauth-2.0 ruby 1
+google-api google-plus oauth-2.0 ruby 1
+amazon-s3 amazon-web-services ruby ruby-on-rails 1
+oauth oauth-2.0 ruby ruby-on-rails soa 1
+eventmachine ruby ssl websocket wireshark 1
+credentials ruby ruby-on-rails sharepoint 1
+doorkeeper oauth-2.0 ruby ruby-on-rails 1
+api backbone.js ruby 1
+google-search-console ruby 1
+logout ruby ruby-on-rails ruby-on-rails-3 1
+adsense-api google-oauth python ruby 1
+devise gmail oauth omniauth ruby 1
+api oauth ruby ruby-on-rails yahoo-api 1
+authentication ruby ruby-on-rails token 1
+google-custom-search oauth ruby 1
+node.js ruby ruby-on-rails web-services 1
+oauth rest-client ruby 1
+facebook oauth ruby 1
+microservices oauth-2.0 ruby ruby-on-rails single-sign-on 1
+ruby soap x509 1
+authentication devise ruby ruby-on-rails ruby-on-rails-4 1
+oauth-2.0 ruby ruby-on-rails-3 1
+digital-signature openssl ruby 1
+apache httpd.conf ruby ruby-on-rails 1
+node.js ruby ruby-on-rails 1
+doorkeeper oauth oauth-2.0 ruby ruby-on-rails 1
+oauth-ruby ruby ruby-on-rails 1
+javascript ruby ruby-on-rails websocket 1
+facebook koala ruby ruby-on-rails 1
+cookies reactjs ruby ruby-on-rails 1
+google-oauth2 oauth oauth-2.0 oauth2 ruby 1
+google-cloud-platform google-oauth ruby 1
+amazon-ec2 ios ruby sinatra spotify 1
+authentication calendar google-app-engine google-calendar-api ruby 1
+authentication oauth2 python ruby 1
+ruby ruby-on-rails ssl 1
+omniauth ruby 1
+authentication ruby ruby-on-rails saml single-sign-on 1
+devise oauth ruby 1
+authentication google-authentication jwt ruby ruby-on-rails 1
+linkedin oauth omniauth ruby ruby-on-rails 1
+encryption ruby ruby-on-rails 1
+azure azure-active-directory oauth oauth-2.0 ruby 1
+google-oauth2 oauth-2.0 ruby ruby-on-rails-5.2 wso2 1
+prng ruby 1
+jira ruby 1
+2-legged java oauth ruby 1
+authentication dns ruby sasl xmpp 1
+oauth-2.0 ruby sinatra yahoo yahoo-api 1
+laravel node.js ruby ruby-on-rails sails.js 1
+paypal ruby ruby-on-rails 1
+magento2 ruby savon 1
+oauth omniauth ruby ruby-on-rails rubygems 1
+api google-drive-api oauth ruby 1
+devise encryption ruby ruby-on-rails-5 1
+aws-kms ruby ruby-on-rails testing vcr 1
+oauth-2.0 ruby ruby-on-rails 1
+azure azure-active-directory jwt ruby 1
+
+
+TOPIC 6: 
+ruby ruby-on-rails 31
+devise ruby ruby-on-rails 23
+authentication devise ruby ruby-on-rails 12
+devise ruby ruby-on-rails ruby-on-rails-3 10
+ruby ruby-on-rails ruby-on-rails-4 10
+authentication ruby ruby-on-rails 8
+devise ruby ruby-on-rails ruby-on-rails-4 7
+ruby ruby-on-rails ruby-on-rails-3 7
+ruby ruby-on-rails security 5
+devise passwords ruby ruby-on-rails 4
+devise ruby ruby-on-rails-3 4
+ruby ruby-on-rails ruby-on-rails-3 validation 4
+ruby ruby-on-rails ruby-on-rails-5 4
+authentication devise ruby ruby-on-rails ruby-on-rails-4 4
+ruby ruby-on-rails validation 3
+bcrypt ruby ruby-on-rails 3
+omniauth ruby ruby-on-rails ruby-on-rails-3 3
+authlogic ruby ruby-on-rails 3
+devise omniauth ruby ruby-on-rails 3
+devise passwords reset ruby ruby-on-rails 2
+passwords ruby ruby-on-rails 2
+authlogic passwords ruby ruby-on-rails 2
+passwords ruby ruby-on-rails validation 2
+mechanize ruby web-scraping 2
+bcrypt-ruby ruby ruby-on-rails ruby-on-rails-4 2
+actioncontroller ruby ruby-on-rails 2
+ruby ruby-on-rails ruby-on-rails-3 ruby-on-rails-3.1 rubygems 2
+rspec ruby ruby-on-rails 2
+ruby ruby-on-rails ruby-on-rails-3 ruby-on-rails-3.1 ruby-on-rails-3.2 2
+javascript ruby ruby-on-rails 2
+ajax devise ruby ruby-on-rails 2
+devise ruby ruby-on-rails validation 2
+ruby ruby-on-rails ruby-on-rails-4 validation 2
+activeadmin devise ruby ruby-on-rails 2
+devise ruby ruby-on-rails ruby-on-rails-3 ruby-on-rails-4 2
+confirmation-email devise ruby ruby-on-rails 2
+authlogic openid ruby ruby-on-rails 2
+authentication devise ruby ruby-on-rails ruby-on-rails-3 2
+ruby 2
+ruby ruby-on-rails ruby-on-rails-3 rubygems 2
+activerecord ruby ruby-on-rails 2
+ruby-on-rails ruby authentication devise 2
+mongodb password-policy passwords ruby ruby-on-rails 1
+devise ruby ruby-on-rails security two-factor-authentication 1
+attr-accessible parameters ruby ruby-on-rails security 1
+devise passwords ruby ruby-on-rails-3 1
+recaptcha ruby ruby-on-rails-3.2 security 1
+devise ruby ruby-on-rails ruby-on-rails-3 security 1
+omniauth openid ruby security 1
+privacy ruby ruby-on-rails security 1
+api passwords ruby ruby-on-rails 1
+redirect ruby ruby-on-rails security 1
+authorization ruby ruby-on-rails ruby-on-rails-4 security 1
+methods ruby ruby-on-rails security variables 1
+json ruby ruby-on-rails ruby-on-rails-3 security 1
+devise ip ruby ruby-on-rails security 1
+csrf csrf-protection mandrill ruby ruby-on-rails-4 1
+authentication passwords ruby ruby-on-rails whitelist 1
+crud csrf devise ruby ruby-on-rails 1
+authentication login ruby ruby-on-rails security 1
+anonymous-users ruby ruby-on-rails security 1
+cancan railscasts ruby ruby-on-rails security 1
+activeadmin devise passwords ruby ruby-on-rails 1
+passwords ruby ruby-on-rails-3 1
+devise passwords ruby ruby-on-rails validation 1
+brute-force ruby ruby-on-rails security 1
+admin passwords ruby ruby-on-rails 1
+if-statement ruby security slim-lang 1
+activerecord ruby ruby-on-rails sql sql-injection 1
+devise passwords routes ruby ruby-on-rails 1
+ruby ruby-on-rails ruby-on-rails-3 security session-cookies 1
+activemodel passwords ruby validation 1
+devise passwords ruby ruby-on-rails-4 1
+ruby ruby-on-rails security session-cookies 1
+params ruby ruby-on-rails-4 security url 1
+ruby ruby-on-rails sql sql-injection 1
+forgot-password passwords rails-activerecord ruby ruby-on-rails 1
+devise passwords ruby ruby-on-rails session 1
+auto-generate devise passwords ruby 1
+bcrypt passwords ruby ruby-on-rails 1
+devise passwords regex ruby ruby-on-rails 1
+csrf rspec-rails ruby ruby-on-rails ruby-on-rails-4 1
+csrf ruby-1.8.7 ruby-on-rails-2 session session-cookies 1
+html ruby ruby-on-rails security semantic-markup 1
+permissions ruby ruby-on-rails security validation 1
+caching passwords ruby ruby-on-rails 1
+ruby ruby-on-rails ruby-on-rails-3 security 1
+passwords reset ruby ruby-on-rails ruby-on-rails-4 1
+authentication passwords ruby ruby-on-rails 1
+authentication devise ruby ruby-on-rails security 1
+c9.io passwords ruby ruby-on-rails 1
+passwords refinerycms ruby ruby-on-rails 1
+devise ruby security 1
+authlogic rest ruby ruby-on-rails security 1
+devise passwords renewal ruby ruby-on-rails 1
+controllers ruby ruby-on-rails security validation 1
+model-view-controller ruby ruby-on-rails security 1
+bcrypt-ruby forms passwords ruby ruby-on-rails 1
+csrf devise ruby ruby-on-rails 1
+passwords registration routes ruby ruby-on-rails 1
+heroku ruby ruby-on-rails security 1
+ruby-on-rails ruby devise csrf 1
+amazon-web-services aws-cognito ruby ruby-on-rails 1
+oauth ruby ruby-on-rails ruby-on-rails-4 1
+ruby ruby-on-rails session subdomain 1
+restful-authentication ruby ruby-on-rails 1
+captcha nested-form-for ruby ruby-on-rails ruby-on-rails-5 1
+clearance ruby ruby-on-rails-4 1
+authentication devise jwt ruby ruby-on-rails 1
+devise ruby ruby-on-rails ruby-on-rails-3 session-replay 1
+email-validation ruby ruby-on-rails validation 1
+devise ldap ruby ruby-on-rails ruby-on-rails-4 1
+authentication cookies ruby ruby-on-rails 1
+api ruby ruby-on-rails ruby-on-rails-4 1
+ruby ruby-on-rails-3 unobtrusive-javascript 1
+ruby ruby-on-rails ruby-on-rails-3.2 1
+active-directory ldap omniauth padrino ruby 1
+authentication omniauth ruby rubygems 1
+bcrypt digest minitest ruby ruby-on-rails-4 1
+custom-authentication devise jruby ruby ruby-on-rails-4 1
+email gmail ruby ruby-on-rails 1
+ruby validation yodlee 1
+oauth ruby ruby-on-rails session twitter 1
+ruby ruby-on-rails-3 1
+devise mongoid ruby ruby-on-rails 1
+authentication ldap ruby 1
+ruby sinatra 1
+merb merb-auth ruby 1
+ajax javascript json ruby ruby-on-rails 1
+api bcrypt ruby ruby-on-rails 1
+google-authentication google-oauth ruby ruby-on-rails 1
+devise rails-api ruby ruby-on-rails 1
+database login mysql ruby ruby-on-rails 1
+authentication devise ruby ruby-on-rails-3 1
+clearance pundit ruby ruby-on-rails user-accounts 1
+authentication clearance ruby ruby-on-rails ruby-on-rails-6 1
+devise omniauth ruby-2.0 ruby-on-rails twitter 1
+authlogic authorization ruby ruby-on-rails 1
+mechanize-ruby ruby 1
+jquery ruby ruby-on-rails validation 1
+activerecord bcrypt ruby ruby-on-rails validation 1
+facebook omniauth ruby ruby-on-rails 1
+oauth-2.0 omniauth-google-oauth2 ruby ruby-on-rails 1
+registration ruby ruby-on-rails validation wizard 1
+functional-testing ruby ruby-on-rails unit-testing 1
+angularjs devise ruby 1
+bcrypt devise md5 ruby ruby-on-rails 1
+factory-bot mongoid rspec ruby ruby-on-rails 1
+ruby-1.9.3 ruby-on-rails-4 1
+authorization ruby ruby-on-rails 1
+email ruby ruby-on-rails validation 1
+authlogic oauth ruby ruby-on-rails 1
+redirect routing ruby ruby-on-rails ruby-on-rails-4 1
+devise rspec ruby ruby-on-rails 1
+active-directory omniauth ruby saml windows 1
+email-validation ruby ruby-on-rails 1
+omniauth ruby sinatra twitter 1
+redmine redmine-plugins ruby ruby-on-rails single-sign-on 1
+clearance ruby ruby-on-rails user-accounts 1
+authlogic openid ruby ruby-on-rails ruby-openid 1
+devise rails-authorization ruby ruby-on-rails 1
+activerecord ruby ruby-on-rails validation virtual-attribute 1
+activeadmin activerecord bcrypt ruby ruby-on-rails 1
+devise oauth omniauth ruby ruby-on-rails 1
+devise minitest ruby ruby-on-rails tdd 1
+capybara rspec ruby ruby-on-rails saml 1
+email ruby 1
+authentication devise facebook ruby ruby-on-rails 1
+onelogin ruby saml 1
+omniauth omniauth-google-oauth2 rspec ruby ruby-on-rails 1
+ruby ruby-on-rails salesforce 1
+ios ruby swift xcode 1
+docusignapi ruby 1
+omniauth ruby ruby-on-rails 1
+bcrypt-ruby devise ruby ruby-on-rails 1
+email gmail-imap ruby ruby-on-rails smtp 1
+cancancan devise ruby ruby-on-rails 1
+authentication devise routes ruby ruby-on-rails 1
+ruby ruby-on-rails web 1
+devise ruby ruby-on-rails ruby-on-rails-4 ruby-on-rails-4.1 1
+authentication devise ruby ruby-on-rails sti 1
+integration-testing ruby ruby-on-rails ruby-on-rails-4 testing 1
+json rspec ruby ruby-on-rails 1
+devise login ruby ruby-on-rails 1
+ruby ruby-on-rails session 1
+devise javascript ruby ruby-on-rails ruby-on-rails-3 1
+access-denied basic-authentication ruby ruby-on-rails 1
+cancan cancancan ruby ruby-on-rails 1
+devise ruby ruby-on-rails warden 1
+api authentication ruby ruby-on-rails upload 1
+authlogic railscasts ruby ruby-on-rails 1
+bcrypt bcrypt-ruby ruby ruby-on-rails 1
+ruby ruby-on-rails ruby-on-rails-3.1 1
+devise json ruby ruby-on-rails simple-authentication 1
+localhost ruby ruby-on-rails 1
+jwt ruby ruby-on-rails 1
+activerecord bcrypt ruby ruby-on-rails ruby-on-rails-4 1
+recaptcha ruby ruby-on-rails ruby-on-rails-4 validation 1
+railstutorial.org ruby ruby-on-rails ruby-on-rails-3 1
+ldap netldap ruby ruby-on-rails ruby-on-rails-3 1
+google-oauth oauth oauth-2.0 ruby ruby-on-rails 1
+ruby ruby-on-rails rubygems 1
+rspec ruby ruby-on-rails specifications 1
+azure cookies ruby ruby-on-rails session 1
+authentication camping ruby web-applications 1
+git gitlab ruby saml 1
+bcrypt-ruby ruby sinatra 1
+devise login ruby ruby-on-rails-3 1
+restforce ruby salesforce 1
+authlogic capybara integration-testing ruby ruby-on-rails-3 1
+hashids ruby ruby-on-rails-4 1
+capybara devise ruby ruby-on-rails 1
+mongomapper oauth ruby 1
+facebook ruby ruby-on-rails ruby-on-rails-5 1
+devise omniauth ruby ruby-on-rails ruby-on-rails-3 1
+authentication hash ruby ruby-on-rails 1
+instagram oauth ruby ruby-on-rails 1
+authentication restful-authentication ruby ruby-on-rails ruby-on-rails-plugins 1
+facebook-graph-api koala ruby ruby-on-rails ruby-on-rails-3 1
+oauth-2.0 ruby sinatra twitter twitter-oauth 1
+authentication javascript jquery ruby ruby-on-rails 1
+authentication postgresql rspec ruby ruby-on-rails 1
+recaptcha ruby ruby-on-rails spam-prevention 1
+csrf-protection devise ruby ruby-on-rails 1
+model-view-controller ruby ruby-on-rails ruby-on-rails-3 ruby-on-rails-4 1
+imap ruby ruby-on-rails 1
+httparty ruby ruby-on-rails-3 1
+oauth ruby twitter 1
+activerecord mass-assignment ruby ruby-on-rails validation 1
+activeadmin devise ruby ruby-on-rails ruby-on-rails-4 1
+authentication devise email-validation ruby ruby-on-rails 1
+linkedin oauth-2.0 omniauth ruby ruby-on-rails-3 1
+clearance ruby ruby-on-rails-3 1
+devise postgresql ruby ruby-on-rails rubycas-server 1
+devise email ldap ruby ruby-on-rails 1
+joomla2.5 ruby ruby-on-rails 1
+facebook-graph-api koala oauth ruby ruby-on-rails 1
+oauth omniauth-facebook ruby ruby-on-rails-3 1
+javascript ruby ruby-on-rails ruby-on-rails-4 1
+api ruby ruby-on-rails salesforce 1
+api auth0 ruby ruby-on-rails web 1
+authentication authorization roles ruby ruby-on-rails 1
+authentication csrf-protection devise ruby ruby-on-rails 1
+authentication ruby ruby-on-rails ruby-on-rails-4 1
+authentication openid ruby ruby-on-rails 1
+devise omniauth omniauth-twitter ruby ruby-on-rails 1
+authentication authlogic ruby ruby-on-rails ruby-on-rails-3 1
+http rails-api ruby ruby-on-rails ruby-on-rails-5 1
+forms mechanize ruby screen-scraping 1
+active-directory ruby ruby-on-rails ruby-on-rails-2 1
+devise encryption ruby ruby-on-rails 1
+model-associations nested-attributes refinerycms ruby ruby-on-rails-3.2 1
+authentication hash ruby ruby-on-rails symbols 1
+oauth omniauth ruby ruby-on-rails yandex-api 1
+ruby ruby-on-rails rubycas-server single-sign-on 1
+authentication facebook omniauth ruby twitter 1
+authentication authorization declarative ruby 1
+facebook oauth ruby ruby-on-rails 1
+ruby ruby-on-rails session-cookies session-variables 1
+authentication bcrypt-ruby ruby ruby-on-rails 1
+active-directory netldap ruby 1
+devise mass-assignment ruby ruby-on-rails ruby-on-rails-3 1
+authentication clearance ruby ruby-on-rails 1
+devise omniauth ruby ruby-on-rails twitter-oauth 1
+authentication authorization ruby ruby-on-rails ruby-on-rails-4 1
+oauth oauth-provider ruby ruby-on-rails two-legged 1
+asp.net c# devise password-encryption ruby 1
+okta ruby ruby-on-rails ruby-on-rails-4 saml-2.0 1
+gitlab-omnibus ruby ruby-on-rails saml shibboleth 1
+ruby ruby-on-rails ruby-on-rails-4 spree 1
+devise ruby ruby-2.2 ruby-on-rails 1
+ruby ruby-on-rails ruby-on-rails-4.2 1
+ruby ruby-on-rails session single-sign-on siteminder 1
+login ruby ruby-on-rails 1
+authentication devise ldap ruby ruby-on-rails 1
+bcrypt bcrypt-ruby ruby ruby-on-rails ruby-on-rails-4 1
+google-oauth oauth ruby ruby-on-rails 1
+http ruby ruby-on-rails 1
+google-openid omniauth openid ruby ruby-on-rails 1
+asset-pipeline authorization ruby ruby-on-rails 1
+http-headers oauth-2.0 ruby ruby-on-rails ruby-on-rails-5 1
+devise mask ruby ruby-on-rails ruby-on-rails-4 1
+devise oauth-2.0 omniauth ruby ruby-on-rails 1
+github-api ruby ruby-on-rails 1
+amazon-cognito amazon-web-services devise ruby ruby-on-rails 1
+authlogic-oauth collision namespaces ruby ruby-on-rails 1
+c# ruby twitter 1
+forgot-password ruby ruby-on-rails-3 ruby-on-rails-3.2 1
+authlogic plugins ruby ruby-on-rails 1
+authentication bcrypt devise ruby ruby-on-rails 1
+authentication login ruby ruby-on-rails 1
+basic-authentication ruby ruby-on-rails ruby-on-rails-4 1
+devise https ruby ruby-on-rails ssl 1
+authentication authlogic ruby ruby-on-rails 1
+login ruby sinatra-activerecord 1
+devise google-authentication ruby ruby-on-rails 1
+bcrypt blowfish ruby ruby-on-rails 1
+openssl ruby ruby-on-rails 1
+amazon-cognito amazon-web-services ruby ruby-on-rails srp-protocol 1
+bcrypt-ruby rspec ruby ruby-on-rails 1
+devise omniauth omniauth-facebook ruby ruby-on-rails 1
+ruby twitter 1
+bcrypt ruby ruby-on-rails sorcery 1
+devise factory-bot rspec ruby ruby-on-rails 1
+bcrypt devise ruby ruby-on-rails rubygems 1
+ruby ruby-on-rails web-applications 1
+authentication postgresql ruby ruby-on-rails 1
+clearance ruby ruby-on-rails 1
+haml ruby ruby-on-rails ruby-on-rails-3 1
+authentication authlogic-oid ruby ruby-on-rails 1
+facebook-chat javascript node-xmpp ruby 1
+confirmation-email devise email-confirmation ruby ruby-on-rails 1
+facebook-oauth omniauth ruby ruby-on-rails ruby-on-rails-3 1
+activerecord ruby ruby-on-rails sinatra 1
+onelogin ruby ruby-on-rails saml-2.0 service-provider 1
+ruby ruby-on-rails-4 1
+activeadmin ruby ruby-on-rails 1
+devise doorkeeper ruby ruby-on-rails ruby-on-rails-4 1
+devise ruby ruby-on-rails-4 1
+ruby ruby-on-rails warden 1
+mail-gem ruby ruby-on-rails 1
+email exchange-server ruby ruby-on-rails 1
+authentication devise ruby ruby-on-rails rubygems 1
+activerecord ruby ruby-on-rails validation 1
+api oauth ruby token twitter 1
+javascript jquery ruby ruby-on-rails-3 1
+alert authentication ruby ruby-on-rails ruby-on-rails-3 1
+controller ruby ruby-on-rails 1
+html ruby ruby-on-rails 1
+devise ldap ruby ruby-on-rails-3 1
+account devise ruby ruby-on-rails 1
+cookies ember.js ruby ruby-on-rails 1
+devise mongoid ruby ruby-on-rails ruby-on-rails-3 1
+rspec ruby ruby-on-rails tdd testing 1
+omniauth ruby ruby-on-rails rubygems 1
+callback devise ruby ruby-on-rails validation 1
+authentication google-authentication ruby ruby-on-rails 1
+facebook facebook-authentication koala oauth ruby 1
+credentials ldap omniauth ruby 1
+devise facebook omniauth-facebook ruby ruby-on-rails 1
+acts-as-paranoid devise ruby ruby-on-rails-3.1 warden 1
+databasedotcom-gem integration ruby ruby-on-rails salesforce 1
+database encoding encryption ruby ruby-on-rails 1
+devise ruby 1
+authentication devise ruby ruby-on-rails token 1
+authentication devise ruby ruby-on-rails validation 1
+devise ruby ruby-on-rails session 1
+cas devise ruby ruby-on-rails-4 1
+authentication ruby ruby-on-rails ruby-on-rails-3 stripe-payments 1
+facebook omniauth ruby ruby-on-rails ruby-on-rails-5 1
+forms railstutorial.org ruby ruby-on-rails 1
+ruby telnet 1
+cookies ruby ruby-on-rails 1
+biometrics fingerprint ruby ruby-on-rails-4 rubygems 1
+paperclip ruby ruby-on-rails validation 1
+devise ruby ruby-on-rails-3.1 rubygems 1
+facebook facebook-oauth oauth ruby sinatra 1
+functional-testing ruby ruby-on-rails 1
+css ruby ruby-on-rails ruby-on-rails-4 1
+azure-active-directory oauth-2.0 ruby 1
+controller html login ruby ruby-on-rails-4 1
+ruby ruby-on-rails-3 ruby-on-rails-4 1
+oauth ruby ruby-on-rails twitter 1
+regex ruby ruby-on-rails ruby-on-rails-3 1
+devise ruby ruby-on-rails-3.2 1
+authlogic devise omniauth ruby ruby-on-rails 1
+forms ruby ruby-on-rails 1
+ruby ruby-on-rails ruby-on-rails-6 1
+bcrypt bcrypt-ruby ruby ruby-on-rails ruby-on-rails-5 1
+authorization basic-authentication ruby ruby-on-rails ruby-on-rails-5 1
+ruby ruby-on-rails two-factor-authentication 1
+devise ruby ruby-on-rails ruby-on-rails-5 1
+devise reset-password ruby ruby-on-rails 1
+ruby saml onelogin 1
+ruby-on-rails ruby devise 1
+ruby-on-rails ruby rubygems 1
+ruby-on-rails ruby devise captcha 1
+ruby-on-rails ruby postgresql devise 1
+ruby-on-rails ruby devise jwt 1
+ruby-on-rails ruby authentication authlogic 1
+ruby-on-rails ruby clearance 1
+
+
+TOPIC 7: 
+ruby ruby-on-rails 7
+ruby 6
+bcrypt ruby ruby-on-rails 6
+devise ruby ruby-on-rails 6
+encryption ruby 5
+ruby ruby-on-rails security 4
+ruby security 3
+bcrypt ruby 3
+bcrypt-ruby ruby ruby-on-rails 3
+encryption ruby ruby-on-rails 3
+md5 ruby 3
+random ruby security 2
+ruby ruby-on-rails ruby-on-rails-3 2
+authentication ruby sinatra 2
+authentication hash md5 ruby ruby-on-rails 2
+authentication devise ruby ruby-on-rails 2
+bcrypt bcrypt-ruby ruby ruby-on-rails ruby-on-rails-4 2
+ruby-on-rails ruby 2
+hanami passwords ruby web-applications 1
+postgresql ruby security 1
+integer passwords ruby string validation 1
+password-protection passwords ruby 1
+encryption ruby security sinatra 1
+database oauth ruby security 1
+encryption passwords ruby security 1
+encryption ruby ruby-on-rails security 1
+cookies ruby ruby-on-rails ruby-on-rails-3 security 1
+ruby security sha1 1
+activerecord mysql ruby ruby-on-rails security 1
+authentication passwords ruby ruby-on-rails security 1
+postgresql ruby sql sql-injection 1
+encryption passwords ruby watir 1
+authentication bcrypt passwords ruby salt 1
+jekyll octopress passwords ruby security 1
+authentication passwords ruby ruby-on-rails 1
+ruby ruby-on-rails rubygems security 1
+password-encryption passwords ruby ruby-on-rails 1
+centos7 encryption passwords ruby 1
+hash passwords php ruby sha512 1
+random ruby ruby-on-rails security 1
+eval ruby ruby-on-rails scripting security 1
+ruby ruby-on-rails security stripe-payments 1
+cryptography ruby ruby-on-rails 1
+debugging ruby ruby-on-rails security 1
+dsl java jruby ruby security 1
+passwords regex ruby 1
+passwords pg postgresql ruby ruby-on-rails 1
+forms ruby ruby-on-rails security 1
+java mysql ruby security sql 1
+regex ruby ruby-on-rails sanitization security 1
+mysql rails-activerecord ruby ruby-on-rails sql-injection 1
+authlogic passwords rails-generate ruby ruby-on-rails 1
+associations belongs-to ruby ruby-on-rails security 1
+password-generator ruby security 1
+bcrypt encryption integer-overflow passwords ruby 1
+cryptography encryption ruby 1
+form-for model-view-controller passwords ruby ruby-on-rails 1
+ruby ruby-on-rails ruby-on-rails-4 security 1
+cmd passwords ruby windows 1
+heroku networking ruby ruby-on-rails security 1
+liquid ruby security unmarshalling user-input 1
+authentication encryption redis ruby security 1
+http ruby security 1
+algorithm mobile passwords ruby user-interface 1
+couchdb password-storage ruby security 1
+openssl ruby ruby-on-rails security 1
+ruby ruby-on-rails security serialization yaml 1
+gem passwords ruby ruby-on-rails security 1
+encryption private-key public-key ruby security 1
+rails-activerecord ruby ruby-on-rails ruby-on-rails-4 security 1
+encryption ruby ruby-on-rails ruby-on-rails-4 security 1
+passwords ruby ruby-on-rails-3 sms 1
+authlogic passwords php ruby ruby-on-rails 1
+api ruby ruby-on-rails security 1
+api flash javascript ruby security 1
+password-protection passwords ruby ruby-on-rails 1
+passwords puts ruby 1
+encryption heroku ruby ruby-on-rails security 1
+encryption openssl public-key-encryption ruby security 1
+authlogic passwords ruby ruby-on-rails 1
+ruby ruby-on-rails ruby-on-rails-3 security 1
+password-protection privacy ruby security 1
+bcrypt cryptography encryption ruby 1
+access-control passwords ruby ruby-on-rails seed 1
+firewatir jssh ruby security watir 1
+erb html5 ruby security sinatra 1
+ruby ruby-on-rails salt security 1
+model passwords ruby ruby-on-rails-3 validation 1
+authentication ruby ruby-on-rails security 1
+rails-models ruby ruby-on-rails security 1
+passwords random ruby 1
+cryptography linux php ruby ruby-on-rails 1
+passwords ruby 1
+bcrypt encryption ruby ruby-on-rails security 1
+erase passwords ruby 1
+base64 passwords ruby xml 1
+restful-authentication ruby ruby-on-rails 1
+amazon-s3 encryption file-management ruby ruby-on-rails 1
+ruby sequel 1
+ruby ruby-on-rails ruby-on-rails-4 1
+bcrypt-ruby ruby ruby-on-rails-4 1
+ruby rubycas-client rubycas-server 1
+database jruby ruby ruby-on-rails 1
+devise encryption openssl ruby ruby-on-rails 1
+puppet ruby spring 1
+memory ruby 1
+authlogic ruby ruby-on-rails 1
+activerecord ruby ruby-on-rails 1
+activerecord postgresql ruby sinatra 1
+devise ruby ruby-on-rails ruby-on-rails-4 1
+password-protection ruby secure-coding sinatra 1
+bcrypt encryption ruby 1
+digest hash ruby yaml 1
+ruby ruby-on-rails ruby-on-rails-3 ruby-on-rails-4 1
+bcrypt-ruby encryption ruby ruby-on-rails ruby-on-rails-4 1
+hash ruby sequel sinatra 1
+hash mongodb ruby sha1 sha256 1
+devise encryption ruby ruby-on-rails rubygems 1
+java ldap opendj openldap ruby 1
+ruby ruby-on-rails-2 1
+hash ruby ruby-on-rails-3 session-cookies 1
+authentication rest ruby ruby-on-rails 1
+authentication devise migration ruby ruby-on-rails 1
+authentication command-line-interface encryption linux ruby 1
+bcrypt bcrypt-ruby ruby sinatra 1
+protection ruby ruby-on-rails 1
+redis rescue ruby ruby-on-rails-3 sidekiq 1
+ruby ruby-on-rails-3 typhoeus 1
+ruby ruby-on-rails validation 1
+hash md5 ruby 1
+django pbkdf2 python ruby ruby-on-rails 1
+dwolla encryption ruby ruby-on-rails ruby-on-rails-4 1
+access-token encryption rails-api ruby ruby-on-rails 1
+authentication devise encryption ruby ruby-on-rails-3.2 1
+php ruby ruby-on-rails 1
+django encryption ruby ruby-on-rails 1
+bcrypt devise encryption ruby ruby-on-rails 1
+database encryption ruby ruby-on-rails 1
+encryption ruby ruby-on-rails sha 1
+encryption postgresql ruby ruby-on-rails 1
+authlogic ruby 1
+encryption gnupg puppet ruby ubuntu-14.04 1
+cookies hash php ruby ruby-on-rails 1
+datamapper grape-api rack ruby rubygems 1
+bcrypt model-view-controller ruby ruby-on-rails ruby-on-rails-4 1
+restful-authentication ruby ruby-on-rails scope variables 1
+automation ruby watir 1
+jruby mysql ruby ruby-on-rails ssl 1
+django ruby ruby-on-rails 1
+hash multithreading redis ruby ruby-on-rails 1
+bcrypt hash ruby 1
+bcrypt bcrypt-ruby ruby 1
+encryption java ruby sha1 1
+bcrypt php ruby 1
+encryption ruby ruby-on-rails ruby-on-rails-4 1
+authentication http-digest ruby ruby-on-rails ruby-on-rails-3.1 1
+ruby ruby-2.6 ruby-on-rails 1
+authentication ruby service 1
+bcrypt bcrypt-ruby ruby ruby-on-rails 1
+java javascript ruby 1
+hash json ruby sha sha512 1
+ruby ruby-on-rails ruby-on-rails-2 1
+ruby ruby-on-rails-3 1
+ruby sha256 1
+file ruby ruby-on-rails 1
+php ruby session-cookies 1
+httparty json ruby ruby-on-rails 1
+algorithm php ruby 1
+database encryption ruby sinatra 1
+activeadmin ruby ruby-on-rails ruby-on-rails-3 ruby-on-rails-4 1
+postgresql ruby ruby-on-rails rubygems 1
+bcrypt laravel-4 ruby 1
+authentication authorization password-encryption ruby ruby-on-rails 1
+bcrypt bcrypt-ruby encryption ruby ruby-on-rails 1
+ruby rubygems 1
+associations rails-api ruby ruby-on-rails 1
+bcrypt ruby ruby-on-rails sha1 1
+devise ruby ruby-on-rails ruby-on-rails-4.2 1
+bcrypt encryption ruby ruby-on-rails salt 1
+bcrypt bcrypt-ruby php ruby 1
+excel ruby selenium 1
+bots forms protection ruby ruby-on-rails 1
+algorithm hash md5 ruby 1
+metaprogramming reflection ruby ruby-on-rails 1
+database ruby ruby-on-rails ruby-on-rails-3 validation 1
+devise encryption ruby ruby-on-rails 1
+activerecord hash md5 ruby ruby-on-rails 1
+bcrypt ruby sinatra 1
+encryption ruby ruby-on-rails sql 1
+digest ruby ruby-on-rails ruby-on-rails-4 salt 1
+attr-encrypted encryption ruby ruby-on-rails sql 1
+c# cross-platform hash java ruby 1
+asp.net base64 ruby ruby-on-rails sha1 1
+iphone restful-authentication ruby ruby-on-rails 1
+asp.net mysql ruby sha1 sql-server 1
+bcrypt-ruby hash mysql ruby ruby-datamapper 1
+mongodb mongoid ruby ruby-on-rails 1
+arrays block dynamic-arrays hash ruby 1
+md5 php python ruby 1
+devise ruby sql 1
+encryption ruby ruby-on-rails sorcery 1
+database-design md5 mongodb nosql ruby 1
+encryption ruby ruby-on-rails rubygems 1
+ruby bcrypt 1
+ruby xml metasploit 1
+javascript ruby-on-rails ruby 1
+ruby puppet sha256 mysql-5.7 password-hash 1
+ruby-on-rails ruby oauth-2.0 omniauth google-oauth2 1
+
+
+TOPIC 8: 
+devise ruby ruby-on-rails 4
+authentication devise ruby ruby-on-rails 3
+csrf ruby ruby-on-rails 2
+csrf heroku ruby sinatra 2
+authentication ruby ruby-on-rails 2
+ldap ruby ruby-on-rails 2
+mechanize ruby 2
+ruby 2
+ldap ruby 2
+cookies ruby ruby-on-rails session-cookies 2
+active-directory ldap ruby ruby-on-rails 2
+cookies rack ruby session-cookies sinatra 2
+content-security-policy iframe ruby ruby-on-rails sinatra 1
+https rack ruby security sinatra 1
+asp.net-web-api ruby security web-services 1
+html javascript ruby security web 1
+csrf devise ruby ruby-on-rails 1
+http rack ruby ruby-on-rails security 1
+csrf csrf-token ruby ruby-on-rails 1
+authenticity-token csrf forms ruby ruby-on-rails 1
+ruby ruby-on-rails security 1
+csrf ruby ruby-on-rails ruby-on-rails-4 1
+authentication csrf jquery ruby ruby-on-rails 1
+json ruby ruby-on-rails security xml 1
+angularjs cookies csrf ruby ruby-on-rails 1
+basic-authentication devise ruby ruby-on-rails security 1
+csrf rest ruby ruby-on-rails 1
+mechanize nokogiri ruby ruby-2.3.1 xss 1
+encryption ruby ruby-on-rails security 1
+captcha ruby ruby-on-rails ruby-on-rails-3 security 1
+csrf protect-from-forgery ruby security 1
+ajax csrf jquery ruby ruby-on-rails 1
+csrf post request ruby ruby-on-rails 1
+authentication csrf devise ruby ruby-on-rails 1
+authentication php restful-authentication ruby security 1
+csrf devise ruby ruby-on-rails unicorn 1
+csrf ruby ruby-on-rails ruby-on-rails-4 session 1
+csrf https ruby ruby-on-rails same-origin-policy 1
+csrf ruby ruby-on-rails session 1
+ruby security webrick 1
+csrf csrf-protection post ruby ruby-on-rails-4 1
+authentication csrf ruby ruby-on-rails security 1
+ruby ruby-on-rails-3 security 1
+cucumber google-chrome ruby watir xss 1
+csrf ruby ruby-on-rails turbolinks 1
+https ruby ruby-on-rails security 1
+credit-card ruby ruby-on-rails security 1
+csrf devise firefox ruby ruby-on-rails 1
+ruby ruby-on-rails security session 1
+csrf put rake ruby ruby-on-rails 1
+csrf ruby ruby-on-rails ruby-on-rails-5 security 1
+csrf owasp ruby ruby-on-rails ruby-on-rails-4 1
+csrf ruby sinatra 1
+firefox google-chrome internet-explorer ruby security 1
+authentication csrf html ruby ruby-on-rails 1
+cdn csrf ruby ruby-on-rails ruby-on-rails-4 1
+api csrf ruby ruby-on-rails-3 token 1
+csrf ruby ruby-on-rails subdomain 1
+authenticity csrf ruby ruby-on-rails 1
+cookies mechanize ruby security watir-webdriver 1
+javascript ruby heroku sinatra content-security-policy 1
+ruby-on-rails ruby cookies session-cookies csrf 1
+ruby http security sinatra 1
+authentication php ruby xml-rpc 1
+ruby ruby-on-rails ruby-on-rails-2 1
+authentication devise ember.js ruby ruby-on-rails 1
+javascript jquery ruby ruby-on-rails session 1
+email ruby ruby-on-rails ruby-on-rails-3.2 rubygems 1
+login mechanize ruby 1
+ruby ruby-on-rails saml shibboleth single-sign-on 1
+ajax forms jquery ruby ruby-on-rails 1
+authentication ruby ruby-on-rails ruby-on-rails-3 1
+devise omniauth ruby ruby-on-rails saml 1
+capybara recaptcha ruby web-scraping 1
+devise ruby ruby-on-rails-3 ruby-on-rails-plugins 1
+facebook heroku ruby ruby-on-rails ruby-on-rails-3 1
+api authentication basic-authentication ruby ruby-on-rails 1
+cookies ruby ruby-on-rails ruby-on-rails-3 session-cookies 1
+authentication openid rack ruby sinatra 1
+ruby single-sign-on testing 1
+embed iframe proxy ruby ruby-on-rails 1
+oauth openid ruby ruby-on-rails steam-web-api 1
+cookies ruby ruby-on-rails session 1
+authentication ldap ruby ruby-on-rails 1
+openid ruby 1
+ruby ruby-on-rails ruby-on-rails-5.2 1
+authentication redmine redmine-plugins ruby single-sign-on 1
+cookies ruby ruby-on-rails 1
+ldap ldap-query openldap ruby 1
+api ruby ruby-on-rails ruby-on-rails-3 1
+authentication cookies post ruby ssl 1
+cookies ruby ruby-on-rails session single-sign-on 1
+mechanize nokogiri ruby 1
+benchmarking oauth omniauth ruby scalability 1
+ajax javascript ruby ruby-on-rails 1
+authentication routes ruby sinatra 1
+http rest ruby ruby-on-rails ssl 1
+gitlab ldap ruby windows-server-2012 1
+api devise ruby ruby-on-rails single-sign-on 1
+authentication devise meteor meteor-accounts ruby 1
+authenticity-token ruby ruby-on-rails 1
+request ruby ruby-on-rails web-services 1
+curl ruby scripting 1
+http network-programming ruby 1
+devise ldap ruby ruby-on-rails 1
+cookies mechanize ruby ruby-on-rails 1
+ajax authlogic ruby ruby-on-rails session 1
+javascript ruby ruby-on-rails vue.js webpacker 1
+c# iphone ruby ruby-on-rails 1
+authentication cookies get ruby session 1
+oauth omniauth ruby sinatra 1
+cookies javascript ruby ruby-on-rails 1
+basic-authentication paypal paypal-rest-sdk ruby 1
+captcha login ruby watir 1
+ldap ruby sinatra 1
+asp.net authentication c# ruby ruby-on-rails 1
+ruby session sinatra 1
+redmine redmine-plugins ruby ruby-on-rails 1
+ldap ruby ruby-on-rails ruby-on-rails-3.2 1
+authentication oauth ruby sinatra warden 1
+asana authentication automation rest-client ruby 1
+https ruby sinatra ssl 1
+csv ruby selenium testing webdriver 1
+basic-authentication rest ruby ruby-on-rails 1
+jmeter query-string ruby 1
+cookies ruby ruby-on-rails typhoeus 1
+jmeter ruby 1
+authentication devise grape-api ruby ruby-on-rails 1
+api authentication restful-authentication ruby ruby-on-rails-3 1
+devise ruby ruby-on-rails ruby-on-rails-4 1
+headless ruby watir watir-webdriver xserver 1
+devise ruby ruby-on-rails-4 ruby-on-rails-5 session-hijacking 1
+javascript ruby ruby-on-rails 1
+get httparty ruby ruby-on-rails ruby-on-rails-4 1
+active-directory devise ruby ruby-on-rails 1
+rack ruby ruby-on-rails sinatra single-sign-on 1
+captcha nginx ruby ruby-on-rails ssl 1
+ajax authentication railscasts ruby ruby-on-rails 1
+authentication fiware fiware-orion ruby ruby-on-rails 1
+active-directory authentication http ldap ruby 1
+cookies rack ruby ruby-on-rails session 1
+authentication download ruby ruby-on-rails url 1
+rack ruby ruby-on-rails ssl webrick 1
+authentication ruby ruby-on-rails watir 1
+authentication ruby ruby-on-rails ruby-on-rails-3 session 1
+cookies devise ruby ruby-on-rails ruby-on-rails-4 1
+lambda ruby serverless-framework 1
+hyperstack javascript reactjs ruby 1
+authentication mediawiki ruby ruby-on-rails wiki 1
+ruby ruby-on-rails ruby-on-rails-3 1
+gem mechanize ruby ruby-on-rails 1
+ldap ruby ruby-on-rails sinatra webrick 1
+cookies ruby ruby-on-rails-4 session 1
+cookies curl net-http ruby ruby-on-rails 1
+cookies ruby ruby-on-rails session session-cookies 1
+active-directory authentication ldap ruby ruby-on-rails 1
+ruby ruby-on-rails savon 1
+ldap openldap ruby ssl 1
+ruby shibboleth 1
+net-http ruby 1
+authentication ldap ruby session-cookies sinatra 1
+cookies drupal ruby ruby-on-rails session-cookies 1
+http ruby sinatra 1
+cookies rhodes ruby webview 1
+cakephp md5 ruby ruby-on-rails 1
+ruby sinatra 1
+authentication ruby sinatra 1
+doorkeeper ruby ruby-on-rails 1
+oauth ruby sinatra 1
+gollum-wiki rack ruby 1
+cookies encryption ruby ruby-on-rails ruby-on-rails-4 1
+authentication command-line openid ruby ruby-on-rails 1
+cors oauth rack ruby sinatra 1
+jruby ruby selenium-webdriver sikuli 1
+ember-data ember.js javascript ruby ruby-on-rails 1
+authentication facebook-login ruby ruby-on-rails ruby-on-rails-3 1
+devise restful-authentication ruby ruby-on-rails warden 1
+authentication devise iphone ruby ruby-on-rails-3 1
+passenger ruby ruby-on-rails session 1
+cookies http rest-client ruby session 1
+imap ruby ruby-on-rails 1
+ldap netldap ruby ruby-on-rails ruby-on-rails-4 1
+jira-rest-api okta-api ruby 1
+active-directory ldap ruby 1
+curl php ruby ruby-on-rails ruby-on-rails-3 1
+ruby watir 1
+curb ruby ruby-on-rails 1
+ruby ssl webrick 1
+https ruby ruby-on-rails-3.2 ssl stripe-payments 1
+dropbox ruby 1
+authentication ruby selenium webdriver 1
+angularjs html http-headers ruby ruby-on-rails 1
+ruby session session-cookies session-state sinatra 1
+authentication basic-authentication before-filter ruby ruby-on-rails 1
+facebook javascript oauth ruby sinatra 1
+login mechanize ruby ruby-on-rails web-scraping 1
+authentication mechanize ruby 1
+httpclient httpi ruby savon 1
+hydra oauth-2.0 ruby token 1
+rest ruby ruby-on-rails 1
+authentication openid openid-selector ruby ruby-on-rails 1
+https proxy ruby ssl 1
+cucumber ruby watir watir-webdriver 1
+mechanize mechanize-ruby ruby 1
+ruby ruby-on-rails ssl 1
+authentication ruby twitter 1
+active-directory kerberos ntlm rack ruby 1
+ruby ruby-on-rails session 1
+ruby ruby-on-rails 1
+active-directory apache ldap redmine ruby 1
+asp.net cookies mechanize ruby web-scraping 1
+api authentication rails-api ruby ruby-on-rails 1
+curl rest-client ruby ruby-on-rails-5 1
+rest-client ruby 1
+html javascript ruby ruby-on-rails 1
+ruby ruby-on-rails ssl ssl-client-authentication 1
+ruby-on-rails ruby cookies ruby-on-rails-5.2 1
+ruby-on-rails ruby authentication http-headers 1
+ruby-on-rails ruby proxy webdriver google-chrome-headless 1
+ruby-on-rails ruby cookies 1
+
+

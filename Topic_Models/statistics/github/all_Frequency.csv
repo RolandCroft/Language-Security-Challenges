@@ -1,0 +1,25 @@
+Sub-Category,Java,PHP,JavaScript,C#,Python,Shell,C++,C,Ruby,Objective-C,Swift,PowerShell,Perl,Go,TypeScript
+Encryption,5,10,1,5,4,0,1,0,0,7,13,0,0,1,0
+Algorithms,1,0,0,4,0,0,0,10,0,5,2,0,0,2,0
+Encoding,6,0,3,4,0,0,3,5,0,0,0,0,0,3,0
+Login,12,17,10,17,8,0,9,8,23,17,18,0,0,6,25
+Tokens,4,6,6,11,5,0,2,0,11,4,0,0,0,0,2
+Access Control,0,9,3,2,0,0,8,0,6,0,0,0,0,4,0
+Client/Server,0,0,0,4,4,6,0,8,0,0,0,0,0,2,2
+Digital Certificates,5,6,4,8,5,14,9,7,10,11,32,0,0,6,0
+Exploits,0,7,8,0,5,0,0,0,11,0,0,0,0,0,21
+File Transfer,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Remote Access,0,0,0,0,2,17,0,0,2,10,0,0,0,0,3
+Viruses,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+Password/Data Storage,0,0,0,0,0,8,0,13,0,6,2,0,98,0,0
+Checksums,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+Digital Signature,0,0,0,3,2,0,0,0,0,11,0,0,0,2,0
+Stack/Heap Memory,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Memory Leaks,0,0,0,0,0,0,0,6,0,8,0,0,0,1,0
+Pointers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Thread/Process Management,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+Implementation,37,19,44,12,18,8,41,11,17,4,32,69,2,43,15
+Testing,21,10,9,5,19,0,17,7,16,4,0,31,0,28,20
+Libraries,2,0,2,2,0,15,0,0,0,0,0,0,0,0,4
+Configuration,3,4,0,10,9,17,8,7,4,0,0,0,0,0,0
+GitHub/Reports,2,8,8,0,12,7,3,14,0,14,0,0,0,2,7

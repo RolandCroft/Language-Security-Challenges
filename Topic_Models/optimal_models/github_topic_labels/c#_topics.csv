@@ -1,0 +1,27 @@
+Topic ID,Top Words,Category,Sub-Category,Specifics
+TOPIC 0,method class valu properti implement custom instanc pass attribut design,Secure Development,Implementation,dependency injection implementation (security design)
+TOPIC 1,know time report updat problem day mayb tri flag help ,Other,,virus/malware detect
+TOPIC 2,script type asset cs control error intern load use line ,Secure Development,Libraries/Configuration,game development security configuration
+TOPIC 3,chang requir address document descript protect updat link content list ,Secure Development,Implementation,document implementation (security instruction)
+TOPIC 4,version error log plea ssl mono provid alreadi use includ ,Secure Development,Libraries/Configuration,ssl library
+TOPIC 5,login page user redirect log url extern form click regist,Access Control,Authentication,
+TOPIC 6,connect server messag transport client proxi signalr memori leak port ,Network Security,Client/Server,connection protocol  (code security)
+TOPIC 7,secur net server http inform byte tl rsa buffer ns ,Network Security,Digital Certificates,certificate authentication
+TOPIC 8,code encod function string charact decod url break work exampl ,Cryptography,Encoding,encode/decode 
+TOPIC 9,credenti window git work manag ssh use tri prompt store ,Access Control,Authentication,windows authentication/git configuration
+TOPIC 10,app new option servic configur work use googl applic tri ,Secure Development,Libraries/Configuration,
+TOPIC 11,file packag project nuget sourc read download json updat folder,Data Security,Password/Data Storage,File integrity
+TOPIC 12,sign key signatur build public verifi warn assembl line dll ,Data Security,Digital Signature,public-key signature system
+TOPIC 13,encrypt key data decrypt make need attack implement think want ,Cryptography,Encryption,data protection
+TOPIC 14,authent token access api ident use user auth claim flow ,Access Control,Tokens,
+TOPIC 15,test fix fail bug work problem cau relat close look ,Secure Development,Testing,
+TOPIC 16,net core work use window run linux support framework dotnet ,Secure Development,Libraries/Configuration,server security configuration
+TOPIC 17,thank ad request add pull hi featur merg chang develop ,Secure Development,Implementation,security feature/bug fix implementation
+TOPIC 18,certif cert store trust server key use ii ssl root ,Network Security,Digital Certificates,certificate management
+TOPIC 19,microsoft string task runtim aspnetcor trace stack end cs int,Other,,
+TOPIC 20,valid client request author id debug null send inform post ,Access Control,Authorization,
+TOPIC 21,hash algorithm sha use good gener think need bit implement ,Cryptography,Encryption,hash algorithm
+TOPIC 22,support thread directli need view messag repli saml receiv github,Software Vulnerabilities,Race Condition,thread safe (code security)
+TOPIC 23,password user usernam chang account email admin field enter creat ,Access Control,Authentication,
+TOPIC 24,cooki web request browser header session expir applic info mvc,Access Control,Tokens,http cookie authentication
+TOPIC 25,azur run step modul command powershel add new version use ,Secure Development,Libraries/Configuration,Azure security configuration

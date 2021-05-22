@@ -1,0 +1,65 @@
+TOPIC 0: 
+issue 55
+pr 10
+
+
+TOPIC 1: 
+issue 2092
+pr 470
+
+
+TOPIC 2: 
+issue 250
+pr 38
+
+
+TOPIC 3: 
+pr 737
+issue 77
+
+
+TOPIC 4: 
+issue 280
+pr 98
+
+
+TOPIC 5: 
+issue 1326
+pr 410
+
+
+TOPIC 6: 
+pr 419
+issue 283
+
+
+TOPIC 7: 
+pr 230
+issue 197
+
+
+TOPIC 8: 
+issue 1183
+pr 355
+
+
+TOPIC 9: 
+pr 305
+issue 144
+
+
+TOPIC 10: 
+issue 177
+pr 14
+
+
+TOPIC 11: 
+issue 798
+pr 42
+
+
+TOPIC 12: 
+issue 204
+pr 33
+
+

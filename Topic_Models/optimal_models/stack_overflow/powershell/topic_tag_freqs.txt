@@ -1,0 +1,1450 @@
+TOPIC 0: 
+powershell 26
+azure powershell 6
+powershell security 5
+credentials powershell 5
+active-directory powershell 4
+azure-devops powershell 4
+active-directory passwords powershell 3
+azure azure-automation powershell 3
+azure azure-powershell powershell 3
+office365 powershell security 2
+azure azure-web-sites azure-webjobs powershell 2
+powershell uac 2
+powershell powershell-2.0 2
+java powershell swing 2
+office365 powershell 2
+powershell sharepoint 2
+azure-active-directory office365 passwords powershell 1
+acl c# powershell security 1
+com+ dcom powershell security 1
+powershell scripting security windows 1
+azure powershell security 1
+csv event-viewer powershell security xml 1
+powershell powershell-2.0 powershell-remoting security 1
+powershell registry security-policy 1
+c# list powershell security sharepoint 1
+batch-file powershell scheduled-tasks security sharepoint 1
+cmdlet filter gpo powershell security 1
+o365security-compliance oauth office365 powershell 1
+active-directory auditing powershell security 1
+c# com impersonation powershell security 1
+local passwords powershell 1
+forms passwords powershell store 1
+database download powershell security 1
+active-directory powershell security 1
+.net powershell security windows 1
+logging powershell security windows 1
+csv powershell security sharepoint sharepoint-2010 1
+powershell sharepoint sharepoint-2013 sharepoint-security 1
+active-directory network-security-groups powershell powershell-4.0 1
+c# powershell powershell-2.0 security 1
+.net c# cryptography powershell x509certificate 1
+cmdlets powershell tfs tfs-security tfs2017 1
+directory powershell security 1
+powershell security settings system 1
+azure-active-directory azure-security powershell 1
+azure azure-resource-manager network-security-groups powershell 1
+csrf powershell rest 1
+passwords powershell x509certificate2 1
+active-directory csv passwords powershell 1
+active-directory active-directory-group nested powershell security 1
+events powershell security 1
+administrator credentials passwords powershell silent-installer 1
+powershell reporting-services scripting security ssrs-2008 1
+powershell rest security 1
+c# forms powershell security 1
+passwords powershell securestring write-host 1
+advapi32 impersonation powershell security-context 1
+neo4j passwords powershell security unauthorized 1
+ms-word powershell sharepoint windows-security 1
+permissions powershell security 1
+event-id event-log powershell security 1
+azure azure-cli azure-rbac azure-security powershell 1
+active-directory ldap powershell security 1
+office365 passwords powershell 1
+powershell security windows 1
+azure azure-devops-rest-api azure-pipelines-release-pipeline powershell security 1
+o365security-compliance oauth-2.0 office365 powershell 1
+active-directory passwords powershell user-accounts 1
+filter gpo permissions powershell security 1
+automation code-access-security powershell 1
+access-rights powershell registry windows-security 1
+azure-runbook cryptography encryption powershell rsa 1
+auditing azure o365security-compliance powershell 1
+active-directory powershell security-identifier 1
+amazon-web-services powershell security 1
+powershell cmd passwords username autologin 1
+powershell active-directory passwords csv-import 1
+c# windows powershell security filesystems 1
+amazon-web-services powershell powershell-4.0 aws-security-group 1
+azure azure-devops powershell 1
+powershell session-cookies 1
+identityserver4 openid-connect powershell x509certificate 1
+azure c# iis powershell 1
+batch-file powershell shell 1
+azure-active-directory login-script powershell service-principal 1
+cmdlet oauth powershell session 1
+gpo powershell windows-firewall 1
+group-policy powershell 1
+clearcase clearcase-ucm powershell powershell-2.0 runas 1
+cmdlets powershell 1
+cmd msbuild powershell 1
+azure hadoop powershell 1
+chef perforce powershell 1
+azure azure-powershell azure-virtual-machine powershell powershell-remoting 1
+authentication azure c# java powershell 1
+html powershell powershell-2.0 request 1
+powershell session-cookies web-services 1
+asp.net c# powershell 1
+c++ powershell 1
+dynamics-crm-2013 dynamics-crm-online oauth-2.0 odata powershell 1
+.net delegates exchange-server exchangewebservices powershell 1
+credentials multi-factor powershell variables 1
+azure azure-active-directory powershell visual-studio-code 1
+automation internet-explorer-11 powershell testing webautomation 1
+azure-ad-b2c invoke-webrequest login powershell 1
+c# kerberos klist powershell winapi 1
+cloud-hosting powershell rest rightscale wcf 1
+audit permissions powershell windows-7 1
+c# exchange-server powershell remote-access 1
+powershell-4.0 1
+azure azure-powershell powershell tls1.2 1
+powershell powershell-remoting winrm 1
+powershell powershell-2.0 sharepoint sharepoint-2010 sql-job 1
+face-recognition powershell windows 1
+authentication fiddler https powershell 1
+powershell rest 1
+delegates powershell powershell-3.0 1
+azure-devops git http powershell tfs 1
+iis-7 powershell 1
+powershell powershell-ise 1
+event-log powershell 1
+encryption powershell powershell-3.0 1
+active-directory authentication powershell sharepoint 1
+azure encryption hmac powershell 1
+error-handling exception-handling powershell vb.net 1
+internet-explorer powershell startup 1
+google-api google-apps-script google-sheets powershell 1
+cookiecontainer httpwebrequest httpwebresponse powershell 1
+adfs asp.net-mvc model-view-controller powershell saml 1
+c# internet-explorer powershell vbscript 1
+azure-active-directory azure-cli powershell 1
+azure-functions azure-powershell powershell service-principal 1
+api authentication powershell 1
+bitlocker powershell 1
+powershell remote-access 1
+azure azure-active-directory oauth-2.0 powershell 1
+azure azure-active-directory command powershell 1
+azure azure-active-directory powershell ssl 1
+powershell soapui ssl-certificate 1
+api cookies networkcredentials powershell 1
+hashtable powershell 1
+ajax login powershell 1
+azure-devops oauth powershell 1
+azure azure-active-directory powershell tfs 1
+c# powershell runspace 1
+httpwebrequest powershell ssl tls1.2 windows 1
+authentication azure azure-active-directory powershell 1
+outlook powershell 1
+asp.net-mvc c# office365 powershell 1
+gmail powershell powershell-ise smtp 1
+powershell session 1
+authentication azure powershell 1
+powershell windows windows-authentication windows-scripting winlogon 1
+powershell sharepoint sharepoint-2013 1
+ftp powershell 1
+access-violation corrupted-state-exception powershell 1
+powershell salt-stack 1
+adfs adfs2.0 powershell windows-server-2008 1
+curl getresponse https powershell single-sign-on 1
+oauth-2.0 office365 powershell 1
+powershell types 1
+import mediawiki permissions powershell 1
+powershell wcf wif 1
+bitbucket c# git powershell 1
+autologin powershell web 1
+internet-explorer powershell registry 1
+azure login powershell runbook 1
+form-authentication powershell 1
+asp.net-session powershell powershell-4.0 webrequest 1
+credentials internet-explorer powershell 1
+command-line download onedrive powershell 1
+asp.net-web-api azure azure-active-directory powershell 1
+command-line powershell powershell-2.0 tfs tfs2010 1
+.net c# exception multithreading powershell 1
+powershell powershell-2.0 scripting windows 1
+copy-item network-shares powershell 1
+powershell windows-server-2008-r2 1
+dynamics-crm dynamics-crm-online powershell 1
+credentials invoke-command powershell start-process 1
+azure microsoft-graph powershell 1
+oauth powershell tf-cli tfs 1
+html powershell proxy 1
+azure-powershell azure-web-roles powershell 1
+elevated-privileges powershell process 1
+azure azure-storage c# hmac powershell 1
+automated-tests html powershell 1
+powershell x509 x509certificate 1
+active-directory azure azure-active-directory powershell 1
+azure powershell subscription 1
+html powershell 1
+exchange-server oauth powershell 1
+api automation azure azure-devops powershell 1
+azure powershell runbook 1
+powershell variables windows 1
+credentials internet-explorer powershell runas url 1
+jira openvas powershell 1
+amazon-web-services powershell ssl windows 1
+adfs azure powershell storage 1
+powershell powershell-2.0 powershell-3.0 1
+google-cloud-platform google-compute-engine powershell 1
+acl powershell 1
+c# powershell 1
+azure-devops azure-pipelines powershell 1
+permissions powershell windows 1
+com powershell powershell-3.0 1
+azure azure-active-directory powershell 1
+azure azure-web-app-service powershell 1
+azure azure-service-fabric powershell 1
+powershell powershell-2.0 powershell-remoting 1
+php powershell shell-exec 1
+html powershell web-scraping 1
+powershell windows 1
+ms-word password-protection powershell word-vba 1
+azure client-certificates powershell ssl 1
+c# iis powershell wcf 1
+internet-explorer powershell ui-automation 1
+azure azure-cli azure-cosmosdb powershell 1
+c# powershell pscmdlet pshost 1
+iis powershell ssl ssl-certificate x509certificate 1
+azure-devops powershell visual-studio 1
+powershell reporting-services 1
+powershell sql-server sysadmin 1
+adsi powershell wmi 1
+javascript php powershell 1
+ikvm powershell 1
+exchange-server mfa multi-factor-authentication office365 powershell 1
+azure azure-devops devops powershell tfs 1
+authentication automation element powershell 1
+cookies invoke-webrequest powershell 1
+azure powershell roles 1
+azure azure-active-directory multi-factor-authentication powershell 1
+azure-active-directory jwt oauth-2.0 powershell 1
+azure-active-directory powershell 1
+azure azure-rest-api mfa powershell 1
+invoke-webrequest powershell 1
+automation azure-active-directory powershell provisioning scripting 1
+active-directory csv import powershell windows 1
+powershell variables 1
+.net powershell methods credentials networkcredentials 1
+powershell oauth azure-active-directory skype-for-business lync 1
+powershell azure-powershell 1
+powershell web-scraping powershell-core ie-automation 1
+powershell credentials invoke-command copy-item 1
+powershell rest power-bi-report-server 1
+powershell internet-explorer 1
+azure powershell authentication command-line-interface 1
+powershell apple-business-manager 1
+c# powershell serilog getseq seq-logging 1
+powershell administrator 1
+c# powershell encryption bouncycastle aes-gcm 1
+azure powershell permissions exchangewebservices 1
+powershell session profile securestring 1
+powershell powershell-4.0 1
+powershell google-apps-script google-cloud-platform oauth-2.0 google-apps-script-api 1
+azure powershell azure-powershell 1
+powershell rest basic-authentication 1
+
+
+TOPIC 1: 
+powershell 28
+azure powershell 8
+powershell security 5
+batch-file powershell 5
+certificate powershell 4
+powershell ssl 3
+powershell sql-server 3
+certificate powershell ssl 2
+powershell windows 2
+escaping powershell 2
+azure azure-automation powershell 2
+powershell powershell-remoting 2
+active-directory powershell 2
+powergui powershell 2
+c# powershell powershell-remoting security windows-server-2012-r2 1
+azure powershell security 1
+batch-file powershell security 1
+directory powershell security windows 1
+azure passwords powershell sql-server 1
+local-security-policy powershell windows-10 1
+batch-file cmd passwords powershell 1
+powershell registry security windows-10 1
+executionpolicy powershell security 1
+powershell security ssl ssl-certificate subject-alternative-name 1
+batch-file powershell security windows 1
+dsc powershell powershell-dsc security system-administration 1
+csv powershell security 1
+iis javascript php powershell security 1
+dns key powershell security string 1
+audit batch-file local-security-policy powershell windows 1
+cmd powershell windows-security wsh 1
+active-directory passwords powershell user-accounts 1
+network-programming powershell reporting-services security sql-server 1
+get-wmiobject powershell security share windows 1
+azure hortonworks-data-platform networking powershell security 1
+load-balancing powershell reporting-services security server-farm 1
+local-security-policy powershell 1
+powershell security service windows 1
+event-log powershell security 1
+c# cryptography digital-signature powershell 1
+c# group-policy powershell security-policy windows 1
+authentication powershell process runas security 1
+code-signing powershell reporting-services security 1
+powershell security uac 1
+acl msmq powershell security 1
+group-policy powershell security 1
+executionpolicy powershell security windows-10 1
+passwords powershell security 1
+connection-string database-permissions integrated-security powershell sql 1
+ansible encoding powershell security windows 1
+iis-7 powershell-2.0 security web web-applications 1
+office365 powershell powershell-remoting security winrm 1
+powershell security windows windows-7 1
+local-security-policy policy powershell sysadmin windows 1
+certificate powershell security 1
+arrays azure powershell security 1
+.net iis powershell security windows 1
+batch-file execution powershell security windows 1
+automation powershell security settings ssl 1
+iis iis-7.5 impersonation powershell security 1
+batch-file local-security-policy powershell windows-10 1
+filtering gpo powershell security 1
+file-io powershell security 1
+powershell scripting security 1
+file-permissions powershell powershell-1.0 security 1
+powershell scripting security windows 1
+powershell powershell-ise security 1
+network-programming powershell security 1
+json local-security-policy powershell 1
+powershell security cmd windows-defender 1
+powershell ws-security 1
+json azure powershell o365security-compliance 1
+powershell security systemmanagement 1
+mdt powershell powershell-4.0 1
+active-directory powershell ruby-on-rails shell 1
+authenticode c# powershell signature 1
+azure-service-fabric certificate powershell 1
+certificate cmd code-signing powershell windows 1
+permission-denied permissions pester powershell scripting 1
+bios powershell 1
+authentication azure powershell timeout unauthorized 1
+bitlocker c# powershell 1
+cygwin md5sum powershell 1
+csv powershell ssl 1
+azure azure-automation azure-powershell powershell 1
+machine.config powershell powershell-3.0 1
+jenkins jenkins-plugins powershell 1
+azure bitlocker powershell virtual-machine 1
+internet-explorer powershell powershell-3.0 1
+active-directory login-script powershell vbscript windows 1
+azure azure-sql-database powershell powershell-2.0 1
+certificate powershell powershell-4.0 x509certificate x509certificate2 1
+azure azure-powershell powershell 1
+powershell ssis 1
+autosys batch-file powershell 1
+certificate iis powershell ssl 1
+executionpolicy malware powershell 1
+intune powershell 1
+azure azure-virtual-machine azure-vm-scale-set powershell 1
+azure command-line-interface powershell 1
+dsc powershell 1
+bitlocker powershell 1
+azure azure-data-lake powershell 1
+powershell sql sqlcmd 1
+encryption powershell server signing windows-server-2016 1
+arm-template azure-logic-apps json powershell-2.0 1
+encryption powershell windows 1
+powershell-3.0 1
+ansible powershell ssl-certificate windows 1
+powershell powershell-4.0 1
+continuous-integration mage pfx powershell 1
+azure-pipelines powershell ssis visual-studio 1
+asp.net-core-2.0 bash c# openssl powershell 1
+c# checksum md5 powershell 1
+powershell talend 1
+active-directory powershell printing 1
+credentials microsoft-dynamics powershell vmware 1
+c# powershell 1
+exchange-server office365 powershell 1
+curl json post powershell 1
+authentication azure powershell 1
+certificate powershell ssl-certificate 1
+iis iis-7 iis-7.5 powershell powershell-2.0 1
+certificate iis-8 powershell self-signed windows-server-2012-r2 1
+certificate encryption powershell winapi 1
+automation powershell scripting tfs 1
+powershell powershell-2.0 powershell-3.0 1
+automation azure certificate powershell 1
+azure powershell sql-server 1
+certificate iis-7.5 powershell renewal 1
+azure azure-functions powershell 1
+openssh openssl powershell-2.0 ssh ssh-keys 1
+c# executionpolicy powershell 1
+appx powershell software-distribution uwp windows 1
+powershell ssl-certificate 1
+connection-string powershell sql-server 1
+cordova powershell 1
+powershell sql-server-data-tools ssis visual-studio 1
+cygwin powershell ssh windows 1
+azure-devops powershell tfs 1
+permissions powershell 1
+azure azure-service-fabric certificate powershell 1
+code-signing git powershell version-control 1
+powershell salt-stack windows 1
+azure azure-resource-manager powershell 1
+azure-sql-database powershell 1
+authenticode command-line powershell 1
+excel powershell sql sql-server 1
+data-integrity powershell 1
+batch-file powershell powershell-2.0 1
+add dns powershell 1
+arm-template azure azure-keyvault powershell 1
+azure-service-fabric c# powershell 1
+azure azure-active-directory azure-keyvault powershell 1
+azure azure-keyvault azure-sql-database powershell sql 1
+azure linux powershell ssh 1
+certificate powershell service ssl web 1
+azure-active-directory azure-ad-b2c azure-powershell powershell 1
+authentication office365 powershell powershell-3.0 1
+c# powershell webforms 1
+iis-6 powershell vbscript 1
+authentication azure azure-powershell azure-web-sites powershell 1
+certificate-authority powershell ssl 1
+file-permissions powershell 1
+certificate code-signing powershell 1
+applicationpoolidentity certificate permissions powershell private-key 1
+outlook powershell powershell-2.0 1
+.net powershell ssl taskscheduler 1
+nuget-package powershell 1
+bloomberg powershell soap 1
+azure cmdlets powershell 1
+active-directory powershell smartcard 1
+azure-devops powershell tfs tfsbuild 1
+admin powershell 1
+password-protection powershell powershell-4.0 securestring 1
+azure azure-powershell credentials powershell runbook 1
+cruisecontrol cruisecontrol.net powershell tfs 1
+input powershell 1
+azure login powershell runbook 1
+code-signing powershell powershell-2.0 powershell-3.0 1
+azure azure-resource-manager java powershell 1
+azure cloud jenkins powershell 1
+azure powershell sql sql-server 1
+active-directory azure azure-active-directory azure-resource-group powershell 1
+azure powershell x509certificate 1
+group-policy installshield powershell windows-10 1
+dsc powershell powershell-4.0 1
+amazon-ec2 amazon-web-services powershell python windows 1
+authenticode certificate pki powershell scripting 1
+authenticode linux mono powershell signature 1
+azure azure-devops azure-powershell powershell 1
+azure-devops azure-pipelines powershell tfs 1
+powershell powershell-2.0 powershell-remoting 1
+powershell scripting 1
+powershell ssl visual-studio-code 1
+adfs azure azure-web-sites powershell 1
+azure azure-keyvault powershell 1
+c# execution powershell sign 1
+azure azure-storage powershell 1
+powershell windows-10 1
+azure azure-resource-manager azure-storage hdinsight powershell 1
+azure-storage azure-storage-blobs database-backups powershell sql-server 1
+azure powershell powershell-5.0 1
+powershell x509certificate 1
+database database-connection powershell sql-server 1
+escaping jenkins-pipeline powershell 1
+ascii base64 powershell-1.0 1
+azure powershell powershell-remoting x509certificate 1
+certificate iis-8 powershell ssl 1
+batch-file powershell ps1 signed 1
+active-directory exchange-server powershell 1
+hash iis md5 powershell web 1
+authenticode c# code-signing javascript powershell 1
+powershell sql sql-server 1
+asp.net-mvc azure powershell 1
+loops powershell 1
+azure azure-logic-apps powershell rbac 1
+credentials powershell securestring vb.net visual-studio-2017 1
+ansible automation configuration-management linux powershell 1
+certify powershell 1
+login-script powershell vbscript 1
+audit cmd powershell powershell-ise registry 1
+powershell ssl windows 1
+office365 openam powershell 1
+credssp powershell ssl tls1.2 1
+certificate credentials dsc powershell 1
+certificate powershell self-signed-certificate 1
+azure powershell remote-access 1
+azure azure-deployment azure-powershell powershell 1
+azure-sql-database encryption powershell sql-server 1
+powershell smartsheet-api ssl 1
+certificate jar powershell powershell-3.0 powershell-4.0 1
+azure backup powershell 1
+keepass powershell 1
+azure azure-web-app-service certificate powershell ssl 1
+invoke-webrequest powershell ssl-certificate 1
+access-control acl powershell 1
+powershell scoop-installer 1
+azure office365 powershell 1
+azure azure-cli dsc powershell 1
+filehash out-gridview powershell 1
+office365 powershell 1
+powershell sql-server ssis-2016 1
+ansible gpo powershell ssl 1
+azure azure-powershell azure-sql-database powershell 1
+ipsec powershell vpn 1
+.net-standard authenticode azure-devops azure-pipelines powershell 1
+powershell ssl ansible gpo 1
+powershell ssl webclient x509certificate webrequest 1
+powershell-2.0 powershell-3.0 powershell-4.0 powershell-remoting powershell-5.0 1
+powershell virtual-machine rdp winrm azure-vm 1
+powershell active-directory 1
+powershell powershell-2.0 powershell-3.0 l2tp 1
+powershell cisco 1
+powershell cmd windows-10 exe embed 1
+
+
+TOPIC 2: 
+powershell 21
+encryption powershell 8
+powershell securestring 6
+base64 powershell 4
+aes encryption powershell 3
+credentials powershell 3
+passwords powershell securestring 2
+azure powershell security 2
+powershell security 2
+encryption powershell rsa 2
+encryption module powershell 2
+c# powershell 2
+powershell powershell-2.0 2
+powershell powershell-3.0 2
+password-encryption powershell 2
+.net aes c# encryption powershell 2
+active-directory passwords powershell securestring 1
+local-security-policy powershell wmi wmi-query wmic 1
+automation powershell security 1
+active-directory powershell security sql-server sql-server-2000 1
+credentials powershell powershell-2.0 security wmi 1
+batch-file encryption-symmetric passwords powershell vbscript 1
+event-viewer powershell security window 1
+c# powershell security 1
+powershell security winrm 1
+cryptography encryption json powershell security 1
+powershell python security settings subprocess 1
+credentials powershell system.security 1
+cmdlets plaintext powershell powershell-3.0 security 1
+access-rights powershell security wmi 1
+file increment powershell scripting security 1
+export import passwords powershell 1
+c# cng powershell powershell-3.0 security 1
+batch-file powershell security shell windows 1
+c# cryptography powershell rsa signing 1
+node.js powershell psexec security windows 1
+powershell securestring security 1
+powershell security shell windows windows-scripting 1
+malware powershell security 1
+.net cryptography powershell 1
+passwords powershell powershell-2.0 securestring 1
+.net powershell security 1
+cryptography powershell public-key-encryption x509certificate2 1
+maskedtextbox passwords powershell 1
+password-encryption powershell security 1
+powershell powershell-2.0 system.security 1
+doc docx ms-word passwords powershell 1
+path powershell security service 1
+aes iis passwords powershell rsa 1
+aes autoit cryptography powershell 1
+.net powershell securestring security string 1
+cryptography encryption powershell sql-server sql-server-2016 1
+authentication passwords powershell python security 1
+.net c# powershell security 1
+acl csv permissions powershell security 1
+jwt powershell system.security x509certificate2 1
+code-signing powershell security 1
+cryptography encryption penetration-testing powershell 1
+cryptography powershell windows x509certificate 1
+class passwords powershell 1
+powershell security shell ssh windows-scripting 1
+aes cryptography powershell pycrypto python 1
+cryptography powershell rsa 1
+aes cryptography encryption powershell python 1
+csv powershell security 1
+code-access-security powershell security 1
+cryptography encryption powershell 1
+active-directory passwords powershell 1
+debugging powershell rest secret-key security 1
+certificate pki powershell security 1
+powershell windows-10 filesystems file-security 1
+c# powershell cryptography x509certificate 1
+c# powershell cryptography bouncycastle 1
+powershell encryption passwords 1
+c# .net powershell userprincipal security-identifier 1
+7zip password-protection powershell 1
+base64 powershell x509 1
+plaintext powershell securestring 1
+aes encryption openssl powershell 1
+aes algorithm encryption encryption-symmetric powershell 1
+encryption error-handling gnupg powershell windows 1
+encryption powershell signing smime 1
+iis mmc powershell ssl-certificate 1
+key-pair linux powershell windows-server x509 1
+certificate dsc powershell public-key 1
+boot powershell sign uefi winlogon 1
+powershell public-key 1
+powershell securestring string 1
+certificate parameters powershell 1
+openssl powershell ssl-certificate x509certificate2 1
+credentials networkcredentials powershell powershell-core securestring 1
+encryption powershell scripting 1
+c# configuration deployment powershell production-environment 1
+bytearray encoding powershell sha1 utf-8 1
+c# powershell securestring 1
+certificate certificate-store powershell windows 1
+digital-signature powershell sha2 1
+authentication powershell securestring terminate 1
+csv file hash powershell 1
+kdf password-hash powershell pycrypto python 1
+checksum md5 powershell powershell-2.0 powershell-3.0 1
+c++ dpapi encryption powershell securestring 1
+encryption mcrypt php powershell rijndael 1
+authenticode powershell 1
+automation powershell ssl ssl-certificate webserver 1
+powershell powershell-4.0 x509certificate 1
+powershell psexec 1
+powershell sql sql-server 1
+always-encrypted powershell 1
+pem powershell signedxml xml 1
+configuration powershell rundeck winrm 1
+aes c# encryption powershell testing 1
+.net c# powershell-4.0 windows 1
+c# encryption powershell securestring 1
+certificate pki powershell windows windows-server-2016 1
+encoding powershell soap xml 1
+certificate dsc powershell x509certificate 1
+arrays byte encryption powershell 1
+cmd digital-signature powershell windows 1
+ldap ldap-query pki powershell ssl 1
+gnupg powershell windows 1
+c#-4.0 cmdlets powershell 1
+java powershell 1
+powershell replace 1
+bytearray casting encryption powershell 1
+.net c# encryption powershell securestring 1
+openssl powershell 1
+powershell securestring sysprep 1
+asp.net-core-mvc c# credentials powershell 1
+credential-manager powershell 1
+certificate powershell sign 1
+powershell securestring winscp xml 1
+encoding powershell 1
+powershell protection readonly vbscript 1
+powershell sha512 1
+ascii encoding encryption powershell unicode 1
+byte powershell 1
+base64 encoding powershell sha1 1
+amazon-web-services powershell rsa 1
+encryption encryption-asymmetric gnupg powershell public-key-encryption 1
+hmac powershell sha256 1
+base64 c# digital-signature encoding powershell 1
+mysql mysqldump powershell windows 1
+.net c# powershell x509certificate2 1
+arrays encoding encryption powershell rsa 1
+c# cmdlet powershell pscmdlet 1
+encryption mitmproxy powershell windows x509 1
+certificate clickonce powershell visual-studio windows 1
+cmd encryption gnupg powershell windows 1
+azure azure-automation powershell powershell-workflow 1
+encryption powershell powershell-2.0 1
+gnupg powershell 1
+dsc encryption powershell 1
+encryption encryption-asymmetric powershell rsa 1
+c# encryption powershell symmetric-key 1
+encryption powershell rijndaelmanaged salt 1
+affiliate amazon-web-services hash powershell 1
+encryption plink powershell putty ssh-keys 1
+asp.net asp.net-membership c# encryption powershell 1
+google-play-services oauth-2.0 powershell rsa 1
+csv loops powershell xml 1
+aws-cli aws-kms powershell 1
+ansible https powershell ssl winrm 1
+encryption php powershell 1
+pki powershell 1
+encryption powershell securestring 1
+.net digital-signature powershell rsa 1
+.net msdn powershell x509certificate2 1
+encryption hash powershell 1
+credentials encryption powershell 1
+linux powershell 1
+asp.net bash encryption powershell scripting 1
+azure azure-powershell pki powershell 1
+aes encryption php powershell 1
+.net bouncycastle java powershell rijndael 1
+always-encrypted powershell sql-server-2016 windows-services 1
+connection-string powershell xml 1
+base64 binaryfiles encode powershell 1
+c# encryption powershell 1
+batch-file powershell windows 1
+encryption openssl powershell ssl 1
+powershell ssl 1
+amazon-cloudfront amazon-web-services powershell 1
+https node.js pem powershell x509certificate 1
+openssl powershell signing ssl 1
+credentials powershell winscp winscp-net 1
+password-encryption plink powershell securestring 1
+azure-devops devops pfx powershell ssl 1
+encryption powershell self-signed 1
+certificate pki powershell ssl-certificate x509certificate2 1
+aes encryption powershell pycrypto python 1
+cross-platform linux pbkdf2 powershell sha256 1
+powershell scripting windows 1
+code-signing powershell validation 1
+c# powershell windows-services 1
+powershell powershell-5.0 ssh 1
+pki powershell ssh-keys vbscript x509 1
+certificate command-line powershell rsa windows 1
+pgp powershell powershell-2.0 1
+.net digital-signature ms-word openxml-sdk powershell 1
+certificate powershell x509certificate 1
+certificate pkcs12 powershell public-key 1
+.net powershell ssl 1
+json powershell 1
+powershell-3.0 1
+ms-word powershell 1
+input powershell variables 1
+powershell powershell-core ssl 1
+cng powershell 1
+.net powershell saml xml xml-dsig 1
+certificate powershell ssl-certificate x509certificate 1
+cmd powershell scripting unix 1
+code-signing code-signing-certificate powershell 1
+api c# gal office365 powershell 1
+cmd java keystore powershell 1
+encryption excel powershell ssis vbscript 1
+.net aes encryption powershell sharepoint 1
+octopus octopus-deploy powershell ssl ssl-certificate 1
+powershell signed xml 1
+api encryption powershell-2.0 rest tfs2015 1
+encryption powershell xml 1
+powershell sftp 1
+c# powershell x509 x509certificate2 1
+asp.net aspnet-regiis.exe encryption powershell web-config 1
+certificate lets-encrypt powershell ssl-certificate windows 1
+certificate powershell private-key windows-server-2008-r2 1
+azure powershell python windows x509certificate 1
+certificate keystore pfx powershell self-signed 1
+openssl powershell private-key rsa-sha256 signing 1
+batch-file cmd powershell signtool 1
+batch-file powershell vbscript windows 1
+azure powershell sql 1
+base64 malware powershell virus-scanning 1
+encryption java powershell 1
+docusignapi encryption jwt powershell rsa 1
+active-directory powershell 1
+digital-signature hash powershell 1
+7zip powershell 1
+authoritykeyidentifier powershell x509 1
+powershell ssl-certificate 1
+powershell ssh 1
+azure powershell ssh public-key-encryption ssh-keygen 1
+powershell openssl certificate ssl-certificate digital-signature 1
+c# php powershell rijndaelmanaged 1
+powershell 7zip 1
+powershell cmd openssl 1
+c# powershell encryption rsa 1
+python xml powershell gnupg pgp 1
+c# azure powershell azure-active-directory 1
+powershell openssl certificate pem 1
+powershell authentication exchange-server exchangewebservices 1
+php powershell encryption encoding 1
+
+
+TOPIC 3: 
+powershell 12
+powershell windows 2
+azure-devops powershell 2
+c# powershell 2
+api powershell security windows 1
+parameter-passing passwords powershell 1
+powershell security sharepoint 1
+encryption passwords powershell 1
+powershell scripting security 1
+microsoft-teams o365security-compliance outlook powershell 1
+o365security-compliance powershell 1
+powershell securestring 1
+function powershell shell 1
+azure dsc powershell 1
+algorithm powershell sha1 1
+powershell scripting shell windows-scripting 1
+cmd powershell sql 1
+cmd powershell veracrypt windows 1
+.net cookies powershell powershell-2.0 1
+powershell securestring session 1
+executionpolicy powershell 1
+azure-pack powershell servicebus workflow-manager-1.x 1
+powershell servicebus 1
+powershell powershell-2.0 securestring user-input 1
+command-line powershell 1
+powershell-3.0 powershell-remoting 1
+parameters powershell-3.0 1
+azure lets-encrypt powershell ssl-certificate 1
+asp.net c# powershell securestring xml 1
+c# certificate pki powershell x509 1
+argument-passing invoke-command powershell 1
+powershell start-job wpf 1
+credentials filter get-winevent powershell 1
+hashtable powershell 1
+powershell prtg 1
+iis invoke-command powershell ssl-certificate 1
+powershell powershell-5.0 rest self-signed 1
+certificate powershell 1
+continuous-deployment continuous-integration groovy jenkins powershell 1
+c# credentials powershell 1
+azure azure-automation azure-powershell dsc powershell 1
+certificate encryption-asymmetric powershell windows 1
+powershell scriptblock 1
+parameters powershell 1
+curl powershell variables 1
+azure certificate cmdlets powershell upload 1
+cookies encryption google-chrome powershell sqlite 1
+hashmap powershell 1
+credentials powershell windows 1
+.net dotnet-httpclient powershell 1
+azure powershell 1
+.net powershell 1
+invoke-command powershell powershell-remoting 1
+powershell ssl ssl-certificate 1
+dll dll-injection internet-explorer powershell ssl 1
+authentication http powershell webclient 1
+automation dns powershell 1
+active-directory powershell scripting windows windows-scripting 1
+httpwebrequest powershell-2.0 1
+c# cmdlet powershell 1
+authentication c# powershell windows 1
+dependencies parallel-processing powerpoint powershell 1
+authenticode powershell 1
+.net .net-core powershell x509certificate x509certificate2 1
+csv powershell 1
+dsc powershell 1
+dacpac powershell scripting 1
+credentials powershell 1
+powershell sql-server 1
+powershell ssl 1
+csom powershell 1
+powershell ssl-certificate veeam 1
+c# powershell casting 1
+powershell cmd openssl 1
+powershell set hashset 1
+
+
+TOPIC 4: 
+powershell 35
+passwords powershell 4
+batch-file powershell 4
+email powershell 3
+powershell powershell-2.0 3
+powershell ssh 3
+powershell powershell-4.0 3
+base64 docusignapi json powershell 2
+jenkins powershell ssh 2
+powershell vb.net 2
+certificate makecert powershell 2
+powershell windows 2
+powershell scripting 2
+cryptography des hash powershell windows 1
+ftp iis powershell security 1
+powershell security tfs2010 web.config-transform 1
+c# powershell securityexception 1
+credential-manager powershell start-process windows-security 1
+batch-file powershell security 1
+authentication https microsoft-bits passwords powershell 1
+database excel passwords powershell 1
+passwords powershell ssh vbscript 1
+autofill passwords powershell username 1
+generator passwords powershell 1
+passwords powershell special-characters 1
+cryptography php powershell 1
+powershell security sysinternals 1
+cryptography powershell 1
+csrf powershell tomcat tomcat7 1
+build passwords powershell tfs 1
+.net api httpwebrequest powershell security 1
+.net c# passwords powershell 1
+powershell powershell-remoting security windows 1
+powershell registry content-security-policy policy registrykey 1
+batch-file powershell sftp windows 1
+powershell powershell-2.0 truecrypt 1
+command-line-arguments parameters powershell 1
+certificate certificate-store powershell 1
+git github powercli powershell 1
+office365 office365api powershell 1
+powershell ps1 1
+powershell-4.0 1
+powershell scheduled-tasks 1
+batch-file ip powershell shell vbscript 1
+batch-file credentials powershell 1
+batch-file ftp powershell 1
+encryption https powershell ssl 1
+command-prompt powershell windows wkhtmltopdf 1
+powershell psftp sftp ssh 1
+authentication post powershell teamcity teamcity-8.0 1
+internet-explorer powershell ssl 1
+command-line installanywhere powershell 1
+pipeline powershell scripting ssh windows 1
+powershell sftp ssh winscp winscp-net 1
+lastpass password-protection powershell python 1
+authentication password-protection postgresql powershell 1
+bash powershell shell 1
+powershell start-process 1
+ansi collation encode powershell sql-server 1
+password-protection php powershell python 1
+basic-authentication github-api powershell 1
+ftp powershell webclient webexception 1
+powershell sap 1
+ftp powershell powershell-2.0 webclient 1
+invoke-command powershell powershell-3.0 1
+azure git powershell 1
+elevated-privileges powershell 1
+authentication download html powershell-3.0 1
+git github http-headers powershell rest 1
+iis powershell 1
+bitbucket git powershell 1
+elevated-privileges powershell return-value start-process 1
+msdeploy powershell teamcity 1
+powershell private-key sftp ssh 1
+git powershell ssh 1
+powershell windows windows-server-2012-r2 1
+msbuild powershell tfsbuild 1
+powershell powershell-2.0 smtp 1
+bash linux powershell ssh 1
+plink powershell putty 1
+powershell putty redhat rhel 1
+email ftp powershell session 1
+asp.net c# credentials networkcredentials powershell 1
+jenkins powershell powershell-2.0 windows 1
+continuous-deployment powershell tfsbuild 1
+powershell powershell-remoting session 1
+linux powershell sftp windows windows-server 1
+powershell powershell-remoting tfs 1
+android build github powershell 1
+authentication batch-file powershell vbscript windows 1
+curl php powershell 1
+git-shell github github-for-windows powershell ssh 1
+.net powershell powershell-3.0 1
+bash powershell ssh winscp winscp-net 1
+powershell sftp 1
+linux powershell ssh 1
+adfs authentication oauth powershell wpf 1
+jenkins powershell 1
+powershell shell ssh sshpass 1
+amazon-s3 powershell-2.0 1
+azure-active-directory azure-ad-powershell-v2 powershell 1
+copy credentials powershell-3.0 1
+.net batch-file powershell 1
+encoding powershell 1
+batch-file powershell selenium selenium-webdriver vbscript 1
+excel powershell 1
+.net c# powershell 1
+authentication curl powershell 1
+certificate openssl powershell ssl x509 1
+active-directory powershell rdp remote-access windows 1
+etl jobs powershell sql-server ssis 1
+azure azure-web-app-service powershell 1
+microsoft-bits powershell 1
+elevated-privileges powershell runas uac 1
+authentication bamboo powershell 1
+powershell scripting sh shell ssh 1
+bash macos powershell ssh 1
+c# powershell wcf 1
+powershell scp 1
+git powershell ssh-keygen 1
+powershell r tableau tableau-server 1
+c# powershell 1
+embed gist iis-express powershell ssl 1
+java powershell remote-server 1
+html login powershell prompt web-scraping 1
+excel-2007 powershell ssis visual-studio-2012 1
+powershell rubygems vbscript windows 1
+authentication powershell rest teamcity-8.0 webclient 1
+command-line-interface expect powershell 1
+c# powershell visual-studio 1
+powershell powershell-2.0 powershell-remoting 1
+html powershell 1
+https login powershell 1
+credentials git powershell 1
+.net ftp ftpwebrequest powershell url 1
+cmd http powershell 1
+active-directory powershell rest scripting windows 1
+linux plink powershell-3.0 putty 1
+autologin html5 powershell 1
+powershell powershell-3.0 windows 1
+azure azure-devops git powershell 1
+attachment gmail powershell smtpclient 1
+electron javascript node.js powershell windows 1
+credentials login powershell 1
+com internet-explorer powershell webpage 1
+git posh-git powershell ssh-agent windows 1
+powershell ruby sockets ssl 1
+forms powershell 1
+powershell sql-server ssms 1
+actionscript-3 office365 powershell 1
+ms-word powershell 1
+admin powershell uac 1
+plink powershell putty ssh 1
+locking powershell 1
+credentials msbuild powershell teamcity 1
+git openssh powershell ssh-keys visual-studio-code 1
+asp.net asp.net-mvc-3 powershell windows-authentication 1
+jenkins powershell powershell-3.0 start-job windows 1
+continuous-integration powershell teamcity 1
+append linux powershell ssh 1
+postgresql powershell 1
+basic-authentication curl powershell 1
+ambari api curl powershell rest 1
+powershell self-signed-certificate windows-server-2012-r2 1
+powershell remote-access 1
+filepattern powershell remote-server sftp 1
+linux powershell powershell-3.0 ssh 1
+powershell sftp winscp winscp-net 1
+powershell-2.0 1
+powershell ssh windows 1
+impersonation powershell 1
+file-transfer powershell 1
+ftp powershell 1
+email powershell smtp 1
+dns powershell 1
+authentication powershell webclient 1
+linux openssh powershell powershell-remoting 1
+html powershell ssl 1
+invoke-command powershell 1
+ftp iis powershell ssl 1
+.net batch-file ftp powershell sftp 1
+instagram powershell 1
+core dotnet-httpclient powershell ssl ssl-certificate 1
+openssh powershell 1
+.net powershell windows 1
+powershell validation 1
+ftp html powershell 1
+git powershell 1
+invoke-webrequest powershell scheduled-tasks 1
+powershell visual-studio-publish 1
+powershell taskscheduler 1
+linux powershell ssh windows 1
+jenkins-cli jenkins-groovy jenkins-pipeline powershell 1
+powershell authentication invoke-webrequest 1
+powershell credentials powershell-remoting ps1 1
+sql-server powershell ps2exe-gui 1
+powershell couchdb couchdb-3.x 1
+powershell ssh cmd openssh 1
+windows powershell ssh server openssh 1
+powershell path pki 1
+powershell jenkins powershell-remoting 1
+
+
+TOPIC 5: 
+powershell 53
+credentials powershell 7
+active-directory powershell 6
+powershell windows 5
+active-directory passwords powershell 4
+c# powershell 4
+powershell powershell-2.0 4
+powershell security 3
+passwords powershell 3
+powershell sql-server 3
+powershell powershell-2.0 powershell-remoting 3
+powershell powershell-2.0 powershell-3.0 3
+email powershell 3
+certificate powershell 3
+azure powershell 3
+powershell powershell-4.0 2
+active-directory powershell windows 2
+ldap powershell 2
+powershell registry 2
+powershell remoting 2
+powershell windows-10 2
+active-directory ldap powershell 2
+powershell sql 2
+authentication powershell windows 2
+powershell winrm 2
+powershell python 2
+powershell securestring 2
+azure azure-powershell azure-sql-database powershell 2
+authentication powershell 2
+authentication powershell security 1
+powershell scripting security 1
+passwords powershell windows 1
+exchange-server exchangewebservices passwords powershell security 1
+cmd passwords powershell 1
+powershell security wmi 1
+active-directory credentials passwords powershell 1
+password-encryption passwords powershell remote-access wmi 1
+ftp powershell securestring security 1
+email powershell security smtp 1
+passwords powershell system 1
+automation email email-verification powershell security 1
+active-directory foreach passwords powershell 1
+passwords powershell verification 1
+notifications passwords powershell 1
+detect passwords powershell 1
+iis powershell security windows 1
+.net c# integrated-security kerberos powershell 1
+passwords powershell securestring security sql-server 1
+credentials parameter-passing passwords powershell sql 1
+active-directory change-password passwords powershell 1
+asp.net powershell security wmi 1
+passwords powershell username windows 1
+global jenkins passwords powershell 1
+encryption passwords powershell security 1
+active-directory login passwords powershell windows 1
+cmd powershell security windows-defender 1
+office365 passwords powershell 1
+powershell security usergroups windows 1
+mysql passwords powershell 1
+ibm-midrange powershell security windows 1
+credentials passwords powershell username 1
+passwords powershell remoting scheduled-tasks 1
+c# powershell security 1
+gmail powershell powershell-4.0 powershell-ise security 1
+credentials passwords powershell remote-server wmi 1
+passwords powershell security session 1
+credentials excel powershell refresh windows-security 1
+credentials powershell security 1
+bamboo powershell-3.0 powershell-remoting windows-security 1
+powershell sql-server windows-security 1
+gmail powershell security 1
+passwords powershell sudo ubuntu-18.04 windows-subsystem-for-linux 1
+active-directory permissions powershell security 1
+cryptography password-encryption powershell powershell-5.0 1
+admin passwords powershell runas windows 1
+powershell scripting security uac windows 1
+passwords php powershell security 1
+authentication c# networkcredentials powershell security 1
+powershell powershell-remoting scheduled-tasks windows-security windows-update 1
+powershell powershell-remoting windows-security windows-update 1
+powershell active-directory smtp passwords powershell-4.0 1
+windows powershell security notifications 1
+atom-editor git powershell ssh ssh-agent 1
+active-directory powershell powershell-3.0 1
+authentication credssp ntlm powershell powershell-remoting 1
+powershell powershell-3.0 1
+internet-explorer powershell 1
+kerberos-delegation powershell powershell-remoting sql-server 1
+batch-file powershell remote-access vbscript 1
+powershell python stdin 1
+powershell powershell-remoting visual-studio-code 1
+ivy javascript powershell sbt scala 1
+powershell scheduled-tasks 1
+automation powershell windows 1
+batch-file powershell vbscript 1
+powershell sql-server windows 1
+powershell psexec relationship trust 1
+powershell scheduled-tasks windows-server 1
+authentication powershell sql winpe 1
+login powershell 1
+powershell powershell-remoting putty 1
+mapping net-use powershell 1
+powershell powershell-2.0 powershell-3.0 smtp 1
+authentication azure azure-active-directory azure-sql-database powershell 1
+active-directory penetration-testing powershell sysadmin windows 1
+c# kerberos powershell 1
+powershell ras windows-8.1 1
+powershell windows-server-2012-r2 windows-services 1
+powershell powershell-4.0 windows-server-2012 1
+cmdlets powershell powershell-2.0 1
+powershell windows-server-2012 windows-server-2012-r2 1
+automation credentials powershell scripting windows 1
+always-encrypted encryption powershell sql 1
+mysql powershell 1
+powershell windows-server-2016 1
+credentials password-encryption powershell powershell-5.0 windows-server-2016 1
+executable powershell windows 1
+email encryption powershell windows 1
+cmdlets powershell sql-server-2008 1
+active-directory c# powershell 1
+dsquery powershell securestring 1
+kerberos powershell 1
+active-directory powershell scripting windows-scripting 1
+ldap powershell-2.0 securestring 1
+credentials powershell powershell-2.0 1
+authentication azure-devops powershell tfs 1
+azure-powershell c# powershell powershell-4.0 powershell-remoting 1
+powershell windows-identity 1
+csv email encryption powershell 1
+events powershell procedure server windows 1
+powershell powershell-remoting windows-scripting 1
+artifactory nuget nuget-package-restore powershell 1
+login powershell windows wmi 1
+network-programming networking powershell share 1
+powershell remote-server winrm 1
+authentication powershell registry 1
+credentials powershell scripting windows-server 1
+office365 powershell 1
+cross-domain invoke-command powershell remote-access 1
+credentials powershell powershell-4.0 1
+active-directory authentication credentials powershell 1
+credentials powershell windows 1
+impersonation powershell 1
+azure powershell ssl virtual-machine 1
+.net c# db2 powershell 1
+encryption powershell powershell-4.0 windows 1
+active-directory kerberos-delegation powershell 1
+password-encryption powershell psexec 1
+credentials encryption mysql powershell 1
+powershell powershell-remoting remote-access 1
+active-directory amazon-ec2 powershell windows 1
+.net acl powershell windows wmi 1
+admin administrator powershell windows 1
+batch-file encryption powershell xml 1
+database database-connection powershell 1
+basic-authentication exchange-server exchange-server-2013 kerberos powershell 1
+authentication powershell scriptblock sql-server windows-authentication 1
+invoke-command localhost powershell windows 1
+powershell svn 1
+powershell rdp 1
+.net active-directory powershell windows 1
+credentials invoke-command powershell service 1
+api confluence powershell windows 1
+controller delegates dns powershell 1
+powershell powershell-2.0 sendmail smtp 1
+powershell-2.0 user-accounts 1
+invoke-command powershell remote-access winrm 1
+exchange-server powershell runspace winrm 1
+event-log login powershell 1
+azure credentials login powershell 1
+asp-classic kerberos kerberos-delegation powershell 1
+credentials elevated-privileges powershell-4.0 1
+powershell wcf web-services 1
+gpo powershell windows 1
+authentication powershell proxy 1
+authentication biztalk powershell windows 1
+amazon-web-services credentials powershell sql-server 1
+powershell powershell-remoting 1
+c# credentials powershell 1
+.net .net-4.0 powershell powershell-3.0 winpe 1
+invoke-command powershell powershell-remoting remoting 1
+email powershell windows 1
+invoke-command kerberos powershell powershell-4.0 windows-authentication 1
+authentication credentials powershell 1
+batch-file powershell windows 1
+attributes ldap powershell 1
+ansible powershell 1
+defaultnetworkcredentials networkcredentials powershell runas 1
+c# mstsc pipeline powershell runspace 1
+powershell reporting-services 1
+powershell user-accounts windows 1
+authentication powershell sql-server 1
+encryption powershell tls1.2 windows 1
+azure azure-web-sites c# powershell 1
+hashtable parameters powershell-2.0 runas 1
+.net cruisecontrol.net dpapi powershell 1
+credentials powershell service 1
+azure azure-data-factory-2 powershell 1
+domaincontroller exception networkcredentials powershell ssl 1
+active-directory powershell-4.0 rest single-sign-on 1
+dbatools powershell 1
+database-backups database-restore powershell-2.0 sql-server-2012 1
+credentials powercli powershell vmware vmware-server 1
+powershell-2.0 sql-server-2005 1
+encryption powershell 1
+dns encryption powershell subdomain 1
+kerberos powershell powershell-remoting session 1
+automation azure powershell 1
+credentials powershell smtp 1
+email office365 powershell sendmail 1
+asp.net-mvc octopus-deploy powershell teamcity 1
+c# office365 powershell powershell-remoting 1
+.net c# encryption powershell winforms 1
+networking powershell windows 1
+continuous-deployment dns jenkins powershell windows 1
+powercli powershell vsphere 1
+powershell vmware 1
+active-directory mysql powershell 1
+batch-file powershell scheduled-tasks scheduler windows 1
+credentials powershell remote-access 1
+login-script powershell user-interface 1
+administrator powershell runas 1
+gmail powershell smtp 1
+active-directory hash ldap powershell scripting 1
+ansible azure-authentication azure-automation powershell 1
+kerberos powershell powershell-remoting 1
+azure credentials powershell validation 1
+powershell powershell-4.0 windows windows-server-2012 windows-server-2012-r2 1
+active-directory credentials powershell windows 1
+powershell python windows 1
+certificate-authority pki powershell 1
+credentials drive-mapping net-use powershell variables 1
+active-directory azure powershell vbscript 1
+local powershell remote-desktop 1
+plink powershell securestring sudo 1
+credentials powershell remote-access sharpssh 1
+command powershell router telnet 1
+powershell remote-server service 1
+.net encryption keepass powershell 1
+change-password credential-manager powershell 1
+credentials powershell variables windows 1
+powershell sql sql-server windows-authentication 1
+powershell scheduled-tasks sql-server windows 1
+active-directory base64 powershell securestring 1
+azure-powershell c# powershell 1
+c# powershell windows-authentication 1
+powershell ps1 server 1
+powershell smtp 1
+powershell flask 1
+powershell tcp ipv4 admin-rights 1
+powershell active-directory ldap ldap-query 1
+powershell shell active-directory 1
+amazon-web-services powershell aws-powershell 1
+powershell batch-file authentication account 1
+powershell azure-functions 1
+powershell azure-active-directory kerberos 1
+powershell iis 1
+powershell credentials securestring 1
+windows powershell scripting sftp winscp 1
+powershell variables net-use 1
+powershell sendmail 1
+powershell active-directory ldap credentials ldap-query 1
+powershell group-membership 1
+powershell active-directory 1
+powershell sqlplus 1
+windows powershell encryption 1
+azure powershell registry 1
+
+
+TOPIC 6: 
+certificate powershell 6
+powershell ssl 3
+powershell 3
+powershell ssl-certificate 3
+code-signing powershell 3
+powershell ssl ssl-certificate 3
+certificate powershell ssl 2
+powershell ssl-certificate x509certificate 2
+automation cryptography powershell ssl ssl-certificate 1
+cmd file-security powershell 1
+certificate p7b powershell security 1
+acl powershell regional-settings security windows 1
+certificate powershell security x509 x509certificate 1
+https powershell powershell-3.0 security ssl 1
+powershell powershell-remoting security windows-server-2019 winrm 1
+ediscovery o365security-compliance powershell sharepoint-online 1
+powershell com windows-security 1
+filezilla ftp ftps powershell ssl 1
+filezilla powershell ssl 1
+powershell svn 1
+powershell ssl sslstream system.net.sockets 1
+certificate clickonce powershell 1
+certificate iis powershell ssl 1
+certificate powershell powershell-5.0 self-signed 1
+iis powershell-3.0 ssl 1
+azure-keyvault certificate import powershell 1
+active-directory c# powershell x509certificate 1
+certificate powershell windows 1
+certificate client-certificates https powershell ssl-certificate 1
+azure linux powershell ssh ssl 1
+iis powershell ssl-certificate webdeploy 1
+iis-7 powershell ssl-certificate web 1
+c# powershell wcf x509certificate2 1
+azure azure-keyvault azure-vpn client-certificates powershell 1
+powershell silverlight 1
+c# code-signing powershell 1
+certificate certutil powershell 1
+powershell ssl ssl-certificate x509certificate 1
+certificate iis-7.5 powershell 1
+.net c# powershell rabbitmq ssl 1
+certificate iis powershell ssl wcf 1
+certificate powershell-3.0 ssl 1
+powershell ssl x509certificate 1
+certificate code-signing pfx powershell visual-studio-2017 1
+powershell properties ssl-certificate 1
+powershell public-key-encryption tpm 1
+executionpolicy powershell 1
+certificate powershell powershell-3.0 1
+azure-keyvault certificate powershell x509certificate 1
+certutil pkcs#7 powershell x509 1
+c++ certificate powershell 1
+azure powershell x509certificate 1
+powershell powershell-3.0 ssl 1
+azure azure-web-sites pfx powershell ssl-certificate 1
+azure-keyvault azure-powershell powershell private-key x509 1
+powershell web-services 1
+certificate code-signing powershell trusted-timestamp 1
+certificate powershell ssl windows-server-2012 1
+digital-certificate powershell powershell-3.0 powershell-4.0 signing 1
+active-directory adfs powershell saml 1
+powershell-2.0 powershell-remoting ssl 1
+active-directory c# powershell 1
+checkpoint firewall powershell powershell-remoting windows 1
+iis powershell 1
+powershell powershell-2.0 1
+certificate pfx powershell signed trusted 1
+powershell ssl x509certificate x509certificate2 1
+powershell x509certificate 1
+application-pool iis powershell web-applications 1
+azure azure-devops azure-pipelines certificate powershell 1
+powershell signing symantec verisign 1
+https makecert powershell ssl 1
+.net powershell 1
+azure-active-directory microsoft-graph powershell 1
+curl powershell windows 1
+certificate powershell-3.0 1
+jenkins powershell python windows 1
+certenroll pki powershell x509certificate 1
+powershell ssl ssl-certificate windows-server-2012-r2 1
+powershell unattended-processing windows-10 x509 x509certificate 1
+asp.net c# powershell ssl 1
+active-directory dns nis powershell quest 1
+permissions pfx powershell 1
+openssl powershell ssl windows 1
+iis iis-7 powershell ssl ssl-certificate 1
+adfs powershell saml sha windows-server-2012 1
+.net-core powershell 1
+certificate powershell remote-access 1
+azure powershell service-principal 1
+code-signing powershell signtool 1
+authentication certificate powershell webclient 1
+certificate-authority powershell self-signed ssl-certificate windows 1
+.net-core c# certificate powershell x509certificate 1
+google-chrome iis-express powershell ssl 1
+automation powershell rsa x509certificate x509certificate2 1
+certificate powershell windows-client windows-server-2012-r2 1
+certificate powershell self-signed 1
+certificate powershell powershell-2.0 ssl 1
+powershell sql-server-2012 windows-server-2012-r2 1
+certificate code-signing powershell windows 1
+iis pfx powershell ssl-certificate 1
+powershell remoting ssl ubuntu 1
+c# powershell 1
+certificate digital-signature installer powershell x509certificate 1
+.net appdomain appdomainsetup powershell 1
+https powershell powershell-core ssl-certificate 1
+acl certificate permissions powershell windows 1
+.net c# certificate powershell signing 1
+digital-signature powershell self-signed 1
+powershell ssl-certificate windows 1
+certificate powershell windows-10 1
+c# powershell ssl-certificate 1
+certificate powershell x509certificate 1
+oauth ovh powershell 1
+aws-fargate powershell ssl ssl-certificate windows 1
+azure-devops azure-pipelines codesign powershell signtool 1
+powershell root-certificate ssl 1
+azure linux powershell x509 x509certificate 1
+powershell powershell-6.0 powershell-remoting securestring 1
+c# .net windows powershell docker 1
+amazon-web-services powershell single-sign-on saml adfs 1
+windows powershell code-signing authenticode 1
+powershell curl hmacsha1 oauth-1.0a 1
+
+

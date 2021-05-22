@@ -1,0 +1,14 @@
+Topic ID,Top Words,Category,Sub-Category,Specifics
+TOPIC 0, hash function use implement algorithm md5 salt crypt gener tabl ,Data Security,Password/Data Storage,Password Hash Function
+TOPIC 1, key openssl rsa use public privat signatur gener code file ,Cryptography,Encryption,Public & Private Key
+TOPIC 2, openssl use librari code file compil function error tri sourc ,Cryptography,Encryption,Cryptography Functions
+TOPIC 3, certif sign verifi openssl ca valid check trust use chain ,Network Security,Digital Certificates,
+TOPIC 4, server client ssl connect use socket send authent tri openssl ,Network Security,Client/Server,
+TOPIC 5, signal handler function thread process safe code interrupt block program ,Software Vulnerabilities,Race Condition,Thread Safety
+TOPIC 6, crc checksum crc32 calcul polynomi sql crc-32 onlin crc8 inject ,Data Security,Password/Data Storage,Checksums
+TOPIC 7, encrypt decrypt byte use code ae openssl file data block ,Cryptography,Encryption,
+TOPIC 8, password key encrypt use user secur need want file data ,Data Security,Password/Data Storage,Password Security
+TOPIC 9, function string return valu use pointer code array type char ,Software Vulnerabilities,Memory Management,Pointers
+TOPIC 10, file zip intel protect sha password cryptoj section haskel power8 ,Data Security,Password/Data Storage,File Encryption
+TOPIC 11, java jni sun unpad pkcs7 pkcs#7 legaci interop hth nullptr ,Secure Development,Libraries/Configuration,Java and Cryptography Libraries
+TOPIC 12, code program buffer secur address execut run file memori string ,Software Vulnerabilities,Memory Management,Buffer Overflow

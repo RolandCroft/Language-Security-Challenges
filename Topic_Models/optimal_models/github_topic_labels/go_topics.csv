@@ -1,0 +1,25 @@
+Topic ID,Top Words,Category,Sub-Category,Specifics
+TOPIC 0,valid encod decod valu type string return json header field ,Cryptography,Encoding,
+TOPIC 1,approv comment pull request assign plea write file command list ,Secure Development,GitHub/Reports,Pull request
+TOPIC 2,proxi port ip connect host server network http domain dn ,Network Security,Client/Server,proxy servers
+TOPIC 3,hash signatur file sha sign checksum download verifi md packag ,Data Security,Digital Signature,data validation
+TOPIC 4,tl client server connect config insecur ssl cipher support configur ,Network Security,Client/Server,server connect authentication
+TOPIC 5,report impact diff vulner power tree increa click comment attack ,Software Vulnerabilities,Mitigation,vulnerabilities report and fix
+TOPIC 6,docker imag contain run user registri command privileg machin buil,Other,,docker image security
+TOPIC 7,password login user token cooki usernam oauth account access session ,Access Control,Tokens,Token-based authentication
+TOPIC 8,block leak cach memori transact stream time index channel alloc ,Software Vulnerabilities,Memory Management,memory leak (code security)
+TOPIC 9,authent auth user ldap server basic configur support ad method ,Access Control,Authentication,web/ldap authentication
+TOPIC 10,certif cert ca sign ssl root spoof chain self terraform ,Network Security,Digital Certificates,certificate authentication
+TOPIC 11,log address singular hardwar sy sandbox audit event nat attempt ,Secure Development,Implementation,log process (code imlementation)
+TOPIC 12,key encrypt privat public file secret decrypt vault use store ,Cryptography,Encryption,public-key signature system
+TOPIC 13,test fix chang merg updat add ad sign coverag review ,Secure Development,Testing,test bug or security fix
+TOPIC 14,node kubelet etcd fail sh master hack lib kubernet eb ,Secure Development,Libraries/Configuration,cluster security configuration
+TOPIC 15,crypto com packag golang transport github org prometheu src nonc ,Cryptography,Encryption,crypto package
+TOPIC 16,cluster control kubernet ingress creat servic secret pod manag rancher ,Network Security,Digital Certificates,cluster certifate management
+TOPIC 17,sign email github git cla author repli thank plea contributor ,Secure Development,GitHub/Reports,git configuration
+TOPIC 18,credenti command config file script variabl inject environ cli run ,Access Control,Authentication,user credentials
+TOPIC 19,use need think make support want work implement case secur ,Secure Development,Implementation,
+TOPIC 20,aw secur group resourc id plea creat provid help lock ,Access Control,Authorization,AWS secuirty certificate authentication
+TOPIC 21,error version work tri use fail expect behavior thank problem,Secure Development,Testing,error report
+TOPIC 22,ssh rsa debug key ae openssh sha id msg type ,Cryptography,Encryption,cryptography algorithms
+TOPIC 23,close stale mark whitelist inact test plea blacklist fresh activ ,Access Control,Authorization,stale message (code security)

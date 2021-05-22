@@ -1,0 +1,396 @@
+Topic ID,Top Words,Category,Sub-Category,Specifics,Language,Source
+TOPIC 0, string encod valu byte charact base64 java decod array convert ,Cryptography,Encoding,,java,Stack Overflow
+TOPIC 1, cipher provid sourc support suit algorithm bouncycastl bounci castl xml ,Cryptography,Encryption,Cryptography Libraries,java,Stack Overflow
+TOPIC 2, android app googl saml devic idp sign applic sp io ,Secure Development,Implementation,Mobile App Development,java,Stack Overflow
+TOPIC 3, signatur java sign use secur gener need implement data make ,Data Security,Digital Signature,,java,Stack Overflow
+TOPIC 4, server client connect ssl http tomcat send truststor use configur ,Network Security,Client/Server,,java,Stack Overflow
+TOPIC 5, java tri code work use error follow problem help chang ,Secure Development,Testing,,java,Stack Overflow
+TOPIC 6, encrypt decrypt key ae java use data byte code pad ,Cryptography,Encryption,,java,Stack Overflow
+TOPIC 7, certif keystor ssl trust sign ca cert valid import tl ,Network Security,Digital Certificates,,java,Stack Overflow
+TOPIC 8, file java jar run secur applet applic window access script ,Secure Development,Implementation,,java,Stack Overflow
+TOPIC 9, spring secur configur custom filter boot implement use applic control ,Secure Development,Libraries/Configuration,Spring Security,java,Stack Overflow
+TOPIC 10, login page cooki session user url redirect form request log ,Access Control,Authentication,Login Page,java,Stack Overflow
+TOPIC 11, databa valid queri sql mysql tabl inject jdbc db hibern ,Software Vulnerabilities,Network Exploits,SQL Injection,java,Stack Overflow
+TOPIC 12, token request authent servic api rest oauth header client author ,Access Control,Tokens,Token-Authentication,java,Stack Overflow
+TOPIC 13, key public privat use gener file rsa java openssl format ,Cryptography,Encryption,Public & Private Key,java,Stack Overflow
+TOPIC 14, method class object thread return test creat instanc null pass ,Software Vulnerabilities,Race Condition,Thread & Type Safety,java,Stack Overflow
+TOPIC 15, user authent applic ldap credenti access use need login provid ,Access Control,Authentication,Credentials,java,Stack Overflow
+TOPIC 16, password hash store usernam salt use md5 user java valu ,Data Security,Password/Data Storage,,java,Stack Overflow
+TOPIC 0,use need user think make secur implement work support case ,Secure Development,Implementation,,java,GitHub
+TOPIC 1,test fix chang updat merg add review descript check thank ,Secure Development,Testing,,java,GitHub
+TOPIC 2,secur spring web org filter relea said configur boot apach,Secure Development,Libraries/Configuration,spring security implementation,java,GitHub
+TOPIC 3,encrypt messag app android devic decrypt send mail version conver ,Cryptography,Encryption,encrypt and decrypt implementation (Android app ),java,GitHub
+TOPIC 4,file version error build run use plugin tri work problem ,Secure Development,Testing,security error related to file ,java,GitHub
+TOPIC 5,certif ssl server client tl connect cert cipher keystor transport ,Network Security,Digital Certificates,certificate authentication,java,GitHub
+TOPIC 6,encod valu string decod method return url paramet type use ,Cryptography,Encoding,encode/decode (code security),java,GitHub
+TOPIC 7,thread leak debug jetti eclip ssh memori info log server ,Software Vulnerabilities,Race Condition,thread security (code security),java,GitHub
+TOPIC 8,password authent login user cooki usernam session server log request ,Access Control,Authentication,user authentication,java,GitHub
+TOPIC 9,nbsp inject hash googl class cach intern com jersey hashcod ,Other,,,java,GitHub
+TOPIC 10,key signatur sha sign privat public rsa check ae fingerprint ,Cryptography,Encryption,public-key signature system,java,GitHub
+TOPIC 11,java org netti com io sun secur jar ssl util ,Secure Development,Libraries/Configuration,netty package security,java,GitHub
+TOPIC 12,token oauth client author authent access request api configur endpoint ,Access Control,Tokens,token oauth authentication,java,GitHub
+TOPIC 13,sign email thank github plea cla repli request view contribut ,Secure Development,GitHub/Reports,git configuration,java,GitHub
+TOPIC 0, api authent token request app oauth googl applic facebook use ,Access Control,Tokens,,php,Stack Overflow
+TOPIC 1, ip address time number nonc attempt node.j bundl block nodej ,Software Vulnerabilities,Network Exploits,DDOS,php,Stack Overflow
+TOPIC 2, sql mysql queri inject databa statement pdo prepar data insert ,Software Vulnerabilities,Network Exploits,SQL Injection,php,Stack Overflow
+TOPIC 3, password hash salt store md5 databa function use gener algorithm ,Data Security,Password/Data Storage,Password Hashing,php,Stack Overflow
+TOPIC 4, laravel authent symfoni control method custom user rout creat class ,Secure Development,Libraries/Configuration,Web Frameworks,php,Stack Overflow
+TOPIC 5, key public signatur privat sign rsa gener openssl creat saml ,Cryptography,Encryption,Public/Private Key,php,Stack Overflow
+TOPIC 6, encod string decod ldap charact base64 php java c# json ,Cryptography,Encoding,,php,Stack Overflow
+TOPIC 7, file php script access server wordpress directori upload run ssh ,Network Security,File Transfer,,php,Stack Overflow
+TOPIC 8, url codeignit input xss html sanit data filter escap user ,Software Vulnerabilities,Network Exploits,XSS Prevention,php,Stack Overflow
+TOPIC 9, encrypt decrypt php key data use ae iv mcrypt pad ,Cryptography,Encryption,,php,Stack Overflow
+TOPIC 10, secur user use php make need want data know server ,Secure Development,Implementation,General Security Discussion,php,Stack Overflow
+TOPIC 11, login password user usernam page log databa redirect php check ,Access Control,Authentication,,php,Stack Overflow
+TOPIC 12, javascript page html imag browser js tag script php content ,Secure Development,Implementation,Web Page Implementation,php,Stack Overflow
+TOPIC 13, server certif ssl connect curl http php client error use ,Network Security,Digital Certificates,,php,Stack Overflow
+TOPIC 14, php code work tri use function error problem return follow ,Secure Development,Testing,,php,Stack Overflow
+TOPIC 15, cooki session user id store log page token browser login ,Access Control,Tokens,,php,Stack Overflow
+TOPIC 16, form valid ajax submit email send field post jqueri data ,Software Vulnerabilities,Network Exploits,Form Validation,php,Stack Overflow
+TOPIC 0,author origin fix id databa ye open close assign tabl ,Access Control,Authorization,database privilege issues by phpmyadmin,php,GitHub
+TOPIC 1,think secur make want good need implement point attack vulner ,Secure Development,Implementation,security requirement ,php,GitHub
+TOPIC 2,cooki session site secur browser request page header use csrf ,Access Control,Tokens,http cookie authentication,php,GitHub
+TOPIC 3,php error line www var array utc file string messag ,Other,,,php,GitHub
+TOPIC 4,user login usernam log admin account page creat chang new ,Access Control,Authentication,password ui features,php,GitHub
+TOPIC 5,hash use function gener sha support salt implement librari need,Data Security,Password/Data Storage,Password hashing,php,GitHub
+TOPIC 6,valid field form encod input charact paramet return url post ,Software Vulnerabilities,Network Exploits,field data validation,php,GitHub
+TOPIC 7,option creat default valu plugin enabl comment type set add ,Secure Development,Implementation,,php,GitHub
+TOPIC 8,updat version script run thank instal saml relea use work ,Secure Development,Libraries/Configuration,Version/Patching,php,GitHub
+TOPIC 9,server certif ssl connect domain work com host use fail ,Network Security,Digital Certificates,,php,GitHub
+TOPIC 10,plea thank bug report custom reproduc inform step hi close ,Secure Development,GitHub/Reports,bug report,php,GitHub
+TOPIC 11,password check protect link enter chang reset login jul new ,Access Control,Authentication,password ui features,php,GitHub
+TOPIC 12,email address send messag view mail directli github repli thank ,Secure Development,GitHub/Reports,git configuration/ spam Issue,php,GitHub
+TOPIC 13,login authent token api auth oauth credenti client redirect access ,Access Control,Tokens,Token-based authentication,php,GitHub
+TOPIC 14,test chang fix code ad pull add new merg request ,Secure Development,Testing,security pull request implementation,php,GitHub
+TOPIC 15,ldap server instal version configur log web owncloud app config ,Access Control,Authentication,web/ldap authentication,php,GitHub
+TOPIC 16,encrypt file key signatur sign data public privat decrypt download ,Cryptography,Encryption,,php,GitHub
+TOPIC 17,asset method laravel class control request secur symfoni object rout ,Secure Development,Implementation,web development,php,GitHub
+TOPIC 18,work need look problem sure time mayb know someth think ,Secure Development,Implementation,,php,GitHub
+TOPIC 0, certif http ssl connect server twitter secur websocket trust use ,Network Security,Digital Certificates,,javascript,Stack Overflow
+TOPIC 1, script page load content chrome ifram exten execut inject run ,Software Vulnerabilities,Mitigation,Security Policy,javascript,Stack Overflow
+TOPIC 2, authent api app token user access use author googl applic ,Access Control,Tokens,,javascript,Stack Overflow
+TOPIC 3, encod string decod url javascript base64 charact convert python valu ,Cryptography,Encoding,,javascript,Stack Overflow
+TOPIC 4, login page redirect user log angular button javascript angularj click ,Access Control,Authentication,Login Page,javascript,Stack Overflow
+TOPIC 5, valid form field submit javascript jqueri input html button check ,Secure Development,Implementation,Web Form,javascript,Stack Overflow
+TOPIC 6, json java array android par io cordova data object applet ,Secure Development,Implementation,Mobile Development,javascript,Stack Overflow
+TOPIC 7, password usernam user login databa store hash enter save bcrypt ,Data Security,Password/Data Storage,,javascript,Stack Overflow
+TOPIC 8, user sign fireba email account id creat firebas rule databa ,Secure Development,Libraries/Configuration,Firebase,javascript,Stack Overflow
+TOPIC 9, number charact regex valid react-n match digit express length special ,Software Vulnerabilities,Network Exploits,Password Requirements Checking,javascript,Stack Overflow
+TOPIC 10, server client data send user request ajax secur post valid ,Network Security,Client/Server,Data Transfer,javascript,Stack Overflow
+TOPIC 11, cooki session token store request csrf user jwt storag valu ,Access Control,Tokens,CSRF,javascript,Stack Overflow
+TOPIC 12, key hash gener signatur public use privat librari sign md5 ,Cryptography,Encryption,Public Private Key,javascript,Stack Overflow
+TOPIC 13, file php javascript imag js script upload download html use ,Network Security,File Transfer,,javascript,Stack Overflow
+TOPIC 14, browser domain request header site url cor chrome origin firefox ,Other,,Web Browsers,javascript,Stack Overflow
+TOPIC 15, function valu variabl object pass javascript assign properti return method ,Secure Development,Implementation,JavaScript Functions,javascript,Stack Overflow
+TOPIC 16, encrypt decrypt key cryptoj use javascript ae data java c# ,Cryptography,Encryption,,javascript,Stack Overflow
+TOPIC 17, javascript code use secur want make need know browser look ,Secure Development,Implementation,,javascript,Stack Overflow
+TOPIC 18, facebook sdk scope global ldap login.html appl integr graph sign-up ,Secure Development,Libraries/Configuration,Facebook Framework,javascript,Stack Overflow
+TOPIC 19, error work code tri javascript follow use problem return node.j ,Secure Development,Testing,,javascript,Stack Overflow
+TOPIC 20, window rail close dialog asset command cart ii transact powershel ,Other,,,javascript,Stack Overflow
+TOPIC 21, html xss inject javascript attack tag script input use sanit ,Software Vulnerabilities,Network Exploits,XSS,javascript,Stack Overflow
+TOPIC 0,valid error function field valu object method return type form ,Secure Development,Implementation,,javascript,GitHub
+TOPIC 1,password user usernam credenti email brave account chang login save ,Access Control,Authentication,password ui features,javascript,GitHub
+TOPIC 2,script html inject js content load page code tag leak ,Software Vulnerabilities,Network Exploits,html injection,javascript,GitHub
+TOPIC 3,test fix chang updat merg commit pull request add ad ,Secure Development,Testing,secuirty pull request implementation,javascript,GitHub
+TOPIC 4,use think need make secur want work user case know ,Secure Development,Implementation,security design,javascript,GitHub
+TOPIC 5,encod url hash decod string charact use valu par function ,Cryptography,Encoding,encode/decode (code security),javascript,GitHub
+TOPIC 6,key encrypt data decrypt privat use ae public transport secret ,Cryptography,Encryption,,javascript,GitHub
+TOPIC 7,user ldap authent chat login com auth behavior log server ,Access Control,Authentication,web/ldap authentication,javascript,GitHub
+TOPIC 8,cooki request token header authent server session use domain api ,Access Control,Tokens,,javascript,GitHub
+TOPIC 9,certif server connect ssl error cert work self use tl ,Network Security,Digital Certificates,,javascript,GitHub
+TOPIC 10,file hash asset upload cach plugin config gener download js ,Network Security,File Transfer,File hash and transfer,javascript,GitHub
+TOPIC 11,version open bug plea reproduc close step activ browser automat ,Secure Development,GitHub/Reports,,javascript,GitHub
+TOPIC 12,login log app page oauth work redirect authent servic googl ,Access Control,Authentication,managing user accounts,javascript,GitHub
+TOPIC 13,sign signatur cla thank email verifi plea author address request ,Secure Development,Implementation,security pull request implementation (googlebot ),javascript,GitHub
+TOPIC 14,view github whitelist signal repli email directli thread receiv amp ,Access Control,Authorization,whitelist and blacklist implmentation,javascript,GitHub
+TOPIC 15,vulner secur packag version sandbox npm fix audit depend instal ,Software Vulnerabilities,Mitigation,vulnerabilities fix,javascript,GitHub
+TOPIC 16,node js modul default crypto build ssh lib version command ,Secure Development,Libraries/Configuration,Node.js crypto security problem,javascript,GitHub
+TOPIC 0, custom control attribut method author role class implement action access ,Access Control,Authorization,,c#,Stack Overflow
+TOPIC 1, code c# use work tri method follow problem creat need ,Secure Development,Testing,,c#,Stack Overflow
+TOPIC 2, secur applic need want make data use user possibl know ,Data Security,Password/Data Storage,,c#,Stack Overflow
+TOPIC 3, error valid invalid messag fail throw tri occur boolean check ,Secure Development,Testing,Type Checking,c#,Stack Overflow
+TOPIC 4, cooki token authent request api author web oauth core jwt ,Access Control,Tokens,,c#,Stack Overflow
+TOPIC 5, key privat public rsa gener use creat export c# format ,Cryptography,Encryption,Public & Private Key,c#,Stack Overflow
+TOPIC 6, script -> python powershel uniti node game unsaf graph office365 ,Other,,,c#,Stack Overflow
+TOPIC 7, email googl address send account ip reset mail link metadata ,Other,,Email Security,c#,Stack Overflow
+TOPIC 8, sql javascript queri paramet inject string url html valu input ,Software Vulnerabilities,Network Exploits,SQL Injection,c#,Stack Overflow
+TOPIC 9, user login authent page asp.net log form applic redirect c# ,Access Control,Authentication,,c#,Stack Overflow
+TOPIC 10, window user credenti domain authent account activ directori ldap server ,Access Control,Authentication,User Accounts,c#,Stack Overflow
+TOPIC 11, assembl deleg dll code obfusc event thread callback type compil ,Software Vulnerabilities,Memory Management,Dynamic Memory,c#,Stack Overflow
+TOPIC 12, hash salt md5 algorithm valu gener function use compar password ,Cryptography,Encryption,Hashing Functions,c#,Stack Overflow
+TOPIC 13, .net librari core framework implement class support c# use provid ,Secure Development,Libraries/Configuration,Framework Implementation & Use,c#,Stack Overflow
+TOPIC 14, window app tl devic mobil android version chrome sdk support ,Secure Development,Implementation,Mobile App Development,c#,Stack Overflow
+TOPIC 15, byte string encod c# php array pad size iv base64 ,Cryptography,Encoding,,c#,Stack Overflow
+TOPIC 16, client server servic connect authent wcf secur ssl http use ,Network Security,Client/Server,,c#,Stack Overflow
+TOPIC 17, sign signatur xml verifi document digit pdf use verif gener ,Data Security,Digital Signature,Verification,c#,Stack Overflow
+TOPIC 18, file folder program read run c# download upload window applic ,Network Security,File Transfer,,c#,Stack Overflow
+TOPIC 19, certif ssl trust root cert store instal ca sign self-sign ,Network Security,Digital Certificates,,c#,Stack Overflow
+TOPIC 20, encrypt decrypt data key ae use c# string algorithm text ,Cryptography,Encryption,,c#,Stack Overflow
+TOPIC 21, password databa usernam user store connect string c# sql enter ,Data Security,Password/Data Storage,,c#,Stack Overflow
+TOPIC 22, applic azur app run ii machin configur web local studio ,Secure Development,Libraries/Configuration,Web Development,c#,Stack Overflow
+TOPIC 0,method class valu properti implement custom instanc pass attribut design,Secure Development,Implementation,dependency injection implementation (security design),c#,GitHub
+TOPIC 1,know time report updat problem day mayb tri flag help ,Other,,virus/malware detect,c#,GitHub
+TOPIC 2,script type asset cs control error intern load use line ,Secure Development,Libraries/Configuration,game development security configuration,c#,GitHub
+TOPIC 3,chang requir address document descript protect updat link content list ,Secure Development,Implementation,document implementation (security instruction),c#,GitHub
+TOPIC 4,version error log plea ssl mono provid alreadi use includ ,Secure Development,Libraries/Configuration,ssl library,c#,GitHub
+TOPIC 5,login page user redirect log url extern form click regist,Access Control,Authentication,,c#,GitHub
+TOPIC 6,connect server messag transport client proxi signalr memori leak port ,Network Security,Client/Server,connection protocol  (code security),c#,GitHub
+TOPIC 7,secur net server http inform byte tl rsa buffer ns ,Network Security,Digital Certificates,certificate authentication,c#,GitHub
+TOPIC 8,code encod function string charact decod url break work exampl ,Cryptography,Encoding,encode/decode ,c#,GitHub
+TOPIC 9,credenti window git work manag ssh use tri prompt store ,Access Control,Authentication,windows authentication/git configuration,c#,GitHub
+TOPIC 10,app new option servic configur work use googl applic tri ,Secure Development,Libraries/Configuration,,c#,GitHub
+TOPIC 11,file packag project nuget sourc read download json updat folder,Data Security,Password/Data Storage,File integrity,c#,GitHub
+TOPIC 12,sign key signatur build public verifi warn assembl line dll ,Data Security,Digital Signature,public-key signature system,c#,GitHub
+TOPIC 13,encrypt key data decrypt make need attack implement think want ,Cryptography,Encryption,data protection,c#,GitHub
+TOPIC 14,authent token access api ident use user auth claim flow ,Access Control,Tokens,,c#,GitHub
+TOPIC 15,test fix fail bug work problem cau relat close look ,Secure Development,Testing,,c#,GitHub
+TOPIC 16,net core work use window run linux support framework dotnet ,Secure Development,Libraries/Configuration,server security configuration,c#,GitHub
+TOPIC 17,thank ad request add pull hi featur merg chang develop ,Secure Development,Implementation,security feature/bug fix implementation,c#,GitHub
+TOPIC 18,certif cert store trust server key use ii ssl root ,Network Security,Digital Certificates,certificate management,c#,GitHub
+TOPIC 19,microsoft string task runtim aspnetcor trace stack end cs int,Other,,,c#,GitHub
+TOPIC 20,valid client request author id debug null send inform post ,Access Control,Authorization,,c#,GitHub
+TOPIC 21,hash algorithm sha use good gener think need bit implement ,Cryptography,Encryption,hash algorithm,c#,GitHub
+TOPIC 22,support thread directli need view messag repli saml receiv github,Software Vulnerabilities,Race Condition,thread safe (code security),c#,GitHub
+TOPIC 23,password user usernam chang account email admin field enter creat ,Access Control,Authentication,,c#,GitHub
+TOPIC 24,cooki web request browser header session expir applic info mvc,Access Control,Tokens,http cookie authentication,c#,GitHub
+TOPIC 25,azur run step modul command powershel add new version use ,Secure Development,Libraries/Configuration,Azure security configuration,c#,GitHub
+TOPIC 0, script ssh python run connect server command use window remot ,Network Security,Client/Server,SSH,python,Stack Overflow
+TOPIC 1, hash salt md5 password function gener algorithm use valu string ,Data Security,Password/Data Storage,Password Hashing,python,Stack Overflow
+TOPIC 2, python code use tri work script modul run librari follow ,Secure Development,Testing,,python,Stack Overflow
+TOPIC 3, json sql queri string databa data inject paramet mysql input ,Software Vulnerabilities,Network Exploits,SQL Injection,python,Stack Overflow
+TOPIC 4, key rsa public privat use encrypt gener python openssl messag ,Cryptography,Encryption,Public Private Key,python,Stack Overflow
+TOPIC 5, password code error tri python function return usernam check work ,Access Control,Authentication,Credentials,python,Stack Overflow
+TOPIC 6, certif ssl server client connect python error use http request ,Network Security,Digital Certificates,,python,Stack Overflow
+TOPIC 7, cli anaconda ansibl odoo cisco dll index.html flask-admin celeri vote ,Secure Development,Libraries/Configuration,Python Frameworks,python,Stack Overflow
+TOPIC 8, password user usernam store databa creat ldap login python use ,Data Security,Password/Data Storage,Password storage,python,Stack Overflow
+TOPIC 9, sign signatur verifi m2crypto verif valid video assert fireba digest ,Data Security,Digital Signature,,python,Stack Overflow
+TOPIC 10, authent user api use token app python access flask googl ,Access Control,Tokens,,python,Stack Overflow
+TOPIC 11, android mongodb revok psycopg2 pfx 2.7.9 crl blob frame 3.7 ,Secure Development,Libraries/Configuration,Mobile Development,python,Stack Overflow
+TOPIC 12, secur make time attack data gener want implement possibl need ,Software Vulnerabilities,Network Exploits,Timing Attacks,python,Stack Overflow
+TOPIC 13, django form view request csrf login user post field use ,Software Vulnerabilities,Network Exploits,CSRF,python,Stack Overflow
+TOPIC 14, encrypt decrypt python encod string byte use data code decod ,Cryptography,Encryption,,python,Stack Overflow
+TOPIC 15, file line read upload download aw content open csv retri ,Network Security,File Transfer,,python,Stack Overflow
+TOPIC 16, group reset xml signal scrapi authori wordpress menu programat member ,Secure Development,Implementation,Web Development,python,Stack Overflow
+TOPIC 17, login cooki page session log websit browser site request url ,Access Control,Tokens,Session Management,python,Stack Overflow
+TOPIC 0,key encrypt file use privat creat public decrypt gener instanc ,Cryptography,Encryption,,python,GitHub
+TOPIC 1,fail url signatur error download warn info version request ssl ,Data Security,Digital Signature,,python,GitHub
+TOPIC 2,state modul new function servic time custom return base manag ,Secure Development,Implementation,,python,GitHub
+TOPIC 3,hash api sign script behavior gpg ye remov refer messag ,Secure Development,Implementation,,python,GitHub
+TOPIC 4,valid valu data code pass exampl object directli view thread ,Secure Development,Implementation,,python,GitHub
+TOPIC 5,cooki encod decod string byte invalid output header input respon ,Access Control,Tokens,cookie value encryption,python,GitHub
+TOPIC 6,server client connect request support use proxi tl http address ,Network Security,Client/Server,,python,GitHub
+TOPIC 7,ansibl command modul environ result variabl compon type os use ,Secure Development,GitHub/Reports,ansible bug report,python,GitHub
+TOPIC 8,ssh root id config debug host connect user file read ,Network Security,Client/Server,ssh configuration,python,GitHub
+TOPIC 9,test fix chang pull merg add commit check review request ,Secure Development,Testing,,python,GitHub
+TOPIC 10,openssl build linux includ lib copi hazmat py method src ,Secure Development,Libraries/Configuration,server security configuration openssl ,python,GitHub
+TOPIC 11,secur attack sourc app browser protect page link applic vulner ,Software Vulnerabilities,Network Exploits,security attack,python,GitHub
+TOPIC 12,thank close look plea comment activ contribut relea automat updat ,Other,,,python,GitHub
+TOPIC 13,think make need implement want case thing use someth realli ,Secure Development,Implementation,security requirement,python,GitHub
+TOPIC 14,certif sign ssl cert verifi ca transact use valid letsencrypt ,Network Security,Digital Certificates,,python,GitHub
+TOPIC 15,descript report bug inform plea updat version step provid expect ,Secure Development,GitHub/Reports,bug report,python,GitHub
+TOPIC 16, salt instal master version run python cloud debug setup depend ,Secure Development,Libraries/Configuration,salt installation and configuration,python,GitHub
+TOPIC 17,python file py line packag lib usr site self local ,Other,,,python,GitHub
+TOPIC 18,work tri error problem run version use follow log help,Secure Development,Testing,,python,GitHub
+TOPIC 19,password user authent login usernam auth account token credenti admin ,Access Control,Authentication,,python,GitHub
+TOPIC 0,jenkin node credenti build master plugin ssh slave hadoop job ,Secure Development,Libraries/Configuration,Server Configuration,bash,Stack Overflow
+TOPIC 1,password charact string use quot tri line gener usernam number,Access Control,Authentication,Credentials,bash,Stack Overflow
+TOPIC 2,svn telnet exit signal process statu child subver grep parent,Secure Development,Libraries/Configuration,Version Control / Signal Handling,bash,Stack Overflow
+TOPIC 3,rubi info postgresql laravel forg net-ssh gem version net::ssh queri ,Secure Development,Implementation,Database Query,bash,Stack Overflow
+TOPIC 4,key public ssh privat server use gener authent file rsa ,Cryptography,Encryption,Public and Private Key Cryptography,bash,Stack Overflow
+TOPIC 5,user root login password run ssh sudo access account log ,Access Control,Authentication,,bash,Stack Overflow
+TOPIC 6,file sftp use php code work tri server error support ,Network Security,File Transfer,,bash,Stack Overflow
+TOPIC 7,password script command run prompt bash expect use ssh enter ,Network Security,Client/Server,Remote execution,bash,Stack Overflow
+TOPIC 8,hash curl encod valu bash use md5 string base64 cooki ,Cryptography,Encoding,,bash,Stack Overflow
+TOPIC 9,script bash shell command file variabl run execut environ pass ,Secure Development,Libraries/Configuration,Environment Setup,bash,Stack Overflow
+TOPIC 10,window putti openssh cygwin instal linux puttygen powershel pi pageant ,Secure Development,Libraries/Configuration,Windows Environment Setup,bash,Stack Overflow
+TOPIC 11,ssh connect host tri use server error authent fail work ,Access Control,Authentication,Server Authentication,bash,Stack Overflow
+TOPIC 12,ssh file server tri key directori work copi permiss problem ,Access Control,Authorization,Permissions,bash,Stack Overflow
+TOPIC 13,java jsch algorithm librari exchang code version support applic client ,Secure Development,Libraries/Configuration,Java Development,bash,Stack Overflow
+TOPIC 14,debug1 type file ident packet authent receiv sent publickey version ,Network Security,File Transfer,SSH Connection,bash,Stack Overflow
+TOPIC 15,ssh connect tunnel server port use access mysql ip secur ,Network Security,Client/Server,,bash,Stack Overflow
+TOPIC 16,encrypt certif openssl decrypt ssl use sign secur client signatur ,Network Security,Digital Certificates,,bash,Stack Overflow
+TOPIC 17,python paramiko app devic librari c# code modul subprocess android ,Secure Development,Libraries/Configuration,Python App Development,bash,Stack Overflow
+TOPIC 18,cipher intellij checkout wordpress ide subdomain curv sublim idea pxssh ,Secure Development,Libraries/Configuration,,bash,Stack Overflow
+TOPIC 19,ssh server remot command machin use run script file connect ,Network Security,Client/Server,,bash,Stack Overflow
+TOPIC 20,vm googl comput cloud instanc click engin gcloud log consol ,Secure Development,Libraries/Configuration,Google Cloud,bash,Stack Overflow
+TOPIC 21,instanc ssh ec2 permiss ubuntu aw deni tri key file ,Access Control,Authorization,Permissions,bash,Stack Overflow
+TOPIC 22,git ssh github repositori key use clone repo work tri ,Secure Development,GitHub/Reports,,bash,Stack Overflow
+TOPIC 0,server sha tl cipher client rsa ae connect support cve ,Network Security,Client/Server,server connection authentication,bash,GitHub
+TOPIC 1,make code think block unsaf need use chang safe list,Secure Development,Implementation,software implementation(code security),bash,GitHub
+TOPIC 2,error root apk backdoor com origin layout valu packag resourc,Secure Development,Libraries/Configuration,Android apk security,bash,GitHub
+TOPIC 3,certif ssl cert domain echo ldap let key letsencrypt server,Network Security,Digital Certificates,ssl security certificate,bash,GitHub
+TOPIC 4,work docker thank tri use imag contain file need problem,Secure Development,Libraries/Configuration,docker image security,bash,GitHub
+TOPIC 5,version openssl build instal fix linux file salt lib python,Secure Development,Libraries/Configuration,openssl library,bash,GitHub
+TOPIC 6,request plea pull bug report commit link app fix new ,Secure Development,GitHub/Reports,,bash,GitHub
+TOPIC 7,script instal file run updat test user encrypt download nextcloud,Secure Development,Libraries/Configuration,server security configuration,bash,GitHub
+TOPIC 8,password ssh user key command default run login use chang ,Network Security,Client/Server,Remote access,bash,GitHub
+TOPIC 9,sign thank login close github updat author check provid trust,Secure Development,GitHub/Reports,git configuration,bash,GitHub
+TOPIC 10,hash use implement think key secur function attack case base ,Data Security,Password/Data Storage,hash storage implementation,bash,GitHub
+TOPIC 0, hash function use implement algorithm md5 salt crypt gener tabl ,Data Security,Password/Data Storage,Password Hash Function,c,Stack Overflow
+TOPIC 1, key openssl rsa use public privat signatur gener code file ,Cryptography,Encryption,Public & Private Key,c,Stack Overflow
+TOPIC 2, openssl use librari code file compil function error tri sourc ,Cryptography,Encryption,Cryptography Functions,c,Stack Overflow
+TOPIC 3, certif sign verifi openssl ca valid check trust use chain ,Network Security,Digital Certificates,,c,Stack Overflow
+TOPIC 4, server client ssl connect use socket send authent tri openssl ,Network Security,Client/Server,,c,Stack Overflow
+TOPIC 5, signal handler function thread process safe code interrupt block program ,Software Vulnerabilities,Race Condition,Thread Safety,c,Stack Overflow
+TOPIC 6, crc checksum crc32 calcul polynomi sql crc-32 onlin crc8 inject ,Data Security,Password/Data Storage,Checksums,c,Stack Overflow
+TOPIC 7, encrypt decrypt byte use code ae openssl file data block ,Cryptography,Encryption,,c,Stack Overflow
+TOPIC 8, password key encrypt use user secur need want file data ,Data Security,Password/Data Storage,Password Security,c,Stack Overflow
+TOPIC 9, function string return valu use pointer code array type char ,Software Vulnerabilities,Memory Management,Pointers,c,Stack Overflow
+TOPIC 10, file zip intel protect sha password cryptoj section haskel power8 ,Data Security,Password/Data Storage,File Encryption,c,Stack Overflow
+TOPIC 11, java jni sun unpad pkcs7 pkcs#7 legaci interop hth nullptr ,Secure Development,Libraries/Configuration,Java and Cryptography Libraries,c,Stack Overflow
+TOPIC 12, code program buffer secur address execut run file memori string ,Software Vulnerabilities,Memory Management,Buffer Overflow,c,Stack Overflow
+TOPIC 0,build linux lib compil usr py make modul tool refer ,Secure Development,Implementation,compile error (code security),c,GitHub
+TOPIC 1,hash format salt length md test time sha bit tabl ,Data Security,Password/Data Storage,password security and cracking,c,GitHub
+TOPIC 2,support sha cipher ae option default tl enabl list disabl ,Cryptography,Encryption,,c,GitHub
+TOPIC 3,user password usernam ssh login authent run use command log ,Access Control,Authentication,user authentication,c,GitHub
+TOPIC 4,test script fuzz look run add think make fuzzer project ,Secure Development,Testing,security test,c,GitHub
+TOPIC 5,chang implement need think code document ad add make api ,Secure Development,Implementation,document implementation (security instruction),c,GitHub
+TOPIC 6,work version tri thank problem use relea help instal hi,Secure Development,Libraries/Configuration,version/patch security update,c,GitHub
+TOPIC 7,openssl crypto test lib vector copi cygwin build cipher ecc,Cryptography,Encryption,openssl library,c,GitHub
+TOPIC 8,function valu return string org char null int type code ,Secure Development,Implementation,return check (code security),c,GitHub
+TOPIC 9,error fail bug messag report reproduc result log descript expect ,Secure Development,GitHub/Reports,error message report (code security),c,GitHub
+TOPIC 10,decod encod byte buffer output video base use input flag ,Cryptography,Encoding,media player security,c,GitHub
+TOPIC 11,certif secur window sign cert valid ca vulner trust check ,Network Security,Digital Certificates,certificate authentication,c,GitHub
+TOPIC 12,debug memori leak fix free pass process signal alloc state ,Software Vulnerabilities,Memory Management,memory leak (code security),c,GitHub
+TOPIC 13,fix thank thread commit sign request pull plea email github ,Secure Development,GitHub/Reports,,c,GitHub
+TOPIC 14,ssl client tl mbedtl add hello server connect error cli ,Network Security,Client/Server,,c,GitHub
+TOPIC 15,key use pkc privat card rsa public gener signatur work ,Cryptography,Encryption,public-key signature system,c,GitHub
+TOPIC 16,encrypt decrypt data use attack devic block protect time need ,Data Security,Password/Data Storage,data security,c,GitHub
+TOPIC 17,file line warn tmp start plea miss space error tag ,Secure Development,Implementation,software implementation (code security),c,GitHub
+TOPIC 18,server connect authent ldap request port auth eap client http ,Network Security,Client/Server,server connect authent,c,GitHub
+TOPIC 0, certif rubi ssl use openssl server tri error connect client ,Network Security,Digital Certificates,,ruby,Stack Overflow
+TOPIC 1, hash rubi use method file object valu attribut code variabl ,Secure Development,Implementation,,ruby,Stack Overflow
+TOPIC 2, rubi script tri run password work error use file command ,Secure Development,Testing,,ruby,Stack Overflow
+TOPIC 3, secur rail safe sql attack paramet queri inject protect html ,Software Vulnerabilities,Network Exploits,SQL Injection,ruby,Stack Overflow
+TOPIC 4, rubi encrypt key use string decrypt code openssl encod data ,Cryptography,Encryption,,ruby,Stack Overflow
+TOPIC 5, token oauth api use rubi app googl request access applic ,Access Control,Tokens,,ruby,Stack Overflow
+TOPIC 6, user password devi valid login rail authent rubi use sign ,Access Control,Authentication,,ruby,Stack Overflow
+TOPIC 7, password hash user store encrypt use rubi databa secur creat ,Data Security,Password/Data Storage,Password Hashing,ruby,Stack Overflow
+TOPIC 8, authent cooki session request use rail server rubi app http ,Access Control,Tokens,Session Management,ruby,Stack Overflow
+TOPIC 0,asset app file imag rail png path url gener work ,Secure Development,Implementation,,ruby,GitHub
+TOPIC 1,net ssh debug connect kb type info sha session server ,Network Security,Client/Server,ssh connection,ruby,GitHub
+TOPIC 2,login authent token request credenti api access user use log ,Access Control,Authentication,,ruby,GitHub
+TOPIC 3,certif ssl work openssl use version error updat verifi sign ,Network Security,Digital Certificates,openssl certificate authentication,ruby,GitHub
+TOPIC 4,hash cooki method option valu default use fix updat safe ,Access Control,Tokens,hash cookie implementation,ruby,GitHub
+TOPIC 5,gem rubi rb lib googl cloud instal secur home version ,Secure Development,Libraries/Configuration,ruby gem install ,ruby,GitHub
+TOPIC 6,test fix thank chang check add look pull commit merg ,Secure Development,Testing,,ruby,GitHub
+TOPIC 7,think encrypt secur make implement need use want requir support ,Secure Development,Implementation,requirements,ruby,GitHub
+TOPIC 8,key ssh vagrant use host config default work privat run ,Access Control,Authentication,ssh key configuration related to user authentication,ruby,GitHub
+TOPIC 9,password user valid email usernam creat chang account field model ,Access Control,Authentication,,ruby,GitHub
+TOPIC 10,exploit modul window metasploit vulner run framework session cve meterpret ,Software Vulnerabilities,Mitigation,metasploit penetration testing framework,ruby,GitHub
+TOPIC 0, certif server io objective-c code use error tri work problem ,Network Security,Digital Certificates,,objective-c,Stack Overflow
+TOPIC 1, app user login password authent sign method use deleg appl ,Access Control,Authentication,,objective-c,Stack Overflow
+TOPIC 2, encrypt key use data objective-c decrypt io string need code ,Cryptography,Encryption,,objective-c,Stack Overflow
+TOPIC 0,login user email auth log sign app cooki googl use ,Access Control,Authentication,,objective-c,GitHub
+TOPIC 1,fix leak memori credenti deleg relea wrong messag time crash,Software Vulnerabilities,Memory Management,Memory Leaks,objective-c,GitHub
+TOPIC 2,error id io client sandbox account sdk app plea tri ,Secure Development,Testing,,objective-c,GitHub
+TOPIC 3,key app hash gener bundl facebook updat sha copi android ,Cryptography,Encryption,,objective-c,GitHub
+TOPIC 4,request fix sign thank pull encod use look author chang ,Secure Development,GitHub/Reports,pull requests,objective-c,GitHub
+TOPIC 5,password master usernam chang enter app field user use exten ,Access Control,Authentication,password features,objective-c,GitHub
+TOPIC 6,use token user aw provid plea ident follow sdk cognito ,Access Control,Tokens,AWS user authentication ,objective-c,GitHub
+TOPIC 7,connect ssh date author host server use tri work pro ,Network Security,Client/Server,ssh connection security,objective-c,GitHub
+TOPIC 8,encrypt implement method decrypt work object block use ae actual,Cryptography,Encryption,,objective-c,GitHub
+TOPIC 9,sign updat app code build xcode script version signatur run ,Data Security,Digital Signature,,objective-c,GitHub
+TOPIC 10,file key databa support use privat protect store keychain thank,Data Security,Password/Data Storage,file and database protection by key,objective-c,GitHub
+TOPIC 11,certif server ssl valid work use cert self pin trust ,Network Security,Digital Certificates,certificate authentication,objective-c,GitHub
+TOPIC 12,version authent app user url behavior expect devic test case ,Secure Development,Implementation,,objective-c,GitHub
+TOPIC 13,type data ssh packet send read use channel work process ,Network Security,Client/Server,ssh data packet process,objective-c,GitHub
+TOPIC 0, encrypt key use code exampl swift certif data iv decrypt ,Cryptography,Encryption,,swift,Stack Overflow
+TOPIC 1, use swift request code io tri header work authent method ,Secure Development,Implementation,,swift,Stack Overflow
+TOPIC 2, user swift authent io login code app work sign credenti ,Access Control,Authentication,Credentials,swift,Stack Overflow
+TOPIC 3, error work io swift code use fail tri app xcode ,Secure Development,Testing,,swift,Stack Overflow
+TOPIC 4, certif server connect ssl http error io load trust secur ,Network Security,Digital Certificates,SSL,swift,Stack Overflow
+TOPIC 5, deleg method swift control view io user login want use ,Secure Development,Implementation,Delegation,swift,Stack Overflow
+TOPIC 6, password keychain store save swift io app user use want ,Data Security,Password/Data Storage,,swift,Stack Overflow
+TOPIC 7, app api token access appl authent sign io use servic ,Access Control,Tokens,API Tokens,swift,Stack Overflow
+TOPIC 8, check ye io tl secur swift md5 app rsa use ,Secure Development,Implementation,App Security,swift,Stack Overflow
+TOPIC 9, io code tri valid app error work subscript swift use ,Secure Development,Testing,,swift,Stack Overflow
+TOPIC 10, login facebook user app sign screen log io use swift ,Secure Development,Libraries/Configuration,Facebook Framework,swift,Stack Overflow
+TOPIC 11, user fireba rule account email firebas sign databa authent secur ,Secure Development,Libraries/Configuration,Firebase Configuration,swift,Stack Overflow
+TOPIC 12, swift code io use tri work secur need librari error ,Secure Development,Implementation,,swift,Stack Overflow
+TOPIC 13, url swift app access io work tri code file use ,Access Control,Authorization,,swift,Stack Overflow
+TOPIC 14, key string encod public swift use privat decod gener base64 ,Cryptography,Encoding,Cryptography Keys,swift,Stack Overflow
+TOPIC 15, cooki googl sign swift io login app wkwebview session use ,Access Control,Tokens,Session Management,swift,Stack Overflow
+TOPIC 16, usernam user swift block io app use code textfield want ,Access Control,Authentication,Users,swift,Stack Overflow
+TOPIC 17, swift encrypt data use code ae cryptoswift string decrypt tri ,Cryptography,Encryption,,swift,Stack Overflow
+TOPIC 18, hash swift use string function code valu gener exampl password ,Data Security,Password/Data Storage,,swift,Stack Overflow
+TOPIC 19, swift code use io method need tri work signatur password ,Secure Development,Implementation,,swift,Stack Overflow
+TOPIC 20, encrypt key data swift file decrypt openssl use need io ,Cryptography,Encryption,,swift,Stack Overflow
+TOPIC 0,key error ssh tri gener privat use git file url ,Cryptography,Encryption,ssh key generation,swift,GitHub
+TOPIC 1,warn io user project sign build access violat error link ,Secure Development,Implementation,,swift,GitHub
+TOPIC 2,encrypt data use string code decrypt let error encod server ,Cryptography,Encryption,,swift,GitHub
+TOPIC 3,test work chang implement signatur ad thank method updat add ,Secure Development,Implementation,,swift,GitHub
+TOPIC 4,key password app pass decrypt privat encrypt use gpg crash ,Data Security,Password/Data Storage,decrypt gpg/pgp key,swift,GitHub
+TOPIC 5,password app user login usernam authent field store token log,Access Control,Authentication,login password store,swift,GitHub
+TOPIC 6,swift websocket certif unsafepoint dev int fix bufferlen aee dcfc ,Network Security,Digital Certificates,swift websocket certificate authentication,swift,GitHub
+TOPIC 0, script powershel user tri use run login azur error group ,Access Control,Authorization,User privileges,powershell,Stack Overflow
+TOPIC 1, script powershel run file azur use server secur execut work ,Secure Development,Implementation,Scripting,powershell,Stack Overflow
+TOPIC 2, powershel key file encrypt use string password code secur decrypt ,Cryptography,Encryption,,powershell,Stack Overflow
+TOPIC 3, powershel script paramet variabl use pass function valu tri string ,Secure Development,Implementation,,powershell,Stack Overflow
+TOPIC 4, powershel script password work file run use tri server credenti ,Access Control,Authentication,Account Credentials,powershell,Stack Overflow
+TOPIC 5, password credenti user powershel script use run account domain remot ,Access Control,Authentication,Account Credentials,powershell,Stack Overflow
+TOPIC 6, certif powershel sign trust cert use ssl instal root key ,Network Security,Digital Certificates,,powershell,Stack Overflow
+TOPIC 0,microsoft id content github login document servic azur doc link ,Secure Development,Implementation,Microsoft Azure docs security issues,powershell,GitHub
+TOPIC 1,file use run script work test credenti password error user ,Secure Development,Testing,,powershell,GitHub
+TOPIC 2,thank updat chang certif sign encrypt review author contribut fix ,Secure Development,Implementation,Microsoft Azure docs security issues,powershell,GitHub
+TOPIC 0, perl password use ssh script tri key command server authent ,Network Security,Client/Server,Secure SSH,perl,Stack Overflow
+TOPIC 1, perl script file user use run server password secur code ,Data Security,Password/Data Storage,,perl,Stack Overflow
+TOPIC 2, hash perl array valu order refer use key return code ,Cryptography,Encryption,Hashing,perl,Stack Overflow
+TOPIC 3, python perl rubi languag password script work librari use need ,Secure Development,Implementation,,perl,Stack Overflow
+TOPIC 4, perl encrypt hash key use encod string decrypt code data ,Cryptography,Encryption,,perl,Stack Overflow
+TOPIC 5, perl password use version modul work code ssl tri openssl ,Secure Development,Implementation,,perl,Stack Overflow
+TOPIC 6, perl php function use work tri code encrypt express need ,Secure Development,Implementation,,perl,Stack Overflow
+TOPIC 7, cooki perl login page web session user use script form ,Access Control,Authentication,User Login,perl,Stack Overflow
+TOPIC 8, certif ssl use server perl connect code work version valid ,Network Security,Digital Certificates,,perl,Stack Overflow
+TOPIC 9, comma unescap escap url-escap properly? forbidden %2c return-valu raw cooki ,Software Vulnerabilities,Network Exploits,Input Validation,perl,Stack Overflow
+TOPIC 10, token url field user form mac valid string encod secret ,Cryptography,Encoding,,perl,Stack Overflow
+TOPIC 0,transdecod transcript fasta metaspad dir longest orf cd pl app ,Secure Development,Implementation,Transdecoder security implementation,perl,GitHub
+TOPIC 1,password use hash work user chang ssl file login test ,Data Security,Password/Data Storage,,perl,GitHub
+TOPIC 0, key encrypt use code hash decrypt golang function file gener ,Cryptography,Encryption,,go,Stack Overflow
+TOPIC 1, certif server client use tl connect ssl key error need ,Network Security,Digital Certificates,,go,Stack Overflow
+TOPIC 2, user authent use token cooki request code api need app ,Access Control,Tokens,,go,Stack Overflow
+TOPIC 0,valid encod decod valu type string return json header field ,Cryptography,Encoding,,go,GitHub
+TOPIC 1,approv comment pull request assign plea write file command list ,Secure Development,GitHub/Reports,Pull request,go,GitHub
+TOPIC 2,proxi port ip connect host server network http domain dn ,Network Security,Client/Server,proxy servers,go,GitHub
+TOPIC 3,hash signatur file sha sign checksum download verifi md packag ,Data Security,Digital Signature,data validation,go,GitHub
+TOPIC 4,tl client server connect config insecur ssl cipher support configur ,Network Security,Client/Server,server connect authentication,go,GitHub
+TOPIC 5,report impact diff vulner power tree increa click comment attack ,Software Vulnerabilities,Mitigation,vulnerabilities report and fix,go,GitHub
+TOPIC 6,docker imag contain run user registri command privileg machin buil,Other,,docker image security,go,GitHub
+TOPIC 7,password login user token cooki usernam oauth account access session ,Access Control,Tokens,Token-based authentication,go,GitHub
+TOPIC 8,block leak cach memori transact stream time index channel alloc ,Software Vulnerabilities,Memory Management,memory leak (code security),go,GitHub
+TOPIC 9,authent auth user ldap server basic configur support ad method ,Access Control,Authentication,web/ldap authentication,go,GitHub
+TOPIC 10,certif cert ca sign ssl root spoof chain self terraform ,Network Security,Digital Certificates,certificate authentication,go,GitHub
+TOPIC 11,log address singular hardwar sy sandbox audit event nat attempt ,Secure Development,Implementation,log process (code imlementation),go,GitHub
+TOPIC 12,key encrypt privat public file secret decrypt vault use store ,Cryptography,Encryption,public-key signature system,go,GitHub
+TOPIC 13,test fix chang merg updat add ad sign coverag review ,Secure Development,Testing,test bug or security fix,go,GitHub
+TOPIC 14,node kubelet etcd fail sh master hack lib kubernet eb ,Secure Development,Libraries/Configuration,cluster security configuration,go,GitHub
+TOPIC 15,crypto com packag golang transport github org prometheu src nonc ,Cryptography,Encryption,crypto package,go,GitHub
+TOPIC 16,cluster control kubernet ingress creat servic secret pod manag rancher ,Network Security,Digital Certificates,cluster certifate management,go,GitHub
+TOPIC 17,sign email github git cla author repli thank plea contributor ,Secure Development,GitHub/Reports,git configuration,go,GitHub
+TOPIC 18,credenti command config file script variabl inject environ cli run ,Access Control,Authentication,user credentials,go,GitHub
+TOPIC 19,use need think make support want work implement case secur ,Secure Development,Implementation,,go,GitHub
+TOPIC 20,aw secur group resourc id plea creat provid help lock ,Access Control,Authorization,AWS secuirty certificate authentication,go,GitHub
+TOPIC 21,error version work tri use fail expect behavior thank problem,Secure Development,Testing,error report,go,GitHub
+TOPIC 22,ssh rsa debug key ae openssh sha id msg type ,Cryptography,Encryption,cryptography algorithms,go,GitHub
+TOPIC 23,close stale mark whitelist inact test plea blacklist fresh activ ,Access Control,Authorization,stale message (code security),go,GitHub
+TOPIC 0, typescript code error javascript use encrypt angular need tri gener ,Secure Development,Implementation,,typescript,Stack Overflow
+TOPIC 1, angular request use token typescript authent api cooki http code ,Access Control,Tokens,,typescript,Stack Overflow
+TOPIC 2, valid angular form error password function typescript work use tri ,Access Control,Authentication,Login Form,typescript,Stack Overflow
+TOPIC 3, typescript javascript function code type compil error valid declar use ,Secure Development,Implementation,,typescript,Stack Overflow
+TOPIC 4, typescript type error use object follow interfac function code assign ,Secure Development,Implementation,Type Errors,typescript,Stack Overflow
+TOPIC 5, inject angular class servic typescript use compon html sanit tri ,Software Vulnerabilities,Network Exploits,Injection,typescript,Stack Overflow
+TOPIC 6, type typescript assign signatur properti compil index valu code string ,Secure Development,Implementation,,typescript,Stack Overflow
+TOPIC 7, login user angular error authent compon typescript page code password ,Access Control,Authentication,,typescript,Stack Overflow
+TOPIC 0,exten autodelet addon delet html protect mozilla import wallet sftp ,Secure Development,Libraries/Configuration,Addons,typescript,GitHub
+TOPIC 1,password user login authent token use usernam credenti auth request ,Access Control,Authentication,,typescript,GitHub
+TOPIC 2,key ssh file debug command privat vscode sign code git ,Network Security,Client/Server,ssh,typescript,GitHub
+TOPIC 3,test chang fix updat add build new request pull ad ,Secure Development,Testing,,typescript,GitHub
+TOPIC 4,js hash modul file script asset node sha lib app ,Secure Development,Libraries/Configuration,hash application,typescript,GitHub
+TOPIC 5,type valid signatur error function use code typescript valu encod ,Software Vulnerabilities,Network Exploits,Input Validation,typescript,GitHub
+TOPIC 6,sign plea thank author github request automat use email packag ,Secure Development,GitHub/Reports,,typescript,GitHub
+TOPIC 7,test secur api space fail failur integr ts object save ,Secure Development,Testing,,typescript,GitHub
+TOPIC 8,use think need user make work want secur encrypt option ,Secure Development,Implementation,,typescript,GitHub
+TOPIC 9,secur updat avail aw vulner report fix version codebuild day ,Software Vulnerabilities,Mitigation,Vulnerabilities,typescript,GitHub
+TOPIC 10,cooki delet whitelist site tab domain firefox browser close clean ,Access Control,Tokens,cookie and whitelist implementation,typescript,GitHub
+TOPIC 11,version bug log reproduc work step login os expect behavior ,Secure Development,Testing,Reproducing a bug,typescript,GitHub
+TOPIC 12,certif node server client connect opcua error openssl ssl use ,Network Security,Client/Server,,typescript,GitHub

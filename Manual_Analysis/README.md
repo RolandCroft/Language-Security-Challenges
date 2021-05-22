@@ -1,0 +1,2 @@
+### Manual Analysis
+Manually analysed question categories for RQ2, using the taxonomy of *Beyer et al. (What kind of questions do developers ask on Stack Overflow? A comparison of automated approaches to classify posts into question categories)*

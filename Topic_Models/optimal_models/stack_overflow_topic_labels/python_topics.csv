@@ -1,0 +1,19 @@
+Topic ID,Top Words,Category,Sub-Category,Specifics
+TOPIC 0, script ssh python run connect server command use window remot ,Network Security,Client/Server,SSH
+TOPIC 1, hash salt md5 password function gener algorithm use valu string ,Data Security,Password/Data Storage,Password Hashing
+TOPIC 2, python code use tri work script modul run librari follow ,Secure Development,Testing,
+TOPIC 3, json sql queri string databa data inject paramet mysql input ,Software Vulnerabilities,Network Exploits,SQL Injection
+TOPIC 4, key rsa public privat use encrypt gener python openssl messag ,Cryptography,Encryption,Public Private Key
+TOPIC 5, password code error tri python function return usernam check work ,Access Control,Authentication,Credentials
+TOPIC 6, certif ssl server client connect python error use http request ,Network Security,Digital Certificates,
+TOPIC 7, cli anaconda ansibl odoo cisco dll index.html flask-admin celeri vote ,Secure Development,Libraries/Configuration,Python Frameworks
+TOPIC 8, password user usernam store databa creat ldap login python use ,Data Security,Password/Data Storage,Password storage
+TOPIC 9, sign signatur verifi m2crypto verif valid video assert fireba digest ,Data Security,Digital Signature,
+TOPIC 10, authent user api use token app python access flask googl ,Access Control,Tokens,
+TOPIC 11, android mongodb revok psycopg2 pfx 2.7.9 crl blob frame 3.7 ,Secure Development,Libraries/Configuration,Mobile Development
+TOPIC 12, secur make time attack data gener want implement possibl need ,Software Vulnerabilities,Network Exploits,Timing Attacks
+TOPIC 13, django form view request csrf login user post field use ,Software Vulnerabilities,Network Exploits,CSRF
+TOPIC 14, encrypt decrypt python encod string byte use data code decod ,Cryptography,Encryption,
+TOPIC 15, file line read upload download aw content open csv retri ,Network Security,File Transfer,
+TOPIC 16, group reset xml signal scrapi authori wordpress menu programat member ,Secure Development,Implementation,Web Development
+TOPIC 17, login cooki page session log websit browser site request url ,Access Control,Tokens,Session Management

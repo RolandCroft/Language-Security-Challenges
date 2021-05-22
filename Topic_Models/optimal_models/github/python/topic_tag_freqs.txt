@@ -1,0 +1,100 @@
+TOPIC 0: 
+issue 1123
+pr 1052
+
+
+TOPIC 1: 
+issue 260
+pr 30
+
+
+TOPIC 2: 
+pr 129
+issue 115
+
+
+TOPIC 3: 
+pr 347
+issue 197
+
+
+TOPIC 4: 
+issue 324
+pr 159
+
+
+TOPIC 5: 
+issue 505
+pr 220
+
+
+TOPIC 6: 
+issue 358
+pr 123
+
+
+TOPIC 7: 
+issue 565
+pr 237
+
+
+TOPIC 8: 
+issue 150
+pr 56
+
+
+TOPIC 9: 
+pr 1692
+issue 79
+
+
+TOPIC 10: 
+issue 71
+pr 28
+
+
+TOPIC 11: 
+issue 552
+pr 147
+
+
+TOPIC 12: 
+issue 457
+pr 197
+
+
+TOPIC 13: 
+issue 713
+pr 438
+
+
+TOPIC 14: 
+issue 511
+pr 180
+
+
+TOPIC 15: 
+issue 852
+pr 91
+
+
+TOPIC 16: 
+issue 1047
+pr 70
+
+
+TOPIC 17: 
+issue 319
+pr 29
+
+
+TOPIC 18: 
+issue 790
+pr 30
+
+
+TOPIC 19: 
+issue 792
+pr 333
+
+

@@ -1,0 +1,17 @@
+TOPIC 0: api authent token request app oauth googl applic facebook use 
+TOPIC 1: ip address time number nonc attempt node.j bundl block nodej 
+TOPIC 2: sql mysql queri inject databa statement pdo prepar data insert 
+TOPIC 3: password hash salt store md5 databa function use gener algorithm 
+TOPIC 4: laravel authent symfoni control method custom user rout creat class 
+TOPIC 5: key public signatur privat sign rsa gener openssl creat saml 
+TOPIC 6: encod string decod ldap charact base64 php java c# json 
+TOPIC 7: file php script access server wordpress directori upload run ssh 
+TOPIC 8: url codeignit input xss html sanit data filter escap user 
+TOPIC 9: encrypt decrypt php key data use ae iv mcrypt pad 
+TOPIC 10: secur user use php make need want data know server 
+TOPIC 11: login password user usernam page log databa redirect php check 
+TOPIC 12: javascript page html imag browser js tag script php content 
+TOPIC 13: server certif ssl connect curl http php client error use 
+TOPIC 14: php code work tri use function error problem return follow 
+TOPIC 15: cooki session user id store log page token browser login 
+TOPIC 16: form valid ajax submit email send field post jqueri data 

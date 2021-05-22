@@ -1,0 +1,11 @@
+TOPIC 0: asset app file imag rail png path url gener work 
+TOPIC 1: net ssh debug connect kb type info sha session server 
+TOPIC 2: login authent token request credenti api access user use log 
+TOPIC 3: certif ssl work openssl use version error updat verifi sign 
+TOPIC 4: hash cooki method option valu default use fix updat safe 
+TOPIC 5: gem rubi rb lib googl cloud instal secur home version 
+TOPIC 6: test fix thank chang check add look pull commit merg 
+TOPIC 7: think encrypt secur make implement need use want requir support 
+TOPIC 8: key ssh vagrant use host config default work privat run 
+TOPIC 9: password user valid email usernam creat chang account field model 
+TOPIC 10: exploit modul window metasploit vulner run framework session cve meterpret 

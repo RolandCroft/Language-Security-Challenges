@@ -1,0 +1,858 @@
+TOPIC 0: 
+perl ssh 20
+perl 19
+perl security 5
+perl sftp 5
+perl scp 4
+perl sftp ssh 3
+linux perl ssh 2
+perl scp ssh 2
+perl ssh windows 2
+perl perl-module 2
+openssh perl ssh 2
+authentication perl 2
+digital-signature pdf perl 2
+bash perl ssh 2
+module perl ssh 2
+perl perlnetssh ssh 2
+command linux perl python security 1
+bash linux perl security ssh 1
+passwords perl unix username 1
+csrf dancer perl plack 1
+encryption linux passwords perl unix 1
+code-analysis graph perl security 1
+.htaccess lighttpd perl security video-streaming 1
+passwords perl 1
+bash linux logging perl security 1
+linux perl privileges security 1
+alphanumeric passwords perl 1
+perl soap web-services ws-security xml 1
+encryption perl permutation security 1
+passwords perl windows windows-console 1
+authentication dancer hash passwords perl 1
+awk passwords perl shadow 1
+email perl security web 1
+expect loops passwords perl 1
+login-script perl security session-cookies www-mechanize 1
+cryptography perl rsa 1
+awk bash perl security 1
+directory-traversal perl security shell ssh 1
+http perl security 1
+bash escaping passwords perl quotes 1
+cmd perl security 1
+passwords perl scp 1
+code-access-security obfuscation perl reverse-engineering 1
+https perl security ssl 1
+penetration-testing perl security 1
+cryptography encryption error-handling perl 1
+cryptography perl 1
+passwords perl ssh 1
+perl regex security 1
+macos passwords perl 1
+expect passwords perl permissions 1
+authentication automation passwords perl ssh 1
+bash linux perl remote-access remote-server 1
+network-programming perl ssh 1
+perl perlnetssh public-key-encryption ssh 1
+ftp perl scp 1
+bash hash perl solaris 1
+jenkins perl terminal 1
+lftp perl sftp ssh 1
+mechanize perl two-factor-authentication www-mechanize 1
+authentication catalyst openid perl 1
+big-ip f5 perl ssh 1
+fork perl perl-module 1
+perl public-key-encryption ssh 1
+ftp perl sftp ssh 1
+firewall perl scripting windows 1
+dbi encryption nagios perl sybase 1
+bcrypt perl 1
+mod-perl perl 1
+net-sftp perl rsa sftp 1
+cpan file-io perl ssh 1
+connection hp-ux perl sftp unix 1
+perl sharepoint-2010 1
+perl php sql ssh 1
+authentication catalyst cgi libssh2 perl 1
+aes encryption linux perl ssh 1
+multithreading perl unsafe 1
+perl ssh sudo unix 1
+cgi perl 1
+google-authentication mojolicious oauth-2.0 perl 1
+cgi escaping perl 1
+ipc perl pipe ssh x11 1
+expect perl ssh tcl 1
+nonblocking perl poe session ssh 1
+perl put sftp 1
+perl ssh timeout 1
+cmd linux perl window 1
+lwp lwp-useragent perl 1
+perl remote-file-inclusion 1
+big5 encode perl utf-8 1
+cgi perl ssh 1
+perl soap wss xml 1
+authentication ftp perl 1
+net-ssh perl perl-module ssh 1
+execution perl ssh 1
+multithreading perl ssh 1
+file-transfer net-sftp perl sftp 1
+oauth perl vimeo 1
+credentials ntlm perl web-services 1
+cgi lwp-useragent perl 1
+git linux perl ssh 1
+c# encryption perl rijndael rsa 1
+perl shell ssh 1
+oauth perl 1
+amazon login mechanize perl 1
+md5sum perl sha2 sha256 1
+linux perl ssh-keys windows 1
+irc perl poe rsa 1
+bash linux perl ssh 1
+perl sign ssh 1
+elasticsearch perl plugins 1
+openssh perl switch-statement 1
+perl perl-module ssh 1
+perl ssh tail 1
+ftp openssh perl sftp ssh 1
+crypt decode ldap perl 1
+opendir perl strawberry-perl 1
+perl pty sftp unix 1
+console encoding perl readline terminal 1
+centos6 perl ssh 1
+bash perl ssh ssh-keys 1
+dsa gnupg perl pgp rsa 1
+active-directory ldap perl 1
+perl signals 1
+authentication expect.pm interpolation perl telnet 1
+cgi encryption javascript perl post 1
+linux perl shell 1
+apache perl ssh 1
+email perl 1
+cookies dancer perl session strawberry-perl 1
+hp-ux perl sftp 1
+cpan openssl perl 1
+amazon-s3 amazon-web-services perl 1
+debian linux perl ssh 1
+digital-signature perl public-key-encryption rsa 1
+openssh perl perl-module 1
+perl xcode 1
+cpan perl 1
+perl php ssh 1
+perl sftp windows 1
+cookies perl php 1
+automation perl secure-crt ui-automation 1
+perl rsync ssh 1
+cisco perl switch-statement telnet 1
+android encode encryption java perl 1
+linux perl unix 1
+perl perl-module sftp ssh ssh-keys 1
+perl unix 1
+openssl perl rsa 1
+dsa openssl perl php-openssl 1
+bash perl shell ssh 1
+authentication perl plack server session 1
+amazon-ec2 openssh perl 1
+net-ssh perl perlnetssh pp-perl-par-packager strawberry-perl 1
+cpan openssh perl ssh 1
+code-signing perl signtool unix 1
+mason perl 1
+authentication cpan perl ssh 1
+digital-signature perl xml 1
+cgi cookies perl redirect 1
+perl php 1
+authentication git perl 1
+bash linux perl 1
+asn.1 perl pkcs#8 1
+expect perl ssh 1
+openssh perl scp 1
+output perl 1
+jenkins lwp-useragent perl 1
+parallel-processing perl ssh 1
+apache mod-perl2 oauth perl reverse-proxy 1
+ftp perl sftp 1
+bash clearcase linux openssh perl 1
+dancer openid perl yahoo 1
+perl ssh unix 1
+perl unc 1
+authentication basic-authentication cgi http perl 1
+perl putty ssh 1
+cgi-application google-authentication perl 1
+perl variables 1
+perl ssh ssh-keys 1
+java perl ssh 1
+cookies perl 1
+centos memory multithreading perl thread-safety 1
+cisco perl router ssh telnet 1
+active-directory netldap perl 1
+perl plink sftp ssh windows 1
+command-line perl 1
+perl regex server 1
+perl perl-module scp 1
+api nessus perl 1
+event-handling perl signals ssh 1
+openssl perl windows 1
+perl authentication ssh connection f5 1
+perl sftp putty 1
+perl openssl ssl-certificate 1
+perl sftp file-transfer 1
+
+
+TOPIC 1: 
+perl 14
+perl security 3
+perl regex security 2
+exploit perl security 2
+encryption perl 2
+cgi perl redirect 2
+cgi perl 2
+perl ssh 2
+ftp passwords perl security 1
+dbi orm perl security sql-injection 1
+bash passwords perl shell unix 1
+code-injection perl security sendmail 1
+dns filtering get perl security 1
+perl security shell 1
+encryption ldap perl security 1
+cgi-bin perl security 1
+perl security taint-checking 1
+database encryption mysql perl security 1
+linux perl security wordpress 1
+linux perl security sudo 1
+formmail perl post security 1
+dbi mysql perl postgresql sql-injection 1
+java jsp perl security web-applications 1
+perl sql sql-injection sybase 1
+database-connection perl security 1
+netcat perl security system-calls 1
+perl php security sql-server ssas 1
+forms javascript perl security 1
+encryption linux perl security unix 1
+cgi networking perl security 1
+apache perl security 1
+authentication perl security 1
+encryption expect passwords perl 1
+linux perl security spam 1
+mysql perl security 1
+code-injection perl protection security 1
+bash mysql perl security shell 1
+cgi database javascript perl xss 1
+file perl security 1
+cgi iptables perl security taint 1
+perl security xss 1
+dhcp nagios nrpe perl security 1
+pdf perl security 1
+cgi perl xss 1
+cgi perl security unix 1
+perl rtf security 1
+dbi perl sql-injection 1
+perl php security server xampp 1
+filesystems linux perl regex security 1
+backup cpanel passwords perl 1
+linux perl raspberry-pi security 1
+owasp perl security 1
+dbi odbc perl security sql-server 1
+arguments arrays command-line passwords perl 1
+mysql perl security sql 1
+cgi cgi-bin perl security webserver 1
+code-injection perl python security 1
+in-memory perl sftp 1
+distributed perl sysadmin 1
+perl proxy ssl web-scraping www-mechanize 1
+apache2 cgi perl 1
+chromium cookies perl sqlite 1
+bitbucket-server cookies curl perl 1
+dbd-mysql dbi mysql perl 1
+cgi perl session 1
+perl sql 1
+https openssl perl ssl 1
+captcha javascript perl refresh 1
+http-status-codes https perl 1
+encryption perl syntax-error 1
+dancer perl postgresql 1
+linux password-protection perl perl-module sftp 1
+extract perl regex variables 1
+bash perl ssh 1
+apache perl 1
+http lwp perl 1
+certificate https perl ssl web 1
+authentication perl wcf web-services 1
+change-password perl root ssh 1
+configuration perl shell 1
+bash perl shell 1
+bash linux openvpn perl python 1
+perl shell wikipedia-api 1
+encryption linux perl ssl ssl-certificate 1
+apache cgi perl 1
+anyevent asynchronous dancer perl ssh 1
+credentials ntlm perl www-mechanize 1
+download openid perl python 1
+dbi mysql perl 1
+cgi jquery perl php 1
+asp.net perl url 1
+.netrc apache cgi git perl 1
+ldap mongodb perl tunneling 1
+cgi formmail forms perl webforms 1
+lwp-useragent perl ssl 1
+crypt encryption perl 1
+accounts linux perl 1
+argon2-ffi cgi password-encryption perl 1
+net-snmp perl snmp 1
+perl ssl 1
+cgi linux perl sudo 1
+cgi ldap perl tomcat unix 1
+centos linux perl 1
+authentication catalyst ldap perl 1
+c# parameters perl rsa rsacryptoserviceprovider 1
+javascript perl sql-server windows-server-2008 1
+bash ksh oracle perl 1
+apache cgi git perl ssh 1
+active-directory authentication ldap perl 1
+batch-file clearquest perl 1
+authentication ldap login netldap perl 1
+character parameter-passing perl php post 1
+64-bit activestate openssl perl perl-module 1
+cpan lwp perl ssl vmware 1
+bing perl search-engine 1
+ldap perl unix 1
+lwp openssl perl ssl-certificate windows 1
+catalyst perl 1
+lwp perl www-mechanize 1
+perl regex 1
+linux lwp-useragent perl 1
+active-directory authentication dancer perl web-services 1
+google-api google-calendar-api google-oauth oauth-2.0 perl 1
+active-directory authentication kerberos ldap perl 1
+dancer perl 1
+macos perl scripting shell 1
+capture openssh perl ssh 1
+openssl perl ssl x509 1
+hostname perl ssl verify 1
+arrays hash perl regex 1
+mysql perl 1
+oracle perl 1
+apache javascript perl threat-model 1
+dbi oracle perl 1
+authentication mechanize perl ssl www-mechanize 1
+client-certificates openssl perl sign ssl-certificate 1
+javascript jquery json mysql perl 1
+javascript perl ssl 1
+bind ldap perl 1
+crypt perl shell 1
+apache perl php unix 1
+perl template-toolkit 1
+batch-file perl svn 1
+buffer-overflow c linux perl 1
+perl ssl xml-rpc 1
+cookies mechanize mojo mojolicious perl 1
+authentication nis pam perl unix 1
+authentication cgi perl 1
+perl recaptcha 1
+command-line etrade-api oauth perl wget 1
+perl php shell 1
+automation perl ssh 1
+macos perl python sign 1
+perl proxy web-scraping 1
+amazon-ses amazon-web-services lwp perl ssl 1
+openssh perl python ssh 1
+ldap login perl 1
+https lwp openssl perl squid 1
+basic-authentication cgi perl 1
+buffer-overflow command-line fuzzing perl 1
+cgi cookies perl 1
+deobfuscation linux perl 1
+grep linux perl pipe 1
+openssh pcre perl regex ssh 1
+environment-variables perl ssh 1
+digital-certificate digital-signature perl 1
+ldap perl 1
+.htaccess cgi ldap perl 1
+crontab perl perlnetssh remote-login sudo 1
+bash perl 1
+config dancer encryption nginx perl 1
+api authentication http perl rest 1
+login perl post python request 1
+perl plack poet psgi 1
+javascript packet-capture perl web 1
+linux perl perl-module sftp unix 1
+apache authentication http logging perl 1
+cgi digest-authentication perl 1
+ejabberd perl xmpp 1
+apache authorization mod-perl perl 1
+mongodb perl ssl 1
+authorization cgi perl 1
+perl soap soaplite ssl 1
+openssl perl syntax 1
+apache cgi linux param perl 1
+perl php ssl ssl-certificate 1
+gentoo perl ssl 1
+database encryption perl sqlite 1
+html mysql perl php 1
+error-handling eval perl try-catch 1
+openssl perl 1
+perl checkmarx 1
+perl cassandra openssl macos-catalina 1
+
+
+TOPIC 2: 
+hash perl 6
+perl 3
+dns packet-injection perl security 1
+c# cryptography mathematical-optimization perl php 1
+dbi oracle perl security sql-injection 1
+aspdotnetstorefront perl sql-injection sql-server 1
+dbd-proxy dbi perl proxy security 1
+passwords perl unix 1
+hash iteration perl replicate 1
+arrays md5 md5sum perl unix 1
+perl twitter vbscript 1
+perl phantomjs 1
+json perl 1
+hash json perl 1
+hash perl reference 1
+hash json perl reference scalar 1
+encoding hash json perl utf-8 1
+perl perl-data-structures perl-hash 1
+hash moose perl traits 1
+gnupg perl 1
+dkim perl 1
+hash multidimensional-array nested perl syntax 1
+perl www-mechanize 1
+deserialization hash perl serialization sockets 1
+hash key perl random 1
+arrays hash perl reference 1
+hashtable perl 1
+hudson mechanize perl post 1
+c# iis java perl ssl-certificate 1
+dbi perl signals 1
+arrays hash json perl 1
+hash-of-hashes perl 1
+data-dumper perl perl-hash 1
+decode lwp lwp-useragent perl request 1
+xml perl 1
+
+
+TOPIC 3: 
+cgi networking perl security 1
+penetration-testing perl python ruby security 1
+perl security xss 1
+kerberos perl 1
+bots javascript perl web-crawler 1
+dkim domainkeys perl python 1
+openssl perl rsa x509 1
+c# perl python readfile truecrypt 1
+django perl python sha 1
+gnupg perl 1
+openssl perl windows-7 1
+perl scrypt 1
+perl 1
+.htpasswd perl regex variables 1
+c# perl python ruby x509 1
+
+
+TOPIC 4: 
+encryption perl 7
+blowfish encryption perl 3
+perl 3
+encryption perl php 2
+encryption openssl perl rsa 2
+bcrypt perl 2
+openssl perl 2
+json perl 2
+ascii cryptography encryption perl unpack 1
+encoding perl security utf-8 1
+cryptography hash md5 perl 1
+cryptography encryption perl rijndael 1
+cryptography encryption json perl 1
+c code-access-security perl reverse-engineering 1
+cryptography encryption encryption-asymmetric perl rsa 1
+cryptography endianness javascript perl rsa 1
+cryptography elliptic-curve perl public-key 1
+cryptography json perl public-key rsa 1
+cryptography perl pkcs#1 1
+encryption java perl security 1
+perl python r screen-scraping security 1
+perl security sha1 1
+cpan cryptography perl 1
+perl security uuid 1
+blowfish cryptography openssl perl 1
+blowfish cryptography encryption perl python 1
+perl postgresql security 1
+cryptography password-encryption passwords perl salt 1
+cryptography perl rsa 1
+hash passwords perl unpack 1
+aes cryptography perl rijndael ruby 1
+perl passwords sha256 1
+ajax javascript mysql perl utf-8 1
+aes blowfish perl 1
+encryption-symmetric hash perl 1
+perl unicode 1
+aes encryption perl php 1
+checksum module perl 1
+dsa openssl perl 1
+3des ecb encryption perl php 1
+dancer perl unicode 1
+decode encode encryption perl 1
+google-identity-toolkit jwt perl sha256 x509 1
+perl rsa 1
+encryption md5 perl sha 1
+mcrypt perl php 1
+data-dumper perl 1
+perl php 1
+encryption encryption-symmetric linux perl 1
+pem perl pki 1
+benchmarking filecompare md5 perl sha 1
+amazon-web-services perl perlnetssh ssh 1
+encoding escaping perl 1
+checksum encryption md5 perl rsa 1
+authentication dancer perl postgresql sha 1
+dollar-sign encryption openssl perl 1
+blowfish encryption openssl perl ruby 1
+base64 encryption perl string 1
+.net c# encryption integrity perl 1
+aes encryption perl php php-openssl 1
+hashmap perl 1
+aes perl 1
+c# perl 1
+base64 password-encryption perl 1
+hmac key perl sha1 uuid 1
+bash linux perl python ruby 1
+checksum cpan hashcode perl string 1
+c# encryption perl 1
+compatibility delphi encryption perl 1
+aes encryption perl ruby 1
+encryption perl sha 1
+encryption perl rc4-cipher unpack 1
+des encryption file-handling perl 1
+perl php xml 1
+blowfish encryption perl pycrypto python 1
+cbc-mode crypt perl 1
+javascript json mojolicious perl utf-8 1
+mojolicious perl session-cookies 1
+encoding perl6 1
+decode encode encryption perl python 1
+hmac perl 1
+encryption gost28147 perl 1
+http-post json lwp perl uri 1
+mojolicious perl 1
+md5 perl soaplite 1
+.net c# encryption perl rijndael 1
+aes c# encryption perl rijndaelmanaged 1
+perl smime 1
+binary bit byte perl string 1
+node.js perl 1
+passphrase perl private-key public-key rsa 1
+perl regex 1
+logging perl 1
+c# hmacsha1 perl 1
+google-api json perl 1
+pem perl ssl x509 1
+character-encoding html javascript perl 1
+hash md5 perl 1
+blowfish encryption java perl 1
+decode encode json performance perl 1
+perl sha 1
+bcrypt blowfish encryption perl python 1
+base64 catalyst perl 1
+crypt perl 1
+encryption perl sign 1
+encryption openssl perl rsa x509certificate 1
+bcrypt blowfish hash perl salt 1
+encryption openssl passbook perl pkcs#7 1
+java md5sum perl shell 1
+c crypt encryption perl 1
+data-structures perl signature 1
+blowfish perl 1
+google-latitude oauth perl 1
+decode encode perl perl-module utf-8 1
+crypt encryption perl perl-module 1
+encryption perl public-key-encryption rsa 1
+blowfish encryption perl python 1
+encryption perl public-key python rsa 1
+key perl ssl 1
+encryption perl string 1
+arrays perl python 1
+hash oauth perl 1
+perl ssh 1
+md5 perl 1
+linux perl ubuntu user-administration 1
+certificate openssl perl php self-signed 1
+perl6 1
+character-encoding perl 1
+email encoding perl subject utf-8 1
+arrays compare directory md5 perl 1
+java perl sha1 1
+encoding perl unicode 1
+digest encryption hmac perl sha1 1
+ansi blowfish perl utf-8 1
+perl php rsa 1
+checksum md5 perl 1
+foreach hash perl 1
+blowfish c++ encryption perl 1
+encryption linux perl 1
+hash md5 perl sha sha256 1
+base64 encryption perl rijndael 1
+perl pgp 1
+java perl encryption aes cbc-mode 1
+
+
+TOPIC 5: 
+openssl perl 2
+lwp perl ssl 2
+perl ssl 2
+ldap perl 2
+openssl perl ssl 2
+perl regex security taint 1
+echo passwords perl terminal 1
+brute-force passwords perl while-loop 1
+brute-force combinations passwords perl system-calls 1
+encryption java openssl passwords perl 1
+parosproxy perl security web-applications 1
+mojolicious mojolicious-lite perl security 1
+passwords perl 1
+penetration-testing perl proxy security 1
+excel passwords perl 1
+apache cgi-application csrf csrf-protection perl 1
+cgi perl security 1
+encode encryption passwords perl 1
+expect.pm passwords perl 1
+encryption passwords perl php 1
+excel passwords perl php 1
+ldap passwords perl winapi 1
+perl security 1
+java keycloak-services passwords perl regex 1
+perl security xml 1
+passwords perl terminal 1
+csrf http-post perl 1
+aes cbc-mode java perl 1
+perl perl-module perl5.16 rest 1
+perl regex 1
+otrs perl 1
+cgi perl 1
+ldap perl perl-module ssl 1
+mojolicious perl 1
+javascript perl rar 1
+perl sftp 1
+cpan encoding perl uri 1
+authentication perl 1
+perl ssl ssl-certificate 1
+encoding multithreading perl thread-safety windows 1
+authentication cgi driver perl 1
+encryption java perl 1
+ldap perl ssl 1
+aes encryption java perl 1
+hmac perl secret-key sha256 1
+multithreading perl thread-safety 1
+csr openssl parsing perl 1
+mojolicious ntlm perl 1
+bash email perl 1
+lwp lwp-useragent perl proxy ssl 1
+perl ssl windows 1
+pdftk perl 1
+active-directory encryption perl smtp 1
+credentials lwp-useragent perl restful-url web-services 1
+c encryption openssl perl rsa 1
+ldap perl rt 1
+ftp perl ssl 1
+io-socket-ssl lwp perl ssl 1
+google-spreadsheet-api perl 1
+paypal paypal-ipn perl ssl 1
+lwp-useragent perl ssl 1
+authentication ldap perl 1
+mechanize perl 1
+bash deobfuscation obfuscation perl 1
+encryption ms-word perl 1
+lwp lwp-useragent paypal perl ssl 1
+excel linux perl 1
+authentication gmail login-script module perl 1
+perl public-key-encryption 1
+perl single-sign-on windows 1
+paypal-sandbox perl 1
+file pdf perl php 1
+linux perl 1
+ftp java perl ssl 1
+bash gnupg perl python 1
+perl ssl tls1.2 1
+email perl ssl 1
+perl rest restful-url ssl 1
+imapclient perl sockets ssl 1
+perl 1
+perl tls1.2 lwp-useragent 1
+
+
+TOPIC 6: 
+cryptography perl php 1
+algorithm cryptography encryption perl php 1
+perl regex security user-input 1
+cryptography openssl perl rsa x509 1
+encryption perl recaptcha security token 1
+cryptography openssl perl php python 1
+cryptography encryption fips perl security 1
+blowfish cryptography encryption mcrypt perl 1
+perl random reverse-engineering security srand 1
+md5 perl php regex validation 1
+openssl perl smime 1
+cgi.pm cookies perl 1
+aes cbc-mode openssl perl php 1
+encryption perl php php-7 1
+openssl perl 1
+libgcrypt perl php 1
+openssl perl rc4-cipher 1
+pack perl php unpack 1
+api oauth perl sign twitter 1
+curl oauth perl twitter 1
+encryption expect perl zip 1
+perl ssl windows-xp 1
+captcha perl php 1
+crypt perl 1
+cbc-mode des encryption perl 1
+perl sockets ssl 1
+perl php smartcard x509 1
+angularjs mojolicious perl session-cookies 1
+perl utf8-decode 1
+oauth perl yammer 1
+mojolicious perl websocket 1
+aes c# encryption perl rijndaelmanaged 1
+apache kerberos openldap perl sasl 1
+perl twitter twitter-oauth 1
+perl sftp 1
+pbkdf2 perl sha512 1
+perl 1
+cookies perl 1
+cfb-mode crypt perl php rijndael 1
+coldfusion crypt encryption perl 1
+javascript regex perl nginx 1
+
+
+TOPIC 7: 
+perl 3
+cgi perl 2
+perl saml 2
+bash linux passwords perl 1
+cryptography database eeprom perl php 1
+cookies csrf lwp perl rest 1
+cgi cookies login perl security 1
+apache csrf perl 1
+authentication csrf perl 1
+cgi double-submit-problem http-headers perl security 1
+cgi forms html perl xss 1
+cloudflare lwp lwp-useragent perl regex 1
+html jquery perl 1
+cgi forms perl 1
+authorization perl session 1
+apache cgi perl web-applications 1
+angularjs javascript perl web-scraping www-mechanize 1
+apache perl single-sign-on 1
+automation html perl www-mechanize 1
+cookies login mechanize perl 1
+curl perl url-encoding 1
+cookies mechanize perl 1
+cookies foreach invalidation perl 1
+login mechanize perl 1
+https perl web-services 1
+cgi comma cookies perl return-value 1
+bugzilla perl 1
+curl perl 1
+hash ip-address md5 perl privacy 1
+authentication perl smtp 1
+curl html perl php 1
+oauth perl twitter 1
+api perl 1
+authentication http perl post 1
+cookies facebook perl 1
+http perl request url urlencode 1
+cgi cookies crypt perl session-cookies 1
+cgi login logout perl session 1
+apache cookies mod-python mod-rewrite perl 1
+ajax javascript jquery perl 1
+cgi javascript perl 1
+login-script perl www-mechanize 1
+cgi html javascript jquery perl 1
+libssh2 perl 1
+lwp-useragent perl 1
+cookies html mechanize perl 1
+cgi perl session 1
+authentication cookies encryption perl 1
+curl html perl 1
+cookies facebook perl www-mechanize 1
+http perl response 1
+login-script mechanize perl 1
+lwp perl 1
+.htaccess apache httpd.conf perl 1
+cookies http-headers java perl php 1
+authentication cookies lwp-useragent perl 1
+perl recaptcha 1
+imagemagick mechanize perl python screen-scraping 1
+perl www-mechanize 1
+mechanize perl 1
+character-encoding html perl 1
+cgi cookies perl 1
+authentication perl 1
+fill forms login perl www-mechanize 1
+perl ssl https 1
+
+
+TOPIC 8: 
+perl 4
+perl security 2
+perl ssl 2
+parsing perl perl5 security 1
+cgi perl regex security 1
+cgi mysql performance perl security 1
+encryption passwords perl 1
+hash perl recaptcha 1
+dbi mariadb perl ssl 1
+mutual-authentication perl ssl 1
+openssl perl ssl 1
+ca certificate perl ssl 1
+lwp-useragent perl ssl verification 1
+certificate ldap perl starttls 1
+ldap perl 1
+perl public-key ssh 1
+interrupt-handling multithreading perl 1
+https mojolicious perl ssl 1
+longjmp perl signals 1
+perl www-mechanize 1
+dbi perl 1
+certificate perl ssl 1
+mechanize perl ssl www-mechanize 1
+executable perl6 1
+https lwp-useragent networking node.js perl 1
+perl pop3 ssl starttls 1
+https perl ssl 1
+io-socket-ssl perl ssl ssl-certificate 1
+http lwp-useragent perl 1
+lwp perl ssl 1
+curl mojolicious perl ssl 1
+lwp lwp-useragent openssl perl ssl 1
+curl javascript perl php 1
+html parsing perl text 1
+api lwp perl salesforce 1
+perl smtp ssl 1
+perl svn 1
+perl ssl www-mechanize 1
+perl ssl starttls 1
+authentication certificate email perl 1
+curl openssl perl ssl ubuntu 1
+perl ssl ssl-certificate validation 1
+dancer perl ssl 1
+https lwp perl ssl 1
+chain daemon https perl ssl 1
+rest perl curl 1
+perl perl-module strawberry-perl 1
+perl curl 1
+perl http ssl lwp-useragent 1
+perl sockets ssl 1
+
+
+TOPIC 9: 
+
+
+TOPIC 10: 
+perl twitter 1
+cgi perl redirect 1
+character-encoding perl utf-8 utf8-decode 1
+perl string unicode 1
+digital-signature html perl validation 1
+perl post 1
+
+

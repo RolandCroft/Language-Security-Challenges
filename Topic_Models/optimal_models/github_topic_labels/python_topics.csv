@@ -1,0 +1,21 @@
+Topic ID,Top Words,Category,Sub-Category,Specifics
+TOPIC 0,key encrypt file use privat creat public decrypt gener instanc ,Cryptography,Encryption,
+TOPIC 1,fail url signatur error download warn info version request ssl ,Data Security,Digital Signature,
+TOPIC 2,state modul new function servic time custom return base manag ,Secure Development,Implementation,
+TOPIC 3,hash api sign script behavior gpg ye remov refer messag ,Secure Development,Implementation,
+TOPIC 4,valid valu data code pass exampl object directli view thread ,Secure Development,Implementation,
+TOPIC 5,cooki encod decod string byte invalid output header input respon ,Access Control,Tokens,cookie value encryption
+TOPIC 6,server client connect request support use proxi tl http address ,Network Security,Client/Server,
+TOPIC 7,ansibl command modul environ result variabl compon type os use ,Secure Development,GitHub/Reports,ansible bug report
+TOPIC 8,ssh root id config debug host connect user file read ,Network Security,Client/Server,ssh configuration
+TOPIC 9,test fix chang pull merg add commit check review request ,Secure Development,Testing,
+TOPIC 10,openssl build linux includ lib copi hazmat py method src ,Secure Development,Libraries/Configuration,server security configuration openssl 
+TOPIC 11,secur attack sourc app browser protect page link applic vulner ,Software Vulnerabilities,Network Exploits,security attack
+TOPIC 12,thank close look plea comment activ contribut relea automat updat ,Other,,
+TOPIC 13,think make need implement want case thing use someth realli ,Secure Development,Implementation,security requirement
+TOPIC 14,certif sign ssl cert verifi ca transact use valid letsencrypt ,Network Security,Digital Certificates,
+TOPIC 15,descript report bug inform plea updat version step provid expect ,Secure Development,GitHub/Reports,bug report
+TOPIC 16, salt instal master version run python cloud debug setup depend ,Secure Development,Libraries/Configuration,salt installation and configuration
+TOPIC 17,python file py line packag lib usr site self local ,Other,,
+TOPIC 18,work tri error problem run version use follow log help,Secure Development,Testing,
+TOPIC 19,password user authent login usernam auth account token credenti admin ,Access Control,Authentication,

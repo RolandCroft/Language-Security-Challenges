@@ -1,0 +1,11 @@
+TOPIC 0: perl password use ssh script tri key command server authent 
+TOPIC 1: perl script file user use run server password secur code 
+TOPIC 2: hash perl array valu order refer use key return code 
+TOPIC 3: python perl rubi languag password script work librari use need 
+TOPIC 4: perl encrypt hash key use encod string decrypt code data 
+TOPIC 5: perl password use version modul work code ssl tri openssl 
+TOPIC 6: perl php function use work tri code encrypt express need 
+TOPIC 7: cooki perl login page web session user use script form 
+TOPIC 8: certif ssl use server perl connect code work version valid 
+TOPIC 9: comma unescap escap url-escap properly? forbidden %2c return-valu raw cooki 
+TOPIC 10: token url field user form mac valid string encod secret 

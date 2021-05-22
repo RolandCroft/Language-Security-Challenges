@@ -1,0 +1,7 @@
+TOPIC 0: script powershel user tri use run login azur error group 
+TOPIC 1: script powershel run file azur use server secur execut work 
+TOPIC 2: powershel key file encrypt use string password code secur decrypt 
+TOPIC 3: powershel script paramet variabl use pass function valu tri string 
+TOPIC 4: powershel script password work file run use tri server credenti 
+TOPIC 5: password credenti user powershel script use run account domain remot 
+TOPIC 6: certif powershel sign trust cert use ssl instal root key 

@@ -1,0 +1,1708 @@
+TOPIC 0: 
+ios swift 8
+swift 3
+firebase firebase-authentication swift 3
+security swift 2
+aes cryptography cryptoswift encryption swift 2
+facebook-login firebase firebase-authentication ios swift 2
+encryption ios swift 2
+google-signin ios swift 2
+ios iphone swift 2
+ios swift xcode 2
+ios objective-c swift xcode ios13 2
+cryptography ios swift 1
+authentication macos security shell swift 1
+app-transport-security facebook facebook-ios-sdk ios swift 1
+bluetooth-lowenergy core-bluetooth ios security swift 1
+content-security-policy swift urlsession 1
+access-control security swift 1
+app-transport-security ios ios9 swift 1
+cryptography swift 1
+authentication cryptography encryption ruby swift 1
+cocoa info.plist nsapptransportsecurity swift 1
+certificate cryptography elliptic-curve key-pair swift 1
+cryptography swift xcode6.4 1
+passwords swift validation vapor 1
+cryptography cryptoswift swift 1
+cryptography ecdh elliptic-curve ios swift 1
+commoncrypto cryptography ios objective-c swift 1
+ios php security swift 1
+nsapptransportsecurity swift xcode 1
+aes commoncrypto cryptography ios swift 1
+ios keychain objective-c security swift 1
+cryptography ios iphone swift 1
+commoncrypto cryptography swift swift4 1
+callback ios parse-platform passwords swift 1
+commoncrypto cryptography objective-c swift 1
+authentication passwords realm swift username 1
+ios objective-c security swift 1
+app-transport-security swift transport-security 1
+commoncrypto cryptography ios swift 1
+authorization cocoa macos security swift 1
+github security swift 1
+firebase firebase-realtime-database firebase-security ios swift 1
+ios objective-c security security.framework swift 1
+firebase firebase-authentication passwords swift 1
+cryptography swift swift4 1
+cryptography digital-signature objective-c swift touch-id 1
+frameworks ios security swift 1
+certificate macos objective-c security swift 1
+cryptography encryption swift 1
+cryptography ios java swift 1
+cryptography objective-c sha1 swift 1
+certificate keychain security swift 1
+passwords swift time 1
+ios keychain security swift 1
+cryptography document file ios swift 1
+ios swift security obfuscation 1
+ios swift security cryptography 1
+certificate ios pkcs#7 signing swift 1
+apple-push-notifications certificate ios push-notification swift 1
+active-directory authentication macos swift 1
+ios swift3 unsafe-pointers 1
+sdwebimage swift 1
+encryption ios macos swift 1
+encryption nsdata nsmutabledata swift3 1
+ios swift xmpp xmppframework 1
+firebase-authentication google-signin ios oauth-2.0 swift 1
+authentication firebase ios swift 1
+appdelegate background ios swift 1
+ios oauth signature swift 1
+core-audio swift3 unsafemutablepointer 1
+aes-gcm encryption ios10 swift 1
+aes encryption ios java swift 1
+api appdelegate google-signin ios swift2 1
+encryption swift 1
+ios java swift 1
+ios swift unsafemutablepointer 1
+podio swift 1
+ios swift thread-safety 1
+nonce objective-c soap-client swift 1
+ios parse-platform pfloginviewcontroller swift xcode 1
+ios submission swift xcode 1
+encryption ios python swift 1
+data-protection ios sqlite swift 1
+braintree node.js nonce swift 1
+alamofire ios swift 1
+certificate overloading self-signed swift xcode 1
+google-plus-signin ios swift3 1
+firebase ios swift 1
+cryptoswift encryption ios spring swift 1
+google-login ios swift 1
+ios siesta-swift swift 1
+badpaddingexception encryption java swift 1
+archive ios swift xcode 1
+swift4 1
+google-sheets-api ios oauth swift 1
+ios ruby swift xcode 1
+firebase firebase-authentication ios login swift 1
+sockets swift 1
+ios oauth swift3 1
+facebook firebase firebase-authentication ios swift 1
+azure-ad-b2c ios msal swift 1
+alamofire login swift swift3 1
+amazon-cognito aws-amplify swift user-registration 1
+curl oauth swift 1
+swift xcode 1
+firebase firebase-authentication google-login google-signin swift 1
+authentication ios nsurlsession swift 1
+authorization cocoa macos swift 1
+ios iphone swift tripledes 1
+aes cryptoswift encryption javascript swift 1
+firebase-authentication ios swift 1
+azure azure-storage-blobs ios iphone swift 1
+alamofire post swift 1
+alamofire ios ntlm-authentication swift 1
+encryption ios php swift 1
+aes swift 1
+ios md5 swift3 tripledes 1
+macos swift swift2 1
+iphone oauth swift 1
+ios json parsing php swift 1
+grpc ios objective-c ssl swift 1
+core-data encryption iphonecoredatarecipes password-encryption swift 1
+rncryptor swift xcode 1
+decode encode ios swift uiview 1
+mvvm observable rx-swift swift 1
+parse-platform swift 1
+ios lacontext swift wkwebview 1
+commoncrypto encryption swift unsafemutablepointer 1
+alamofire salesforce swift swift4 1
+macos root swift 1
+google-drive-api google-oauth ios swift 1
+firebase firebase-authentication firebaseui ios swift 1
+appauth ios oauth-2.0 outlook-api swift 1
+ios openssl pkcs#7 receipt-validation swift 1
+certificate encryption ios swift 1
+alamofire ios swift4 1
+ios iphone linkedin swift 1
+hmac hmacsha1 ios oauth swift 1
+ios oauth swift 1
+realm realm-mobile-platform swift 1
+aes encryption swift 1
+ios php swift 1
+ios parse-platform swift 1
+aes cryptoswift encryption ios swift4 1
+base64 ecb encryption md5 swift 1
+box ios swift 1
+google-oauth google-signin ios oauth swift 1
+fbsdk ios swift 1
+basic-authentication ios nsurlsession ssl swift 1
+cryptojs encryption ios swift swift2 1
+swift wechat 1
+authentication ios objective-c session swift 1
+ios objective-c swift swift2 swift3 1
+aes encryption ios swift 1
+django objective-c swift 1
+commoncrypto ios iphone json swift 1
+aes cryptoswift encryption ios swift2 1
+delegates objective-c protocols swift 1
+firebase firebase-authentication ios swift 1
+commoncrypto des encryption ios swift3 1
+cryptojs cryptoswift encryption swift 1
+ios swift twitter twitter-fabric twitterkit 1
+amazon-web-services aws-mobilehub ios iphone swift 1
+authorize.net json swift 1
+ios pinning public-key-pinning swift 1
+encryption macos php post swift 1
+c secure-transport swift swift2 unsafe-pointers 1
+alamofire swift 1
+google-api google-signin invalidargumentexception swift3 xcode8 1
+ios swift3 xcode 1
+ios parse-platform parse-server swift 1
+authentication ios pre-signed-url swift 1
+bamboo jira oauth objective-c swift 1
+ios swift swift3 1
+firebase firebase-authentication swift swift3 1
+digital-signature ios java rsa swift 1
+alert ios javascript swift wkwebview 1
+javascript swift uiwebview xcode 1
+google-authentication ios paw-app swift 1
+ios oauth oauth-1.0a swift 1
+aes cbc-mode encryption swift 1
+api json login swift swift2 1
+aes encryption http-live-streaming ios swift 1
+deprecated sha256 swift 1
+apple-cryptokit ios13 swift 1
+biometrics keychain swift 1
+ios ios13 swift uikit xcode11.2.1 1
+ios onesignal swift 1
+ios13 swift5 1
+authentication ios swift 1
+ecdh ecdsa encryption ios swift 1
+authentication basecamp ios oauth-2.0 swift 1
+ios swift encryption key ecdh 1
+ios oauth-2.0 swift5 1
+ios swift hyperledger-fabric ecdsa 1
+ios swift firebase-authentication apple-sign-in 1
+ios swift apple-sign-in sign-in-with-apple 1
+ios swift twitter firebase-authentication 1
+ios swift encryption aes ios13.4 1
+ios swift gigya 1
+ios swift linkedin linkedin-api swift4.2 1
+php swift encryption rsa 1
+
+
+TOPIC 1: 
+ios security swift xcode 1
+ios oauth-2.0 security swift web 1
+cryptography digital-signature openssl pkcs#7 swift 1
+cryptography macos security sign swift 1
+encryption ios security swift xcode 1
+cryptography ios swift 1
+alamofire amazon-s3 md5 pre-signed-url swift 1
+alamofire authentication ios iphone swift 1
+authentication nsurlcredential proxy swift3 urlsession 1
+mvvm reactive-cocoa reactive-programming rx-swift swift 1
+amazon-web-services http-post nsurlrequest swift xcode 1
+alamofire authentication ios oauth-1.0a swift 1
+3des commoncrypto encryption md5 swift 1
+basic-authentication credentials ios swift urlsession 1
+api hmac swift 1
+oauth oauth-2.0 swift 1
+ios oauth-2.0 paw-app swift 1
+digital-signature hmac ios kong swift 1
+authentication ios nsurlsession swift 1
+ios mvvm reactivex starscream swift 1
+ios oauth swift swift3 1
+ios nsurlcredential nsurlcredentialstorage swift urlsession 1
+alamofire authentication json swift 1
+nsurlsession nsurlsessionconfiguration proxy swift2 1
+alamofire deployd ios swift 1
+ios oauth swift 1
+amazon-web-services aws-sdk-ios ios swift xcode 1
+ios oauth swift yelp 1
+swift urlsession 1
+ibm-mobilefirst ios swift 1
+alamofire api json swift twitter 1
+alamofire authorization ios swift token 1
+swift3 1
+avassetresourceloaderdelegate avfoundation http-live-streaming swift 1
+alamofire ios swift 1
+authentication ios nsurlsession nsurlsessiontask swift 1
+ios oauth sha1 swift yelp 1
+http-headers swift 1
+avassetdownloadtask avplayer http-live-streaming ios swift 1
+authentication oauth post swift urlsession 1
+authorization http-headers ios12 ios13 swift 1
+swift authentication post oauth urlsession 1
+swift header swift-nio 1
+swift authentication garmin oauth-1.0a 1
+
+
+TOPIC 2: 
+ios swift 2
+firebase firebase-authentication ios swift 2
+ios paypal swift 2
+amazon-cognito amazon-web-services aws-userpools ios swift 2
+amazon-cognito ios swift 2
+amazon-cognito amazon-web-services ios swift 2
+amazon-cognito amazon-web-services swift 2
+amazon-web-services aws-cognito ios swift 2
+firebase firebase-authentication swift 2
+firebase firebase-realtime-database firebase-security swift 1
+ios payment pci-dss security swift 1
+cryptography encryption ios security swift 1
+bitcoin cryptography ios litecoin swift 1
+ios parse-platform parse-server swift 1
+authentication nsurlcache swift 1
+curl oauth-2.0 paypal-sandbox swift 1
+ios iphone javascript swift 1
+alamofire http httprequest ios swift 1
+ios8 parsing swift xcode xcode6 1
+alert json swift 1
+django http-token-authentication ios rest swift 1
+alamofire authentication ios moya swift 1
+adal ios swift3 1
+amazon-cognito amazon-dynamodb amazon-web-services saml-2.0 swift 1
+ios8 login parse-platform pfuser swift 1
+django ios python swift webview 1
+amazon-cognito amazon-web-services aws-sts credentials swift 1
+flickr oauth swift 1
+firebase-authentication ios swift 1
+amazon-web-services aws-cognito aws-sdk ios swift 1
+alert ios navigation segue swift 1
+active-directory ios ldap swift 1
+apple-id authentication ios login swift 1
+ios paypal paypal-sandbox swift xcode 1
+ios parse-platform swift 1
+authentication ios parse-platform swift 1
+amazon-cognito amazon-dynamodb amazon-web-services swift 1
+amazon-web-services aws-cognito aws-mobilehub ios swift 1
+amazon-cognito google-signin swift4.2 xcode10.1 1
+amazon-cognito amazon-dynamodb amazon-web-services ios swift 1
+amazon-cognito ios swift twitter-digits 1
+authorization braintree ios swift token 1
+google-authentication google-sheets google-sheets-api swift 1
+swift swift3 xcode xcode8 1
+ios swift amazon-cognito 1
+ios swift iphone webview wkwebview 1
+
+
+TOPIC 3: 
+alamofire app-transport-security request swift4.2 timeout 1
+firebase passwords recovery swift 1
+ios objective-c security swift 1
+encryption ios security swift 1
+app-transport-security swift swift2 xcode7 1
+admob app-transport-security ios swift xcode 1
+macos security-framework swift 1
+app-transport-security ios safari swift wkwebview 1
+aes cryptography ios swift 1
+swift security nsfilemanager appkit authorizationservices 1
+character ios swift xcode 1
+nsapplescript swift 1
+swift touch-id xcode 1
+ios spotify swift 1
+oauth oauth-2.0 swift 1
+swift websocket 1
+ios swift swift3 1
+google-login ios swift xcode 1
+appstore-sandbox boost cocoa sockets swift 1
+google-oauth2 ios oauth-2.0 swift youtube-data-api 1
+nstask privileges root swift xcode 1
+alamofire boringssl ios spotify swift 1
+cocoa code-signing swift xcode 1
+applescript macos swift xcode 1
+ios oauth-2.0 swift xcode 1
+swift3 1
+alamofire boringssl ssl swift 1
+firebase ios sign-in-with-apple swift 1
+ios sirikit sirishortcuts swift 1
+ios swift xcode firebase 1
+
+
+TOPIC 4: 
+https ios ssl swift 5
+alamofire ios swift 4
+ios nsurlsession swift 4
+app-transport-security ios swift 3
+ios swift 3
+alamofire ios ssl swift 3
+ios security ssl ssl-certificate swift 2
+certificate ios swift 2
+afnetworking https ios ssl swift 2
+ios ssl swift 2
+swift3 2
+nsurlconnection ssl swift 2
+swift 2
+ios ssl swift3 2
+ios swift xcode 2
+authentication client-certificates ios ssl swift 2
+ios sockets ssl swift 2
+alamofire https ios ssl swift 2
+alamofire app-transport-security ios security swift 1
+app-transport-security ios9 objective-c swift 1
+alamofire app-transport-security ssl swift xcode 1
+app-transport-security ios ssl swift 1
+info.plist nsapptransportsecurity swift 1
+charles-proxy ios proxy security swift 1
+app-transport-security ios ios9 swift uiwebview 1
+ios9 objective-c swift transport-security xcode7 1
+ios objective-c secure-transport security swift 1
+app-transport-security ios json swift xcode 1
+ios kingfisher security swift 1
+alamofire app-transport-security lan swift xml 1
+ios macos objective-c security swift 1
+passwords swift wifi xcode 1
+alamofire app-transport-security ios9 moya swift 1
+ios security ssl ssl-certificate swift3 1
+http ios security ssl swift 1
+app-transport-security ios itunesconnect objective-c swift 1
+php security swift url 1
+app-transport-security https ios objective-c swift 1
+alamofire app-transport-security swift3 1
+alamofire app-transport-security ios ssl swift 1
+core-bluetooth security swift 1
+alamofire ios nsapptransportsecurity swift 1
+ios9 security ssl ssl-certificate swift 1
+app-transport-security http ios objective-c swift 1
+app-transport-security http-post ios swift xcode 1
+nsstream objective-c osx-yosemite security swift 1
+assets installation ios security swift 1
+http ios security swift wkwebview 1
+ios mysql php security swift 1
+alamofire ios networking security swift 1
+app-transport-security nsurlsession swift swift5 1
+https security swift transport 1
+app-transport-security ios10 nsurlsession swift3 xcode8.2 1
+app-transport-security nsapptransportsecurity ssl swift 1
+macos nsurlsession objective-c security swift 1
+app-transport-security ios ios9 objective-c swift 1
+certificate certificate-revocation ios security swift 1
+swift http https app-transport-security 1
+alamofire public-key-pinning request swift 1
+invalidation ios request server swift 1
+ios rest swift xcode 1
+ios parse-platform swift 1
+certificate macos swift 1
+authorization nsurlsession request session swift 1
+curl ios swift 1
+ios ssl swift swift2 1
+ios ssl-certificate swift xcode 1
+ios9 nsurlsession ssl-certificate swift 1
+alamofire httprequest ios iphone swift2 1
+gcdasyncsocket ios sockets swift 1
+alamofire certificate swift 1
+sockets starscream swift xcode 1
+ios nsurlsession swift3 1
+ios iphone swift 1
+ios swift2 uiwebview 1
+api nsurlsession swift2 1
+https swift3 uiwebview 1
+ssl swift xcode 1
+ios iphone nsurlsession ssl-certificate swift 1
+ios network.framework ssl swift wss 1
+https ssl swift 1
+json ssl swift 1
+nsurlsession ssl swift2 tvos youtube-data-api 1
+basic-authentication json ssl swift2 xcode7 1
+android ios ssl swift tls1.2 1
+alamofire http-headers ios ssl swift 1
+alamofire certificate-pinning ssl-certificate swift 1
+facebook-authentication firebase firebase-authentication swift2 1
+ios ssl ssl-certificate swift 1
+certificate networking ssl swift 1
+https ios9 swift2 xcode7-beta6 1
+authentication ios swift 1
+ios ios-mqtt-client-framework ssl swift 1
+ios objective-c rtmp swift3 wowza 1
+alamofire ssl swift2.1 1
+iphone ssl swift 1
+alamofire jsp swift swift2 1
+django-rest-framework https nsurlsession self-signed swift 1
+ssl swift 1
+certificate sockets ssl swift swift2 1
+swift swift2 1
+afnetworking-3 ios objective-c ssl-certificate swift 1
+ios socket.io sockets ssl swift 1
+alamofire ios nsurlsession ssl-certificate swift 1
+ios node.js ssl swift tls1.2 1
+certificate ios rest ssl swift3 1
+alamofire api swift 1
+swift uiwebview 1
+alamofire https ios swift 1
+nsurlsessiondownloadtask swift urlauthenticationchallenges 1
+info.plist ios mapkit swift xcode 1
+ios iphone objective-c swift wkwebview 1
+authentication ssl-certificate swift swift2 1
+http-post ios swift 1
+cloudkit icloud ios swift 1
+alamofire ssl swift 1
+alamofire qliksense ssl swift token 1
+afnetworking self-signed ssl swift2 1
+ios nsurlrequest self-signed swift2 1
+grpc ios openssl swift 1
+alamofire ios parameters post swift3 1
+ios server ssh ssl swift 1
+http https swift xcode 1
+pinning ssl swift2 tls1.2 xcode7 1
+certificate ios ios-app-extension iphone swift 1
+alamofire apple-developer swift 1
+swift swish 1
+https ios swift urlsession xcode 1
+alamofire node.js pinning ssl swift 1
+ssl swift swift2 1
+authentication ios networking objective-c swift 1
+ios iphone ssl swift4 xcode9 1
+ios nsstream ssl swift 1
+ios ssl swift wkwebview 1
+alamofire json rest ssl-certificate swift 1
+ios objective-c swift touch-id 1
+json mysql php swift xcode 1
+ios mutual-authentication nsurlsession swift tls1.2 1
+alamofire certificate-pinning ios ssl-certificate swift 1
+socket.io ssl ssl-certificate swift websocket 1
+ios nsurlsession soap swift swift2 1
+alamofire ios pinning swift 1
+foundation linux ssl swift 1
+authentication ios nsurlsession swift 1
+http https ios swift 1
+ios swift xmppframework 1
+alamofire ios moya ssl swift 1
+ios ios9 swift webview 1
+ios owasp pinning ssl swift 1
+nsurlsession ssl-certificate swift2 swift2.1 xcode7 1
+ios lotus-domino ssl swift 1
+authentication https ios ssl swift 1
+ios json mysql php swift 1
+https ios swift tls1.2 1
+ios localhost nsurlerrordomain self-signed swift 1
+ios objective-c react-native react-native-bridge swift 1
+alamofire ios server ssl swift 1
+ssl-certificate swift wkwebview 1
+ios nsurlsession post swift 1
+amazon-s3 ios quickblox swift2 1
+ios ssl swift xcode 1
+ios ios11 signalr ssl-certificate swift 1
+ios ios9 swift 1
+alamofire ios ssl swift3 1
+ios ssl swift tvos 1
+certificate ios pkcs#10 ssl swift 1
+authentication ios ssl swift 1
+ios ssl swift websocket wss 1
+alamofire ios ssl swift xcode 1
+nsurlconnection nsurlsession ssl swift 1
+alamofire certificate pinning ssl swift 1
+ios multipeer-connectivity ssl swift x509 1
+https ios self-signed ssl swift 1
+ios nsurlsession ssl swift 1
+html ios javascript progressive-web-apps swift 1
+afnetworking pinning ssl swift 1
+keychain pkcs#12 swift xcode 1
+alamofire ios9 ssl swift 1
+alamofire curl ios rest swift 1
+facebook ios swift 1
+ios nsurlsession swift unsafe-pointers xcode 1
+html ios swift 1
+http https ios ssl swift 1
+delegates ssl swift urlsession 1
+osx-server ssl swift2 1
+nsurlsession swift 1
+https swift 1
+android encryption ios obfuscation swift 1
+ios secure-crt swift5.2 urlrequest xcode11 1
+git ios swift 1
+https ssl swift5 xcode10.3 1
+public-key-encryption rest swift 1
+oauth server ssl swift 1
+ios nsurlprotocol swift xcode 1
+ios json ssl-certificate swift uiimageview 1
+ios swift xcode nsurlsession 1
+ios swift iphone ssl-certificate 1
+ios swift ssl websocket tls1.2 1
+swift macos ssl networking tls1.2 1
+ios swift iphone swift5 ios13.3 1
+ios swift certificate alamofire 1
+ios swift ssl openssl x509certificate 1
+swift authentication oauth-2.0 sfauthenticationsession aswebauthenticationsession 1
+ios swift ssl-certificate urlsession ntlm-authentication 1
+macos swift5 1
+
+
+TOPIC 5: 
+ios swift 6
+swift 4
+firebase firebase-authentication firebaseui swift 2
+ios security swift webview wkwebview 1
+delegates ios passwords researchkit swift 1
+alamofire ios swift 1
+ios swift uistoryboardsegue xcode7 1
+delegates exception nskeyedunarchiver nssecurecoding swift 1
+firebase ios swift 1
+ios swift swift3 xcode 1
+google-signin googlesigninapi ios swift4 1
+controller ios swift view 1
+facebook firebase firebase-authentication ios swift3 1
+google-signin ios swift2 1
+delegates swift 1
+programmatically segue swift 1
+authentication ios swift 1
+objective-c swift 1
+asauthorizationcontroller ios swift 1
+encryption openssl swift 1
+ios swift2 validation 1
+parse-platform swift 1
+firebase firebase-authentication ios swift 1
+ios mvvm parameter-passing swift uitextfielddelegate 1
+dependency-injection ios objective-c swift uiviewcontroller 1
+firebase google-authentication ios swift xcode 1
+amazon-mobile-hub amazon-web-services aws-mobilehub ios swift 1
+delegates swift uiscrollview 1
+ios spotify swift 1
+appdelegate google-signin ios swift swift3 1
+class ios nsobject swift 1
+google-plus ios swift 1
+memory-leaks memory-management retain-cycle swift 1
+firebase firebase-authentication ios swift swift3 1
+delegates initialization ios swift 1
+compiler-errors ios reactive-cocoa swift 1
+firebase firebase-authentication swift 1
+delegates google-signin ios swift 1
+firebase firebase-authentication google-signin ios swift 1
+encryption ios openssl swift x509 1
+reactive-cocoa rx-swift swift 1
+delegates ios smartfoxserver swift 1
+amazon-web-services aws-mobilehub ios swift3 1
+google-plus ios ios8 swift 1
+ios subscript swift3 1
+apple-sign-in firebase-authentication swift 1
+ios swift uinavigationcontroller 1
+delegates ios swift uiview xib 1
+ios swift applepay 1
+swift authentication protocols auth0 delegation 1
+ios swift delegates restore 1
+ios objective-c swift ios13 sign-in-with-apple 1
+swift google-cloud-firestore firebase-authentication swiftui 1
+ios swift authentication access-token 1
+
+
+TOPIC 6: 
+ios keychain security swift 3
+ios swift 3
+ios keychain swift 3
+ios parse-platform passwords swift 2
+swift 2
+encryption ios swift 2
+icloud ios nsfilemanager security swift3 1
+in-app-purchase ios nsuserdefaults security swift 1
+nsuserdefaults passwords swift uiswitch username 1
+core-data ios security sqlcipher swift 1
+encryption hash passwords security swift 1
+banking keychain nssecurecoding security swift 1
+credential-manager ios quicktypebar security-framework swift 1
+directory ios security swift xcode 1
+encryption ios security swift 1
+keychain macos objective-c security swift 1
+ios security swift temporary-files 1
+ios keychain security swift xcode10 1
+ios security-framework swift 1
+ios iphone security swift 1
+keychain macos security swift 1
+keychain security swift 1
+ios passwords swift uitextfield 1
+parse-platform passwords swift verification xcode 1
+ios security swift touch-id 1
+security swift 1
+ios keychain security.framework swift 1
+ios12 security swift 1
+database-security fmdb ios sqlite swift 1
+ios save security swift 1
+api ios json security swift 1
+ios objective-c security swift touch-id 1
+keychain login passwords swift swift4 1
+ios passwords regex swift4 xcode 1
+ios macos objective-c security swift 1
+cloudkit security swift user-accounts 1
+ios security swift 1
+autofill ios security swift 1
+keychain macos security swift xcode 1
+ios keychain memory security swift 1
+core-data ios security storage swift 1
+autofill passwords swift xcode 1
+ios objective-c security swift 1
+ios ios13 keychain security swift 1
+credentials ios security swift 1
+encryption ios security swift xcode 1
+foundation keychain macos security swift 1
+associated-domains authentication credentials passwords swift 1
+ios man-in-the-middle security swift 1
+seckeyref security swift 1
+ios swift iphone passwords uitextfield 1
+swift passwords 1
+ios swift authentication passwords 1
+keychain property-list swift 1
+amazon-cognito ios iphone swift 1
+authentication credentials ios singleton swift3 1
+ios keychain nsuserdefaults swift 1
+swift uiwebview 1
+ios login protected swift 1
+autofill ios keychain nsuserdefaults swift 1
+appstoreconnect ios swift 1
+ios8 swift 1
+ios keychain swift xcode 1
+ios rsa signature swift touch-id 1
+firebase-authentication ios login swift uitextfield 1
+login swift userdefaults 1
+ios parse-platform swift validation 1
+ios session swift 1
+ios keychain swift3 1
+database iphone rsa swift 1
+ios lacontext swift veracode 1
+generics ios iphone objective-c swift 1
+encryption firebase ios password-protection swift 1
+swift xcode 1
+frameworks keychain swift 1
+ios keychain swift userdefaults 1
+ios login swift 1
+macos objective-c swift 1
+gidsignin google-api google-login ios swift 1
+cloudkit ios swift 1
+autofill ios ios12 login swift 1
+ios keychain nsuserdefaults objective-c swift 1
+apple-sign-in icloud keychain swift 1
+ios ios11 swift 1
+enclave ios swift 1
+credentials ios12 keychain swift web 1
+ios swift uitextfield 1
+autofill ios login swift uiwebview 1
+ios iphone swift 1
+macos pdf swift 1
+digital-signature pdf swift 1
+apple-app-site-associate swift 1
+ios swift xcode 1
+ios swift credentials autofill 1
+ios swift sign-in-with-apple 1
+ios swift iphone xcode autofill 1
+ios uitextfield swift4 autofill 1
+ios swift session web-applications credentials 1
+
+
+TOPIC 7: 
+ios passwords security swift 1
+encryption ios php security swift 1
+ios php security swift 1
+ios php rest security swift 1
+ios keychain security swift 1
+encryption ios keychain security swift 1
+security swift tampering xcode 1
+ios secsharedcredentials security swift 1
+java mysql security swift 1
+ios security swift xcode 1
+ios objective-c security swift 1
+ios security swift 1
+app-transport-security swift uiwebview url 1
+ios oauth security swift 1
+firebase firebase-security-rules google-cloud-firestore swift 1
+ios performance security static swift 1
+core-telephony ios objective-c security swift 1
+credentials deinit security swift3 variables 1
+exploit security swift 1
+decompiling ios security swift 1
+ios keychain realm security swift 1
+integrity ios security swift 1
+objective-c security swift 1
+cocoapods ios security swift 1
+ios iphone jailbreak security swift 1
+android ios security swift3 xcode8 1
+ios swift security url 1
+amazon-cognito amazon-web-services ios objective-c swift 1
+google-signin kitura swift 1
+ios iphone push-notification swift 1
+firebase instagram-api swift 1
+ios ios7 sandbox single-sign-on swift 1
+ios ipad iphone swift 1
+oauth objective-c swift swift3 twitter-oauth 1
+basic-authentication ios json swift 1
+ios oauth swift twitter 1
+google-app-engine google-oauth ios oauth swift 1
+intuit php quickbooks swift xcode 1
+ios javascript jwt node.js swift 1
+edx ios objective-c swift 1
+google-login google-signin ios swift 1
+ios linkedin oauth2 swift 1
+get ios json oauth swift 1
+swift twitter twitter-oauth 1
+firebase firebase-admin firebase-authentication google-cloud-functions swift 1
+encryption ios oauth-2.0 signing swift 1
+ios swift twitter-oauth 1
+encryption ios swift 1
+ios oauth2 swift 1
+ios login social swift3 twitter 1
+ios swift 1
+ios iphone swift token 1
+login native session swift symfony 1
+ios swift twitter twitterkit 1
+ios share swift 1
+apple-push-notifications authentication mfa push-notification swift 1
+amazon-web-services aws-mobilehub aws-sdk ios swift 1
+ios swift twitter twitter-oauth 1
+amazon-web-services ios openssl swift 1
+app-data background-service encryption ios swift 1
+oauth-2.0 objective-c parse-platform parse-server swift 1
+access-token alamofire ios oauth swift 1
+authentication ios oauth-2.0 spring-social swift3 1
+ios jwt rsa swift vapor 1
+authentication authorization ios swift 1
+authentication ios ssl swift 1
+firebase-authentication firefox ios swift 1
+authentication ios swift4 1
+authentication ios oauth swift 1
+amazon-web-services aws-api-gateway ios iphone swift 1
+google-signin ios realm realm-mobile-platform swift 1
+amazon-cognito amazon-web-services ios swift3 1
+oauth oauth-2.0 swift swift2 1
+ios objective-c swift 1
+realm realm-mobile-platform swift 1
+apple-sign-in facebook-login swift web-services 1
+ios swift authentication wechat 1
+ios swift apple-sign-in sign-in-with-apple 1
+swift macos appstore-sandbox 1
+ios node.js swift typescript authentication 1
+ios objective-c swift audiotoolbox 1
+
+
+TOPIC 8: 
+combine ios swift 2
+ios ipa reverse-engineering security swift 1
+iframe ios security swift wkwebview 1
+android ionic-framework ios objective-c swift 1
+ios swift2 1
+encryption ios swift 1
+code-signing-certificate codesign ios macos swift 1
+ios swift touch-id 1
+ios ssl swift tls1.2 1
+combine swift swiftui 1
+cordova fingerprint ios objective-c swift 1
+combine ios13 swift swiftui 1
+ios iphone swift swift4 swift4.2 1
+https ios ssl swift 1
+swift encryption rsa public-key-encryption 1
+ios swift encryption rsa public-key-encryption 1
+
+
+TOPIC 9: 
+in-app-purchase ios swift 3
+in-app-purchase ios subscription swift 2
+firebase firebase-realtime-database firebase-security ios swift 1
+in-app-purchase obfuscation receipt-validation security swift 1
+devicecheck ios iphone security swift 1
+encryption nsuserdefaults security swift 1
+appstore-sandbox cocoa macos security swift 1
+afnetworking app-transport-security ios swift 1
+macos macos-catalina security swift 1
+in-app-purchase ios receipt-validation swift testing 1
+code-signing ios swift 1
+in-app-purchase php swift 1
+ios nserror swift 1
+in-app-purchase receipt-validation storekit subscription swift 1
+encryption ios laravel php swift 1
+autostart cocoa login swift view 1
+in-app-purchase revenuecat swift 1
+in-app-purchase javascript react-native receipt-validation swift 1
+in-app-purchase in-app-subscription ios itunesconnect swift 1
+in-app-purchase in-app-subscription ios swift xcode 1
+ios swift 1
+encryption ios payment-gateway swift 1
+macos storekit swift 1
+app-store in-app-purchase objective-c swift xcode 1
+in-app-purchase swift swiftystorekit verification 1
+in-app-purchase swift 1
+app-store-connect ios swift upload xcode 1
+mac-app-store macos sandbox swift xcode 1
+google-signin ios swift 1
+ios swift xcode researchkit 1
+ios swift core-data core-data-migration 1
+
+
+TOPIC 10: 
+ios swift 6
+firebase firebase-authentication ios swift 6
+facebook firebase firebase-authentication ios swift 4
+ios parse-platform swift 4
+facebook ios swift 3
+auth0 ios swift 3
+facebook facebook-login ios swift 2
+firebase firebase-authentication ios swift xcode 2
+facebook-login ios swift 2
+ios swift xcode 2
+firebase firebase-authentication ios swift swift3 2
+ios security swift 1
+ios parse-platform security swift 1
+parse-platform parse-server passwords reset swift 1
+ios passwords segue swift 1
+ios parse-platform parse-server passwords swift 1
+firebase-security google-signin swift 1
+facebook-login firebase firebase-authentication swift swift2 1
+auth0 auth0-lock ios oauth-2.0 swift 1
+auth0 authentication credentials swift xcode 1
+ios logic login parse-platform swift 1
+firebase firebase-authentication ios login swift 1
+animation ios swift uitextfield uitextfielddelegate 1
+google-signin ios objective-c swift 1
+facebook-login firebase-authentication ios swift 1
+ios login parse-platform swift 1
+google-signin ios iphone swift 1
+ios onesignal push-notification swift 1
+ios oauth-2.0 pinterest rest swift 1
+authentication firebase-authentication logging segue swift 1
+ios logout msal swift 1
+firebase ios swift3 1
+firebase ios swift 1
+fbsdk gidsignin ios iphone swift 1
+amazon-cognito amazon-cognito-facebook aws-sdk-ios aws-userpools swift 1
+facebook facebook-ios-sdk ios swift 1
+google-login google-oauth2 ios swift2 1
+alamofire authentication ios json swift 1
+ios single-sign-on swift twitter twitter-fabric 1
+google-plus-signin ios swift 1
+azure azure-ad-b2c ios swift 1
+braintree facebook-login google-login ios swift3 1
+facebook facebook-graph-api ios parse-server swift 1
+facebook-graph-api facebook-login google-signin ios swift 1
+azure azure-active-directory azure-ad-b2c ios swift 1
+swift twitter-digits 1
+ios swift swift3 xcode 1
+facebook facebook-graph-api swift 1
+cocoapods firebase googlesigninapi ios swift 1
+mongodb node.js parse-server swift 1
+ios oauth-2.0 swift testing unit-testing 1
+firebase firebase-authentication ios oauth swift 1
+adfs adfs3.0 ios single-sign-on swift 1
+facebook profile-picture swift xcode 1
+firebase firebase-cloud-messaging google-cloud-functions ios swift 1
+amazon-web-services ios swift 1
+facebook facebook-graph-api firebase firebase-authentication swift 1
+autofill ios ios12 swift 1
+fbsdkloginkit firebase firebase-authentication ios swift 1
+facebook-login google-login ios swift 1
+ios login parse-platform swift xcode 1
+facebook-login fbsdk ios swift3 1
+facebook ios oauth-2.0 parse-framework swift 1
+facebook ios oauth swift 1
+apple-push-notifications azure provisioning-profile swift 1
+address-sanitizer buffer-overflow swift 1
+ios iphone login logout swift 1
+azure-mobile-services google-oauth google-signin ios swift 1
+facebook ios parse-platform swift swift3 1
+ios swift uber-api 1
+ios oauth-2.0 openurl swift 1
+ios login swift 1
+node.js parse-platform parse-server swift 1
+alamofire oauth-2.0 swift 1
+ibm-mobilefirst ios swift 1
+firebase ios swift uialertcontroller 1
+api http swift 1
+ios nsuserdefaults swift 1
+google-login google-signin ios segue swift 1
+ios swift3 xcode8 1
+facebook-sdk-4.0 firebase firebase-authentication ios swift 1
+auth0 facebook single-sign-on swift 1
+facebook-login parse-platform swift 1
+facebook ios iphone swift 1
+ios login segue swift xcode 1
+autologin facebook-login google-login ios swift 1
+auth0 firebase firebase-authentication ios swift3.1 1
+ios parse-platform pfuser swift 1
+ios swift uialertcontroller 1
+core-data ios swift userdefaults xcode 1
+amazon-cognito amazon-web-services ios login swift 1
+database ios sqlite swift 1
+ios objective-c swift touch-id 1
+firebase-authentication swift 1
+facebook ios parse-platform swift xcode 1
+facebook-authentication firebase firebase-authentication swift 1
+checksum crc32 hash swift 1
+facebook-login firebase firebase-authentication swift 1
+adfs ios swift uiwebview 1
+fbsdk ios parse-platform swift 1
+firebase firebase-cloud-messaging ios swift 1
+ios oauth sfauthenticationsession swift 1
+ios swift xcode7 1
+facebook facebook-graph-api facebook-login ios swift 1
+php swift3 xampp xcode8 1
+authentication ibm-mobilefirst ios swift 1
+google-signin swift 1
+facebook swift 1
+azure azure-mobile-services ios swift 1
+firebase firebase-authentication swift 1
+apple-sign-in sign-in-with-apple swift 1
+facebook-sdk-4.0 ios iphone swift4.2 1
+auth0 auth0-lock ios swift4.2 1
+ios onesignal push-notification swift xcode 1
+json swift authentication 1
+ios swift auth0 sign-in-with-apple 1
+node.js swift express apple-sign-in 1
+ios swift firebase firebase-authentication 1
+ios swift xcode firebase 1
+ios swift facebook 1
+swift macos wkwebview 1
+
+
+TOPIC 11: 
+firebase firebase-realtime-database firebase-security ios swift 15
+firebase firebase-authentication ios swift 15
+firebase firebase-realtime-database firebase-security swift 14
+firebase firebase-authentication swift 8
+firebase firebase-realtime-database firebase-security-rules swift 7
+firebase firebase-authentication firebase-security ios swift 4
+swift firebase google-cloud-firestore firebase-security 4
+firebase firebase-authentication firebase-realtime-database firebase-security swift 3
+firebase firebase-realtime-database firebase-security-rules ios swift 3
+firebase firebase-security ios swift 3
+firebase firebase-security-rules google-cloud-firestore swift 3
+firebase firebase-authentication firebase-realtime-database ios swift 3
+firebase firebase-security swift 2
+firebase firebase-security google-cloud-firestore swift 2
+firebase firebase-security google-cloud-firestore ios swift 2
+firebase firebase-security-rules google-cloud-firestore ios swift 2
+firebase-security-rules google-cloud-firestore swift 2
+firebase firebase-authentication google-signin ios swift 2
+firebase firebase-authentication firebase-realtime-database swift 2
+backend firebase firebase-security-rules ios swift 1
+firebase firebase-security ios iphone swift 1
+firebase firebase-security firebase-security-rules google-cloud-firestore swift4 1
+firebase firebase-realtime-database firebase-security security swift 1
+firebase firebase-realtime-database firebase-security swift3 1
+cocoa security swift 1
+firebase firebase-security mapkit performance swift 1
+parse-platform pfuser security swift 1
+firebase-security-rules google-cloud-firestore ios swift 1
+firebase firebase-realtime-database firebase-security-rules swift xcode 1
+firebase firebase-security-rules swift 1
+anonymous firebase ios security swift 1
+firebase firebase-realtime-database firebase-security json swift 1
+firebase ios passwords reset swift 1
+firebase firebase-authentication firebase-security firebasesimplelogin swift 1
+firebase firebase-authentication firebase-security-rules google-cloud-firestore swift 1
+consistency firebase firebase-security ios swift 1
+firebase firebase-security ios parse-platform swift 1
+firebase firebase-realtime-database firebase-security firebase-security-rules swift 1
+ios security swift 1
+database firebase firebase-security ios swift 1
+firebase firebase-authentication firebase-realtime-database firebase-security swift3 1
+firebase firebase-security-rules google-cloud-firestore privacy swift 1
+cron firebase firebase-realtime-database firebase-security-rules swift 1
+firebase-security-rules swift 1
+firebase ios security swift 1
+arrays data-structures firebase-realtime-database firebase-security swift 1
+swift firebase firebase-storage firebase-security 1
+swift firebase firebase-realtime-database firebase-security 1
+swift google-cloud-firestore firebase-security 1
+swift firebase firebase-authentication firebase-security 1
+facebook firebase ios swift 1
+email firebase firebase-authentication ios swift 1
+firebase firebase-authentication gidsignin swift 1
+facebook-login firebase-authentication firebase-realtime-database ios swift 1
+firebase firebase-authentication firebase-realtime-database ios swift3 1
+facebook-login firebase-authentication google-login ios swift 1
+firebase firebase-authentication firebase-realtime-database swift3 1
+firebase firebase-authentication google-authentication ios swift4 1
+authentication firebase ios swift swift3 1
+authentication facebook-login firebase google-signin swift 1
+applescript keystroke macos permissions swift 1
+firebase firebase-authentication java swift 1
+facebook-authentication firebase firebase-authentication ios swift 1
+firebase firebase-authentication ios redirect swift 1
+firebase firebase-authentication ios swift swift3 1
+amazon-cognito amazon-web-services aws-cognito ios swift 1
+firebase firebase-authentication firebasesimplelogin swift2 1
+facebook firebase firebase-authentication ios swift 1
+firebase firebase-realtime-database ios swift 1
+firebase-authentication google-cloud-firestore ios swift 1
+firebase firebase-authentication firebase-realtime-database firebase-storage swift 1
+firebase firebase-authentication ios login swift 1
+ios parse-platform pfuser swift 1
+android firebase-authentication ios swift 1
+authentication custom-authentication firebase firebase-authentication swift3 1
+firebase ios swift 1
+facebook-login firebase firebase-authentication swift 1
+authentication ios swift wordpress 1
+firebase ios swift4 xcode9 1
+firebase firebase-authentication ios swift swiftui 1
+database firebase firebase-authentication firebase-realtime-database swift 1
+google-signin ios iphone oauth swift 1
+apple-sign-in ios ios13 swift 1
+facebook firebase firebase-authentication google-cloud-platform swift 1
+ios realm swift 1
+apple-sign-in ios swift 1
+swift firebase firebase-authentication swiftui 1
+ios swift firebase firebase-authentication 1
+ios swift firebase-authentication apple-sign-in 1
+ios swift facebook firebase firebase-authentication 1
+swift shell privileges xpc 1
+swift firebase firebase-authentication authorization 1
+swift firebase authentication google-cloud-firestore firebase-authentication 1
+google-cloud-firestore swift5 1
+ios swift firebase firebase-authentication google-signin 1
+ios swift firebase authentication firebase-authentication 1
+
+
+TOPIC 12: 
+cryptography ios swift 1
+ios network-programming networking security swift 1
+cryptography encryption ios swift4 1
+ios security sockets swift tls1.2 1
+c++ cryptography objective-c swift 1
+macos security shell swift xcode 1
+applescript macos swift 1
+oauth-2.0 swift swift3 tvos tvos10 1
+objective-c objective-c-runtime swift 1
+objective-c scripting swift 1
+ios parse-platform swift validation 1
+dependency-injection ios swift swinject 1
+coinbase-api ios oauth oauth-2.0 swift 1
+ios nssecurecoding protocols swift 1
+commoncrypto ios ios-frameworks macos swift 1
+google-calendar-api google-signin ios oauth-2.0 swift 1
+azure azure-active-directory azure-mobile-services ios swift 1
+ios iphone quickblox swift xcode 1
+oauth-2.0 swift 1
+laravel lumen oauth-2.0 php swift 1
+memory-leaks swift 1
+github ios payumoney swift 1
+docusignapi ios java-web-start swift 1
+memory-leaks swift3 urlsession 1
+c hashids java swift 1
+docusignapi ios swift 1
+realm swift 1
+github ios ios8 oauth-2.0 swift 1
+codable decoder swift swxmlhash xml 1
+ios microsoft-graph outlook-restapi swift 1
+bash macos smb swift 1
+core-data nssecurecoding swift transformable 1
+swift xcode ssl-certificate cocoapods nexus3 1
+ios swift iphone xcode quickblox 1
+swift socket.io ssl-certificate urlsession 1
+ios swift ssl openssl ssl-certificate 1
+ios swift app-store itunes jwplayer 1
+
+
+TOPIC 13: 
+firebase firebase-security firebase-storage ios swift 2
+bookmarks macos sandbox security swift 1
+app-transport-security heroku ios parse-platform swift 1
+ios security swift xcode8 xcode9 1
+app-transport-security json openweathermap swift weather-api 1
+avplayer security-scoped-bookmarks swift 1
+cloud-code ios parse-platform security swift 1
+app-transport-security avplayer embedded-video ios swift 1
+app-transport-security ios swift 1
+appstore-sandbox objective-c sandbox security swift 1
+nsfilemanager sandbox security-scoped-bookmarks swift xcode 1
+ios nsurl security-scoped-bookmarks swift 1
+ios sandbox security swift 1
+avkit ios security ssl swift 1
+firebase firebase-security firebase-storage google-cloud-firestore swift 1
+appstore-sandbox macos security-scoped-bookmarks swift 1
+firebase firebase-authentication ios oauth swift 1
+google-api google-signin oauth swift youtube-api 1
+facebook firebase firebase-authentication ios swift 1
+appstore-sandbox mac-app-store nsapplescript sudo swift 1
+instagram ios swift 1
+cllocationmanager swift 1
+apple-maps instagram instagram-api json swift 1
+swift vimeo 1
+ios node.js oauth-2.0 swift uber-api 1
+cocoa mosquitto mqtt openssl swift 1
+gmail google-signin ios swift 1
+applescript appstore-sandbox cocoa nsapplescript swift 1
+ios phasset swift uiimagepickercontroller 1
+game-center integration swift 1
+cocoa-touch ios swift xcode xcode6 1
+core-location geofencing geolocation ios swift 1
+avurlasset ios swift 1
+meetup oauth-2.0 swift3 1
+ios swift uiwebview urlrequest 1
+macos sandbox swift 1
+ios linkedin oauth-2.0 swift 1
+appdelegate authorization cllocation cllocationmanager swift 1
+swift swift3 1
+ios swift xcode 1
+deep-linking ios swift uber-api 1
+ios-universal-links oauth saml swift 1
+ios oauth outlook swift 1
+camera ios photolibrary swift 1
+file-manager macos macos-app-extension macos-mojave swift4.2 1
+camera ios photolibrary phphotolibrary swift 1
+gmail ios swift 1
+bash cocoa macos swift 1
+ios oauth swift uber-api 1
+info.plist ios swift 1
+swift facebook authentication 1
+swift authorization 1
+ios swift ipad instagram-api 1
+swift url https oauth instagram-api 1
+
+
+TOPIC 14: 
+swift 3
+encryption ios rsa swift 3
+ios rsa swift 2
+base64 swift 2
+ios objective-c swift 2
+jwt swift 2
+ios swift 2
+cryptography public-key swift 1
+commoncrypto cryptography ios swift 1
+ios security swift 1
+cryptography ios security security-framework swift 1
+cryptography encryption porting python swift 1
+cocoa-touch keychain security.framework swift 1
+.net-core authentication cryptography srp-protocol swift 1
+cryptography ios swift 1
+cryptography public-key-encryption swift 1
+cryptography ios objective-c security swift 1
+cryptography rsa swift 1
+java java-security rsa swift 1
+cryptography encryption ios swift 1
+security-framework swift 1
+c# cryptography pem rsa swift 1
+aes cryptography encryption nsdata swift 1
+ios keychain public-key security swift 1
+cryptography cryptoswift encryption swift swift2 1
+python security swift 1
+cryptography hex ios swift swift3 1
+base64 decode go security swift 1
+cryptography public-key public-key-exchange python swift 1
+ios security swift x509 1
+cryptography cryptoswift ios swift 1
+aes cryptography encryption ios swift 1
+ios rsa security swift 1
+cryptography ios rsa swift 1
+cryptography decrement encryption swift xcode 1
+ios keychain security swift 1
+cryptography ecdh ios swift 1
+swift security aes ecdh seckeyref 1
+swift cryptography elliptic-curve apple-cryptokit 1
+decode encryption ios json swift 1
+aes ios pycrypto python-2.7 swift 1
+aes base64 swift 1
+asn.1 encryption rsa swift 1
+rsa swift 1
+private-key rsa swift3 1
+3des character-encoding encoding encryption swift 1
+encryption ios python rsa swift 1
+alamofire encoding json post swift 1
+apple-cryptokit binary-data ecdsa key-pair swift 1
+encode enums ios multipeer-connectivity swift 1
+firebase firebase-authentication swift token vk 1
+encoding ios9 nsurl swift2 1
+ios iphone rsa swift 1
+arrays commoncrypto encryption swift5 1
+md5 swift 1
+ios jwt swift 1
+commoncrypto encryption swift swift3 xcode 1
+digital rsa sign signature swift 1
+alamofire macos swift 1
+der openssl pem rsa swift 1
+ios sha256 swift 1
+ssh swift 1
+public-key-encryption rsa swift 1
+ios iphone swift 1
+aes cryptoswift encryption ios swift 1
+decode encode ios json swift 1
+decode encode ios swift 1
+chilkat encryption ios rsa swift 1
+ios json swift 1
+ios jwt rsa swift 1
+decodable swift 1
+base64 encryption nsdata swift swift3 1
+cocoa iobluetooth nsstring nsstringencoding swift 1
+alamofire bing-api ios swift 1
+go ios public-key-encryption rsa swift3 1
+ios keychain objective-c ssl swift 1
+aes encryption ios swift 1
+swift5 xcode10.2 1
+encryption rsa swift 1
+alamofire post string swift 1
+commoncrypto encryption ios swift swift2.1 1
+decode encode nscoder serialization swift 1
+azure encryption ios rsa swift 1
+digital-signature ios rsa swift 1
+ios objective-c swift unsafe-pointers 1
+ios nsstringencoding swift urlencode 1
+ios java private-key rsa swift 1
+diffie-hellman java public-key-exchange swift4 1
+api decoding encoding swift 1
+digital-signature java objective-c rsa swift3 1
+ios null string swift3 1
+public-key rsa swift 1
+json swift 1
+android ios java swift 1
+ios libsodium php sodium swift 1
+c# encryption ios public-key-encryption swift 1
+dictionary swift 1
+nsdata swift 1
+certificate-signing-request csr ios swift 1
+base64 ios md5 python swift 1
+base64 file swift 1
+libsodium swift 1
+formatting ios swift xcode 1
+encryption ios swift swift2 1
+ios iphone swift xcode 1
+codable swift swift4 1
+ios jwt private-key public-key-encryption swift 1
+azure-cosmosdb swift 1
+base64 ios php swift 1
+aes ios openssl swift 1
+encoding ios json swift 1
+encryption swift 1
+codable enums nsdictionary struct swift 1
+base64 ios public-key rsa swift 1
+ios nsdate swift uiimagepngrepresentation 1
+encryption jwe jwt rsa swift 1
+base64 decode swift 1
+oauth sha1 swift 1
+ios iphone payment-gateway paytm swift 1
+ssl ssl-certificate swift3 1
+ios swift swift3 1
+encryption public-key rsa swift 1
+alamofire swift xcode 1
+applepay ios iphone swift 1
+android encryption kotlin sha swift 1
+aes-gcm encryption go ios swift 1
+encryption jose jwt signing swift 1
+decoding encoding ios iphone swift 1
+ios keychain swift 1
+encryption ios rsa swift swift5 1
+ios swift pinning certificate-pinning public-key-pinning 1
+swift ecdsa 1
+json swift codable decodable 1
+ios swift public-key-encryption pgp 1
+swift openssl apple-cryptokit x25519 1
+node.js swift encryption rsa pem 1
+ios objective-c swift encryption rsa 1
+ios swift here-api polyline 1
+
+
+TOPIC 15: 
+ios swift 5
+google-signin ios swift 3
+firebase firebase-authentication ios swift 2
+ios oauth swift 2
+ios swift uiwebview 2
+ios mysqli php sql-injection swift 1
+api cookies ios security swift 1
+firebase ios swift viewcontroller 1
+alamofire cookies httprequest post swift 1
+browser-extension javascript safari swift 1
+alamofire aswebauthenticationsession ios oauth swift 1
+google-signin ios swift swift3 1
+google-api google-oauth google-plus swift 1
+cookies swift wkwebview 1
+authentication post swift 1
+authentication firebase ios swift 1
+ios okta single-sign-on swift 1
+ios login swift yahoo-api 1
+ios javascript swift uiwebview wkwebview 1
+ios parse-platform swift xcode 1
+api php swift 1
+ios javascript swift wkwebview 1
+authentication ios swift wkwebview 1
+authentication ios session swift 1
+login swift wkwebview 1
+ios objective-c swift 1
+google-signin ios ios10.3 swift4 1
+appdelegate ios swift3 1
+nsuserdefaults swift 1
+cookies ios redirect swift wkwebview 1
+ios safari sfauthenticationsession sfsafariviewcontroller swift 1
+ios swift swift3 1
+asp.net javascript swift 1
+cookies macos safari swift 1
+alamofire ios swift 1
+cookies ios login nsurlsession swift 1
+gmail-api google-api google-oauth ios swift 1
+ios oauth-2.0 swift 1
+firebase google-signin ios swift 1
+ios swift wkwebview 1
+javascript swift wkwebview 1
+ios swift uiwebview uiwebviewdelegate 1
+ios sfsafariviewcontroller swift wkwebview 1
+appdelegate firebase firebase-authentication ios swift 1
+aswebauthenticationsession cookies swift 1
+google-drive-api ios swift2 1
+authentication firebase ios swift viewcontroller 1
+ios javascript swift uiwebview 1
+swift wkwebview wkwebviewconfiguration 1
+angularjs javascript swift 1
+gidsignin google-login google-signin ios swift 1
+google-drive-api google-signin ios swift 1
+appdelegate google-signin ios swift uiactivityindicatorview 1
+.net ios swift uiwebview 1
+ios nsurlsession swift2 xcode 1
+firebase firebase-authentication google-signin ios swift 1
+ios swift3 uiwebview xcode 1
+ios swift uber-api 1
+facebook-login firebase firebase-authentication ios swift3 1
+fbsdkloginkit fbsdksharedialog ios login swift 1
+firebase firebase-authentication firebaseui ios swift 1
+cookies ios keychain swift wkwebview 1
+api google-signin ios swift 1
+ios node.js server swift 1
+javascript safari-app-extension single-sign-on swift 1
+authentication ios saml swift wkwebview 1
+cookies ios swift watchkit 1
+authentication ios swift 1
+ios presentviewcontroller swift uitabbarcontroller 1
+ios nshttpcookie swift uiwebview wkwebview 1
+nsurlconnectiondelegate ssl swift uiwebview 1
+macos swift 1
+cookies httpcookie ios swift 1
+facebook-login ios sigabrt swift 1
+facebook facebook-oauth ios oauth-2.0 swift 1
+cookies nsurlrequest nsurlsession nsurlsessiondatatask swift 1
+ios linkedin oauth objective-c swift 1
+ios iphone swift 1
+react-native reactjs swift 1
+authentication ios single-sign-on swift wkwebview 1
+swift xcode 1
+cookies ios swift wkwebview 1
+ios nshttpcookie session-cookies swift 1
+appdelegate autologin firebase swift5.1 1
+ios swift session-cookies nshttpcookie 1
+swift firebase firebase-authentication 1
+ios swift firebase firebase-authentication google-signin 1
+swift single-sign-on session-cookies safari-extension safari-app-extension 1
+ios swift webview completionhandler aswebauthenticationsession 1
+swift linkedin-api 1
+ios swift swiftui amazon-cognito appdelegate 1
+
+
+TOPIC 16: 
+ios swift touch-id 2
+ios swift 2
+ios swift xcode 2
+ios passwords swift 1
+passwords swift 1
+firebase firebase-security swift 1
+core-foundation ios security-framework swift 1
+ios passwords swift uitextfield 1
+passwords swift xcode9 1
+ios ipad iphone security swift 1
+ios passwords swift uitextfield user-interface 1
+passwords swift textview 1
+hide passwords swift5 uitextfield xcode11 1
+fingerprint ios swift touch-id 1
+firebase ios swift3 xcode8 1
+ios oauth swift touch-id 1
+firebase login swift username xcode 1
+firebase firebase-realtime-database ios swift 1
+ios login php swift 1
+ios swift tableview uitextfield 1
+cookies swift 1
+reactive-cocoa-4 swift 1
+ios login parse-platform swift 1
+parse-platform swift 1
+ios login swift uibutton uitextfield 1
+swift3 1
+ios iphone objective-c reactive-cocoa swift 1
+ios ios12 swift uitextfield 1
+starscream swift websocket 1
+arrays swift 1
+http-post login swift swift3 1
+ios swift uitextfield 1
+swift2 touch-id 1
+google-authentication ios server-to-server swift 1
+ios swift watchkit wcsession 1
+face-id ios swift 1
+ios keyboard swift textfield 1
+ios localauthentication swift touch-id 1
+mysql swift xcode9 1
+amazon-cognito amazon-web-services aws-sdk ios swift 1
+callback delegates ios ios-frameworks swift 1
+ios swift4.2 uitextview uitextviewdelegate xcode 1
+ios observable rx-cocoa rx-swift swift 1
+ios swift storyboard uitextfield 1
+ios swift api google-sheets google-sheets-api 1
+swift amazon-web-services swiftui amazon-cognito 1
+swift5 biometrics face-id 1
+
+
+TOPIC 17: 
+swift 2
+aes encryption ios swift xcode 2
+aes encryption ios swift 2
+aes swift 2
+aes cryptoswift encryption ios swift 2
+cryptography encryption swift swift3 1
+aes cryptography encryption php swift 1
+arrays cryptography swift uint32 uint8array 1
+aes c# cryptography encryption swift 1
+class hierarchy security swift 1
+cryptography cryptoswift encryption node.js swift 1
+firebase firebase-realtime-database firebase-security-rules ios swift 1
+cryptography encryption swift 1
+automatic-ref-counting memory-safety security swift 1
+memory nsdata objective-c security swift 1
+aes cryptography encryption ios swift2.2 1
+cryptography cryptojs encryption node.js swift 1
+aes cryptography encryption ios swift 1
+cryptography cryptoswift encryption ios swift 1
+ios macos memory-management security swift 1
+aes cryptography cryptoswift swift 1
+mkpolygon swift4 1
+commoncrypto encoding encryption swift 1
+base64 encryption rncryptor swift swift3 1
+encryption swift swift3 1
+c secure-transport swift swift2 unsafe-pointers 1
+aes cryptoswift openssl ruby swift2 1
+aes java swift swift2 1
+aes c# rijndaelmanaged swift 1
+commoncrypto encryption java objective-c swift 1
+ios swift 1
+encryption ios rncryptor swift swift3 1
+encryption macos swift4 1
+aes ios swift swift4 1
+cryptoswift encryption optional swift2 1
+aes cryptoswift swift 1
+aes c# encryption rncryptor swift 1
+aes api encryption ios swift 1
+encryption php swift 1
+aes cocoa encryption file swift 1
+avassetwriter avfoundation cvpixelbuffer swift2 1
+base64 hmac javascript node.js swift 1
+cryptoswift ios swift swift3 1
+ios objective-c swift unsafe-pointers 1
+aes encryption mysql php swift 1
+cryptoswift ios javascript sha256 swift 1
+c# swift swift3 swift4 1
+md5 swift swift3 1
+ios javascript node.js receipt-validation swift 1
+aes encryption ios jwt swift 1
+encryption pki public-key-encryption swift 1
+aes encryption python swift swift3 1
+ios node.js swift 1
+aes encryption swift 1
+aes commoncrypto objective-c swift 1
+encryption ios swift swift3 1
+encryption swift 1
+aes cryptoswift ios java swift 1
+aes cryptoswift ios swift 1
+cryptoswift ios swift xcode 1
+encryption ios openssl swift 1
+encryption ios swift 1
+dependency-injection ios memory-leaks retain-cycle swift 1
+aes cryptoswift encryption swift 1
+javascript ios swift cryptojs cryptoswift 1
+ios swift encryption aes iosdeployment 1
+
+
+TOPIC 18: 
+cryptography swift 2
+ios md5 swift 2
+passwords predicate regex swift validation 1
+cryptography encoding foundation string swift 1
+bitcoin cryptography elliptic-curve swift 1
+cryptography sha256 swift vapor 1
+cryptography hash objective-c swift 1
+cycript cydia-substrate hook security swift 1
+cryptography encryption swift 1
+passwords swift xcode 1
+encryption objective-c security swift 1
+public-key-encryption security sha256 swift 1
+cryptography java sha256 swift 1
+ios qr-code security signing swift 1
+cryptography swift swift3 1
+cryptography cryptoswift hmac swift swift4 1
+cryptography hash ios swift 1
+ios security swift 1
+cryptography encryption ios swift3 1
+bcrypt hash ios passwords swift 1
+cryptography ios swift 1
+cryptography ecdsa ios swift 1
+encryption ios passwords php swift 1
+cryptography cryptoswift md5 swift swift3 1
+cryptography hash hmac node.js swift 1
+hash security swift 1
+cryptography hmac ios md5 swift 1
+ios json swift3 cryptography md5 1
+hmac sha swift 1
+ios objective-c sha swift 1
+hmac sha256 swift 1
+ios java swift3 1
+aes encryption ios objective-c swift 1
+encryption php rijndael swift 1
+swift vapor 1
+ios payu payumoney swift 1
+hash ios salt scrypt swift 1
+ios ios9 md5 swift xcode 1
+ios swift 1
+commoncrypto hmac sha512 swift xcode 1
+ios sqlite swift swift2 xcode7 1
+md5 swift 1
+ios sdk swift 1
+hash ios swift 1
+alamofire encryption hmac ios swift 1
+fosuserbundle perfect php swift symfony 1
+hmac swift3 vapor 1
+checksum commoncrypto ios md5 swift 1
+checksum digest openssl plist swift 1
+java swift 1
+hash ios python swift 1
+ios sha256 swift 1
+base64 hmacsha1 ios php swift 1
+cocoa ios java sha swift 1
+bluetooth-lowenergy ios iphone swift 1
+commoncrypto digest sha256 swift2 1
+ios pinning swift 1
+android ios java pbkdf2 swift 1
+hash php rest swift 1
+hash hmac hmacsha1 swift 1
+pointers swift 1
+alamofire post sha256 swift4 xcode9 1
+encryption swift xcode 1
+amazon-web-services hash sha signature swift 1
+commoncrypto swift2 1
+md5 swift3 xcode8 1
+crypt hash public-key-encryption swift swift4 1
+alamofire digest-authentication swift 1
+hash swift 1
+md5 sha1 swift 1
+swift5 1
+cryptoswift php swift 1
+swift amazon-s3 1
+ios json swift md5 1
+
+
+TOPIC 19: 
+ios jwt security swift 1
+cryptography ecdsa hyperledger-sawtooth ios swift 1
+cryptography java mcrypt swift 1
+cryptography ios swift 1
+encryption java objective-c pbkdf2 swift 1
+ios nsjsonserialization nsurl swift 1
+c macos pointers swift 1
+ios json rest swift 1
+fft ios swift swift3 1
+hmac ios jwt sha256 swift 1
+amazon-cognito amazon-web-services ios swift 1
+ios public-key-encryption ssl-certificate swift 1
+commoncrypto encryption pointers swift types 1
+forms ios swift validation 1
+memory-management pointers swift unsafe-pointers unsafemutablepointer 1
+ios nsurl swift 1
+ios password-protection swift xcode 1
+arrays ios json parsing swift 1
+decodable json swift4 1
+ios parse-platform swift 1
+grand-central-dispatch ios multithreading swift thread-safety 1
+swift swiftgen 1
+swift 1
+ios objective-c swift uint8t unsafemutablepointer 1
+swift unsafe-pointers swift5.2 xcode11.4 1
+ios swift xcode pointers mutable 1
+swift kotlin encryption aes apple-cryptokit 1
+c swift swiftui nsmutablearray unsafe-pointers 1
+
+
+TOPIC 20: 
+ios security swift 3
+ios sqlite swift 2
+encryption rsa swift 2
+rsa swift 2
+encryption seckeyref security swift 1
+cryptography data-protection encryption swift3 xcode 1
+cocoa cryptography encryption nsdata swift 1
+ios soap swift ws-security wss 1
+enclave ios security swift 1
+avplayer cryptography ios swift swift2 1
+cryptography encryption node.js security swift 1
+change-password cryptography encryption passwords swift 1
+encryption ios json security swift 1
+commoncrypto cryptography openssl rsa swift 1
+ios seckeyref security swift 1
+cryptography encryption ios public-key-encryption swift 1
+cryptography ios rsa swift 1
+c cryptography openssl stack swift 1
+encryption security swift 1
+base64 cryptographic-hash-function cryptography md5 swift 1
+ios key secret-key security swift 1
+cryptography encryption objective-c swift 1
+encryption ios security swift 1
+encryption ios security swift xcode 1
+cryptography enclave ios swift3 1
+cryptography ios swift 1
+ios iphone security-framework swift xcode 1
+ios seckeyref security swift xcode 1
+ios key-pair security swift 1
+elliptic-curve encryption ios security swift 1
+cryptography ios macos rsa swift 1
+apple-cryptokit cryptography ios swift 1
+bouncycastle cbc-mac cryptography ios swift 1
+swift encryption cryptography aes-gcm sealed 1
+android swift encryption cryptography aes-gcm 1
+java ios swift iphone cryptography 1
+ios swift xcode security x509 1
+ios swift security keychain 1
+ios swift security diffie-hellman 1
+ios swift security encryption key 1
+swift cryptography elliptic-curve seckeyref 1
+ios smtp swift swift3 1
+ios starttls swift x509 xmppframework 1
+aes encryption ios laravel swift 1
+encryption ios swift swift3 1
+ios openssl smime ssl swift 1
+core-data data-protection ios swift xcode 1
+realm swift 1
+codesign ios macos swift xcode 1
+php pki swift 1
+encryption ios openssl plist swift 1
+commoncrypto encryption ios openssl swift 1
+app-store ios payment-gateway swift 1
+encryption ios swift 1
+aes aes-gcm encryption ios swift4 1
+macos openssl p12 ssl-certificate swift 1
+encryption-asymmetric ios public-key-encryption seckeyref swift 1
+encryption ios keychain realm swift 1
+aes commoncrypto encryption openssl swift 1
+android encryption javascript rsa swift 1
+caching ios local-storage swift 1
+swift swift2 1
+encryption ios public-key-encryption swift 1
+ios swift x509certificate xml xml-signature 1
+ios push-notification pusher swift 1
+aes encryption key rsa swift 1
+ios swift xcode 1
+in-app-purchase openssl receipt-validation storekit swift 1
+algorithm encryption ios openssl swift 1
+encryption realm swift 1
+enclave ios swift3 1
+archive encryption ios swift xcode 1
+encryption ios javascript python swift 1
+aes encryption public-key-encryption rsa swift 1
+cocoapods ios public-key-encryption swift 1
+encryption ios swift video-encoding 1
+ios nsuserdefaults swift 1
+aes encryption ios sqlite swift 1
+c digital-signature openssl pkcs#7 swift 1
+aes ios swift 1
+ethereum ios swift web3swift 1
+ecdh encryption swift xcode 1
+java swift encryption javax.crypto apple-cryptokit 1
+swift encryption video-streaming google-cloud-storage aes 1
+swift encryption apple-cryptokit 1
+ios swift encryption rsa x509certificate 1
+
+
