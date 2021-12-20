@@ -11,5 +11,3 @@ The datasets obtained from RQ1 and examined in RQ2-6.
 Document metrics and metadata used for RQ5.
 ### Topic_Models
 The optimal topic models used for analysis in RQ3 and RQ4.
-### User_Metrics
-User metrics and metadata used for RQ6. 
